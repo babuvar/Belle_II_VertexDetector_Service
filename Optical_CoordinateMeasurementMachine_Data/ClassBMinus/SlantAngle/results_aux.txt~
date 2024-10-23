@@ -1,0 +1,63 @@
+BW 
+
+iter 1:(BW1.txt)
+
+Correct Transformed values 2
+Tilt angle(degrees) = 0.0819096 +/- 0.00771928
+Normal angle(degrees) = 0.010538 +/- 0.00365999
+parB = 0.00142959
+parA = 0.000183923
+
+iter 2:(BW2.txt)
+
+Correct Transformed values 2
+Tilt angle(degrees) = 0.08223 +/- 0.00774747
+Normal angle(degrees) = 0.0130283 +/- 0.00367331
+parB = 0.00143519
+parA = 0.000227386
+
+iter 3:(BW3.txt)
+
+Correct Transformed values 2
+Tilt angle(degrees) = 0.0817407 +/- 0.0073799
+Normal angle(degrees) = 0.013958 +/- 0.003499
+parB = 0.00142665
+parA = 0.000243614
+
+
+
+
+CE 
+
+iter 1:(CE1.txt)
+
+Correct Transformed values 2
+Tilt angle(degrees) = 1.38272e-05 +/- 0.0025892
+Normal angle(degrees) = -0.0578358 +/- 0.00122758
+parB = 2.4133e-07
+parA = -0.00100943
+
+
+iter 2:(CE2.txt)
+
+Correct Transformed values 2
+Tilt angle(degrees) = 0.00119447 +/- 0.00279436
+Normal angle(degrees) = -0.0626534 +/- 0.00132488
+parB = 2.08474e-05
+parA = -0.00109351
+
+
+iter 3:(CE3.txt)
+
+Tilt angle(degrees) = 0.00248991 +/- 0.00248519
+Normal angle(degrees) = -0.0664108 +/- 0.00117828
+parB = 4.3457e-05
+parA = -0.00115909
+
+
+
+
+
+
+
+

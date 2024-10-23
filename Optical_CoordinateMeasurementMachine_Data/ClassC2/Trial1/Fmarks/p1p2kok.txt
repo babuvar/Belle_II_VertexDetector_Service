@@ -1,0 +1,18 @@
+	
+P2 points 	
+x	554.906
+y	221.184
+z	59.212
+	
+	
+	
+P1 points	
+x	408.899
+y	221.008
+z	59.211
+	
+	
+BW kokeshi pin points	
+x	482.242
+y	83.368
+z	106.07

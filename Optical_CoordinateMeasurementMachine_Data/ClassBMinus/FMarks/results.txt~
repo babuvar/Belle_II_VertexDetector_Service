@@ -1,0 +1,185 @@
+Iter 1:
+
+FW Point-1 Shift
+xshift= 1.93249 μm	 yshift =-1308.66 μm	 zshift =447.758 μm
+
+FW Point-2 Shift
+xshift= 321.761 μm	 yshift =-1254.68 μm	 zshift =569.628 μm
+
+FW Point-3 Shift
+no data
+
+FW Point-4 Shift
+xshift= 4.62069 μm	 yshift =-1432.43 μm	 zshift =368.443 μm
+
+CE Point-1 Shift
+xshift= -88.5822 μm	 yshift =6.36892 μm	 zshift =999.52 μm
+
+CE Point-2 Shift
+xshift= -60.2177 μm	 yshift =6.87238 μm	 zshift =1115.26 μm
+
+CE Point-3 Shift
+xshift= -58.9517 μm	 yshift =-8.1231 μm	 zshift =1124.82 μm
+
+CE Point-4 Shift
+xshift= -90.0325 μm	 yshift =-5.33527 μm	 zshift =990.015 μm
+
+BW Point-1 Shift
+xshift= 29.1401 μm	 yshift =-82.9127 μm	 zshift =3.29547 μm
+
+BW Point-2 Shift
+xshift= 22.6729 μm	 yshift =-82.0947 μm	 zshift =9.03629 μm
+
+BW Point-3 Shift
+xshift= 23.0474 μm	 yshift =-79.775 μm	 zshift =64.5393 μm
+
+BW Point-4 Shift
+xshift= 28.0484 μm	 yshift =-81.3114 μm	 zshift =115.913 μm
+
+
+
+
+
+Iter 2:
+
+FW Point-1 Shift
+xshift= 2.65274 μm	 yshift =-1306.28 μm	 zshift =454.446 μm
+
+FW Point-2 Shift
+xshift= 320.326 μm	 yshift =-1255.9 μm	 zshift =570.612 μm
+
+FW Point-3 Shift
+no data
+
+FW Point-4 Shift
+xshift= 3.78669 μm	 yshift =-1431.72 μm	 zshift =371.241 μm
+
+CE Point-1 Shift
+xshift= -88.7337 μm	 yshift =6.49204 μm	 zshift =992.442 μm
+
+CE Point-2 Shift
+xshift= -57.9823 μm	 yshift =8.05042 μm	 zshift =1117.85 μm
+
+CE Point-3 Shift
+xshift= -58.5305 μm	 yshift =-5.81765 μm	 zshift =1129.39 μm
+
+CE Point-4 Shift
+xshift= -88.9791 μm	 yshift =-5.59712 μm	 zshift =983.388 μm
+
+BW Point-1 Shift
+xshift= 28.6167 μm	 yshift =-85.0444 μm	 zshift =7.67203 μm
+
+BW Point-2 Shift
+xshift= 23.6569 μm	 yshift =-82.8075 μm	 zshift =8.12037 μm
+
+BW Point-3 Shift
+xshift= 24.1363 μm	 yshift =-78.8863 μm	 zshift =63.8485 μm
+
+BW Point-4 Shift
+xshift= 29.1868 μm	 yshift =-80.3721 μm	 zshift =120.719 μm
+
+
+
+
+
+Iter 3:
+
+FW Point-1 Shift
+xshift= 3.5861 μm	 yshift =-1306.94 μm	 zshift =455.198 μm
+
+FW Point-2 Shift
+xshift= 318.373 μm	 yshift =-1253.68 μm	 zshift =569.559 μm
+
+FW Point-3 Shift
+no data
+
+FW Point-4 Shift
+xshift= 1.95839 μm	 yshift =-1431.47 μm	 zshift =370.483 μm
+
+CE Point-1 Shift
+xshift= -90.242 μm	 yshift =7.14823 μm	 zshift =985.369 μm
+
+CE Point-2 Shift
+xshift= -59.4547 μm	 yshift =7.83196 μm	 zshift =1120.04 μm
+
+CE Point-3 Shift
+xshift= -60.2222 μm	 yshift =-4.4887 μm	 zshift =1131.78 μm
+
+CE Point-4 Shift
+xshift= -87.7636 μm	 yshift =-6.83201 μm	 zshift =978.769 μm
+
+BW Point-1 Shift
+xshift= 28.748 μm	 yshift =-81.5425 μm	 zshift =9.71383 μm
+
+BW Point-2 Shift
+xshift= 22.3801 μm	 yshift =-82.6734 μm	 zshift =6.7902 μm
+
+BW Point-3 Shift
+xshift= 23.4092 μm	 yshift =-78.7204 μm	 zshift =63.3761 μm
+
+BW Point-4 Shift
+xshift= 29.7424 μm	 yshift =-82.8153 μm	 zshift =120.901 μm
+
+
+
+
+Center of Gravity Shifts
+
+BW
+
+iter 1:
+
+Shift of Center of gravity w.r.t corresponding design value
+-81.5179μm	-25.7089μm	48.1992μm
+
+Rot of sensor about its normal direction = -0.00444347
+
+
+
+iter 2:
+
+Shift of Center of gravity w.r.t corresponding design value
+-81.785μm	-26.4447μm	50.0836μm
+
+Rot of sensor about its normal direction = -0.00444347
+
+
+
+iter 3:
+
+Shift of Center of gravity w.r.t corresponding design value
+-81.4493μm	-26.0743μm	50.1981μm
+
+Rot of sensor about its normal direction = -0.00444347
+
+
+
+CE
+
+iter 1:
+
+Shift of Center of gravity w.r.t corresponding design value
+-0.0665283μm	74.4579μm	1057.42μm
+
+Rot of sensor about its normal direction = 0.0127453
+
+
+iter 2:
+
+Shift of Center of gravity w.r.t corresponding design value
+0.772705μm	73.5832μm	1055.78μm
+
+Rot of sensor about its normal direction = 0.0127453
+
+
+iter 3:
+
+Shift of Center of gravity w.r.t corresponding design value
+0.910034μm	74.4396μm	1053.98μm
+
+Rot of sensor about its normal direction = 0.0127453
+
+
+
+
+

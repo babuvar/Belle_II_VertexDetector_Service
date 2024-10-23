@@ -1,0 +1,33 @@
+
+Processing cmm.cpp...
+Reading file 'KOK'
+Reading file 'FWRand'
+'CERand' does not exist.
+The program will proceed and try to do calculations without this information
+'BWRand' does not exist.
+The program will proceed and try to do calculations without this information
+'FW_F' does not exist.
+The program will proceed and try to do calculations without this information
+'CE_F' does not exist.
+The program will proceed and try to do calculations without this information
+'BW_F' does not exist.
+The program will proceed and try to do calculations without this information
+****************************************
+Fitting of Plane performed on file: FWRand
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      1.86685
+NDf                       =          148
+Edm                       =  4.06394e-17
+NCalls                    =           64
+p0                        =      76.6682   +/-   0.0902505   
+p1                        =    -0.209871   +/-   0.000258306 
+p2                        =   0.00451148   +/-   0.00058977  
+
+Sensor Angles
+Slant angle(degrees) =-11.8527+/- 0.0147999
+Tilt angle(degrees) =0.258487+/- 0.0337913
+-----------------------------------------
+No data on CE sensor found
+No data on BW sensor found

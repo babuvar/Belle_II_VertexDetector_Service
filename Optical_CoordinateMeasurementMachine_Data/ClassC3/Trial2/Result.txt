@@ -1,0 +1,98 @@
+
+Processing cmm.cpp...
+Reading file 'KOK'
+Reading file 'FWRand'
+'CERand' does not exist.
+The program will proceed and try to do calculations without this information
+'BWRand' does not exist.
+The program will proceed and try to do calculations without this information
+Reading file 'FW_F'
+Reading file 'CE_F'
+Reading file 'BW_F'
+****************************************
+Fitting of Plane performed on file: FWRand
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =     0.486412
+NDf                       =          113
+Edm                       =  5.19906e-18
+NCalls                    =           64
+p0                        =      77.0157   +/-   0.0562021   
+p1                        =    -0.210965   +/-   0.000158711 
+p2                        =   0.00461917   +/-   0.000360344 
+
+Sensor Angles
+Slant angle(degrees) =-11.9127+/- 0.00909349
+Tilt angle(degrees) =0.264657+/- 0.0206462
+-----------------------------------------
+****************************************
+Fitting of Plane performed on file: CE_F
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =  4.12692e-05
+NDf                       =           13
+Edm                       =  4.25206e-27
+NCalls                    =           69
+p0                        =      13.5101   +/-   0.00178451  
+p1                        =  -0.00170965   +/-   7.17866e-06 
+p2                        =   0.00197159   +/-   1.51509e-05 
+
+Sensor Angles
+Slant angle(degrees) =-0.0979556+/- 0.000411307
+Tilt angle(degrees) =0.112963+/- 0.000868082
+-----------------------------------------
+****************************************
+Fitting of Plane performed on file: BW_F
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =    0.0100602
+NDf                       =           13
+Edm                       =    1.102e-07
+NCalls                    =           55
+p0                        =      13.1097   +/-   0.0147123   
+p1                        =   0.00021598   +/-   0.00011208  
+p2                        =  0.000429397   +/-   0.000236551 
+
+Sensor Angles
+Slant angle(degrees) =0.0123748+/- 0.00642173
+Tilt angle(degrees) =0.0246027+/- 0.0135534
+-----------------------------------------
+'F' mark shifts calculated for the file : FW_F
+		    (Δx		    Δy		    Δz)
+Point 1(e):	-98.9287μm	-28.8527μm	-141.452μm
+Point 2(f):	-51.6072μm	-81.0989μm	27.0075μm
+Point 3(h):	-53.3684μm	-84.6039μm	140.884μm
+Point 4(g):	-0.0394175μm	-35.5941μm	426.575μm
+$@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@
+'F' mark shifts calculated for the file : CE_F
+		    (Δx		    Δy		    Δz)
+Point 1(e):	-44.0392μm	-36.667μm	-83.6731μm
+Point 2(f):	-42.0483μm	-38.2027μm	125.349μm
+Point 3(h):	-42.8228μm	-39.1053μm	244.416μm
+Point 4(g):	-43.514μm	-37.6522μm	29.1137μm
+$@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@
+'F' mark shifts calculated for the file : BW_F
+		    (Δx		    Δy		    Δz)
+Point 1(e):	-86.4851μm	-72.2408μm	90.4056μm
+Point 2(f):	-86.4606μm	-70.227μm	113.75μm
+Point 3(h):	-86.6053μm	-70.2706μm	88.9717μm
+Point 4(g):	-86.6439μm	-73.21μm	165.914μm
+$@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@
+Full Sensor shift corresponding to the file : FW_F
+    (Δx		    Δy		    Δz)
+-50.9859μm	-57.5374μm	113.253μm
+Rotation of sensor about its normal
+Gamma(degrees) = -2.79541e-17 +/- 0.01
+Full Sensor shift corresponding to the file : CE_F
+    (Δx		    Δy		    Δz)
+-43.1061μm	-37.9068μm	78.8015μm
+Rotation of sensor about its normal
+Gamma(degrees) = -2.79541e-17 +/- 0.01
+Full Sensor shift corresponding to the file : BW_F
+    (Δx		    Δy		    Δz)
+-86.5487μm	-71.4871μm	114.76μm
+Rotation of sensor about its normal
+Gamma(degrees) = -2.79541e-17 +/- 0.01

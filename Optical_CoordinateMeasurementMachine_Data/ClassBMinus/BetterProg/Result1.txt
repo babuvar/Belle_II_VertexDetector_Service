@@ -1,0 +1,94 @@
+
+Processing cmm2.cpp...
+Reading file 'KOK'
+Reading file 'FWRand'
+'CERand' does not exist.
+The program will proceed and try to do calculations without this information
+'BWRand' does not exist.
+The program will proceed and try to do calculations without this information
+Reading file 'FW_F'
+Reading file 'CE_F'
+Reading file 'BW_F'
+TVector3 A 3D physics vector (x,y,z)=(456.385000,558.764000,87.997000) (rho,theta,phi)=(726.806679,83.045941,50.758877)
+TVector3 A 3D physics vector (x,y,z)=(450.684000,102.850000,106.297000) (rho,theta,phi)=(474.334526,77.050209,12.855248)
+****************************************
+Fitting of Plane performed on file: FWRand
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =    0.0158762
+NDf                       =          105
+Edm                       =  1.34048e-17
+NCalls                    =           65
+p0                        =      76.6297   +/-   0.0109054   
+p1                        =     -0.16983   +/-   3.00768e-05 
+p2                        =   -0.0023848   +/-   6.58789e-05 
+
+Sensor Angles
+Slant angle(degrees) =-9.6386+/- 0.00172328
+Tilt angle(degrees) =-0.136639+/- 0.00377458
+-----------------------------------------
+****************************************
+Fitting of Plane performed on file: CE_F
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =  0.000367805
+NDf                       =           13
+Edm                       =  1.66929e-20
+NCalls                    =           60
+p0                        =      14.3314   +/-   0.00531627  
+p1                        =     0.039125   +/-   2.14468e-05 
+p2                        =  2.41604e-07   +/-   4.523e-05   
+
+Sensor Angles
+Slant angle(degrees) =2.24055+/- 0.00122881
+Tilt angle(degrees) =1.38429e-05+/- 0.00259149
+-----------------------------------------
+****************************************
+Fitting of Plane performed on file: BW_F
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =   0.00326956
+NDf                       =           13
+Edm                       =   3.9326e-24
+NCalls                    =           66
+p0                        =      13.0573   +/-   0.00835815  
+p1                        =    0.0403202   +/-   6.3948e-05  
+p2                        =   0.00143075   +/-   0.000134853 
+
+Sensor Angles
+Slant angle(degrees) =2.30893+/- 0.00366395
+Tilt angle(degrees) =0.0819761+/- 0.0077265
+-----------------------------------------
+'F' mark shifts calculated for the file : FW_F
+		    (Δx		    Δy		    Δz)
+Point 1(e):	-1146.38μm	-1.93249μm	17504.2μm
+Point 2(f):	-2034.71μm	-321.761μm	12691.3μm
+Point 3(h):	-407908μm	419056μm	-123374μm
+Point 4(g):	-1266.87μm	-4.62069μm	17420μm
+$@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@
+'F' mark shifts calculated for the file : CE_F
+		    (Δx		    Δy		    Δz)
+Point 1(e):	-799.475μm	88.5822μm	13132.3μm
+Point 2(f):	-703.778μm	60.2177μm	8271.1μm
+Point 3(h):	-719.145μm	58.9517μm	8280.05μm
+Point 4(g):	-810.789μm	90.0325μm	13122.3μm
+$@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@
+'F' mark shifts calculated for the file : BW_F
+		    (Δx		    Δy		    Δz)
+Point 1(e):	-748.173μm	-29.1401μm	7120.34μm
+Point 2(f):	-647.75μm	-22.6729μm	2149.23μm
+Point 3(h):	-647.658μm	-23.0474μm	2204.78μm
+Point 4(g):	-751.089μm	-28.0484μm	7232.93μm
+$@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@ $@
+Full Sensor shift corresponding to the file : FW_F
+    (Δx		    Δy		    Δz)
+-103089μm	104682μm	-19148.6μm
+Full Sensor shift corresponding to the file : CE_F
+    (Δx		    Δy		    Δz)
+-758.297μm	74.446μm	10701.4μm
+Full Sensor shift corresponding to the file : BW_F
+    (Δx		    Δy		    Δz)
+-698.668μm	-25.7272μm	4676.82μm

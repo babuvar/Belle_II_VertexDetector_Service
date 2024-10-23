@@ -1,0 +1,6290 @@
+
+Processing AlignBWCE_Kok.cpp...
+Shift of Center of gravity w.r.t corresponding design value
+-272.581μm	11.1182μm	81.593μm
+
+
+theta = -0.15708	 SumSqErr = 1857.64
+
+theta = -0.15698	 SumSqErr = 1855.28
+
+theta = -0.15688	 SumSqErr = 1852.92
+
+theta = -0.15678	 SumSqErr = 1850.56
+
+theta = -0.15668	 SumSqErr = 1848.21
+
+theta = -0.15658	 SumSqErr = 1845.86
+
+theta = -0.15648	 SumSqErr = 1843.51
+
+theta = -0.15638	 SumSqErr = 1841.15
+
+theta = -0.15628	 SumSqErr = 1838.81
+
+theta = -0.15618	 SumSqErr = 1836.46
+
+theta = -0.15608	 SumSqErr = 1834.11
+
+theta = -0.15598	 SumSqErr = 1831.77
+
+theta = -0.15588	 SumSqErr = 1829.43
+
+theta = -0.15578	 SumSqErr = 1827.09
+
+theta = -0.15568	 SumSqErr = 1824.75
+
+theta = -0.15558	 SumSqErr = 1822.41
+
+theta = -0.15548	 SumSqErr = 1820.07
+
+theta = -0.15538	 SumSqErr = 1817.74
+
+theta = -0.15528	 SumSqErr = 1815.4
+
+theta = -0.15518	 SumSqErr = 1813.07
+
+theta = -0.15508	 SumSqErr = 1810.74
+
+theta = -0.15498	 SumSqErr = 1808.41
+
+theta = -0.15488	 SumSqErr = 1806.08
+
+theta = -0.15478	 SumSqErr = 1803.76
+
+theta = -0.15468	 SumSqErr = 1801.43
+
+theta = -0.15458	 SumSqErr = 1799.11
+
+theta = -0.15448	 SumSqErr = 1796.79
+
+theta = -0.15438	 SumSqErr = 1794.46
+
+theta = -0.15428	 SumSqErr = 1792.15
+
+theta = -0.15418	 SumSqErr = 1789.83
+
+theta = -0.15408	 SumSqErr = 1787.51
+
+theta = -0.15398	 SumSqErr = 1785.2
+
+theta = -0.15388	 SumSqErr = 1782.88
+
+theta = -0.15378	 SumSqErr = 1780.57
+
+theta = -0.15368	 SumSqErr = 1778.26
+
+theta = -0.15358	 SumSqErr = 1775.96
+
+theta = -0.15348	 SumSqErr = 1773.65
+
+theta = -0.15338	 SumSqErr = 1771.34
+
+theta = -0.15328	 SumSqErr = 1769.04
+
+theta = -0.15318	 SumSqErr = 1766.74
+
+theta = -0.15308	 SumSqErr = 1764.44
+
+theta = -0.15298	 SumSqErr = 1762.14
+
+theta = -0.15288	 SumSqErr = 1759.84
+
+theta = -0.15278	 SumSqErr = 1757.54
+
+theta = -0.15268	 SumSqErr = 1755.25
+
+theta = -0.15258	 SumSqErr = 1752.95
+
+theta = -0.15248	 SumSqErr = 1750.66
+
+theta = -0.15238	 SumSqErr = 1748.37
+
+theta = -0.15228	 SumSqErr = 1746.08
+
+theta = -0.15218	 SumSqErr = 1743.8
+
+theta = -0.15208	 SumSqErr = 1741.51
+
+theta = -0.15198	 SumSqErr = 1739.23
+
+theta = -0.15188	 SumSqErr = 1736.94
+
+theta = -0.15178	 SumSqErr = 1734.66
+
+theta = -0.15168	 SumSqErr = 1732.38
+
+theta = -0.15158	 SumSqErr = 1730.1
+
+theta = -0.15148	 SumSqErr = 1727.82
+
+theta = -0.15138	 SumSqErr = 1725.55
+
+theta = -0.15128	 SumSqErr = 1723.28
+
+theta = -0.15118	 SumSqErr = 1721
+
+theta = -0.15108	 SumSqErr = 1718.73
+
+theta = -0.15098	 SumSqErr = 1716.46
+
+theta = -0.15088	 SumSqErr = 1714.19
+
+theta = -0.15078	 SumSqErr = 1711.93
+
+theta = -0.15068	 SumSqErr = 1709.66
+
+theta = -0.15058	 SumSqErr = 1707.4
+
+theta = -0.15048	 SumSqErr = 1705.14
+
+theta = -0.15038	 SumSqErr = 1702.88
+
+theta = -0.15028	 SumSqErr = 1700.62
+
+theta = -0.15018	 SumSqErr = 1698.36
+
+theta = -0.15008	 SumSqErr = 1696.1
+
+theta = -0.14998	 SumSqErr = 1693.85
+
+theta = -0.14988	 SumSqErr = 1691.6
+
+theta = -0.14978	 SumSqErr = 1689.34
+
+theta = -0.14968	 SumSqErr = 1687.09
+
+theta = -0.14958	 SumSqErr = 1684.85
+
+theta = -0.14948	 SumSqErr = 1682.59
+
+theta = -0.14938	 SumSqErr = 1680.35
+
+theta = -0.14928	 SumSqErr = 1678.11
+
+theta = -0.14918	 SumSqErr = 1675.86
+
+theta = -0.14908	 SumSqErr = 1673.62
+
+theta = -0.148979	 SumSqErr = 1671.38
+
+theta = -0.148879	 SumSqErr = 1669.14
+
+theta = -0.148779	 SumSqErr = 1666.9
+
+theta = -0.148679	 SumSqErr = 1664.67
+
+theta = -0.148579	 SumSqErr = 1662.44
+
+theta = -0.148479	 SumSqErr = 1660.2
+
+theta = -0.148379	 SumSqErr = 1657.97
+
+theta = -0.148279	 SumSqErr = 1655.75
+
+theta = -0.148179	 SumSqErr = 1653.52
+
+theta = -0.148079	 SumSqErr = 1651.29
+
+theta = -0.147979	 SumSqErr = 1649.07
+
+theta = -0.147879	 SumSqErr = 1646.84
+
+theta = -0.147779	 SumSqErr = 1644.62
+
+theta = -0.147679	 SumSqErr = 1642.4
+
+theta = -0.147579	 SumSqErr = 1640.18
+
+theta = -0.147479	 SumSqErr = 1637.96
+
+theta = -0.147379	 SumSqErr = 1635.75
+
+theta = -0.147279	 SumSqErr = 1633.53
+
+theta = -0.147179	 SumSqErr = 1631.32
+
+theta = -0.147079	 SumSqErr = 1629.11
+
+theta = -0.146979	 SumSqErr = 1626.9
+
+theta = -0.146879	 SumSqErr = 1624.69
+
+theta = -0.146779	 SumSqErr = 1622.48
+
+theta = -0.146679	 SumSqErr = 1620.28
+
+theta = -0.146579	 SumSqErr = 1618.07
+
+theta = -0.146479	 SumSqErr = 1615.87
+
+theta = -0.146379	 SumSqErr = 1613.67
+
+theta = -0.146279	 SumSqErr = 1611.47
+
+theta = -0.146179	 SumSqErr = 1609.27
+
+theta = -0.146079	 SumSqErr = 1607.08
+
+theta = -0.145979	 SumSqErr = 1604.88
+
+theta = -0.145879	 SumSqErr = 1602.69
+
+theta = -0.145779	 SumSqErr = 1600.5
+
+theta = -0.145679	 SumSqErr = 1598.31
+
+theta = -0.145579	 SumSqErr = 1596.12
+
+theta = -0.145479	 SumSqErr = 1593.93
+
+theta = -0.145379	 SumSqErr = 1591.74
+
+theta = -0.145279	 SumSqErr = 1589.56
+
+theta = -0.145179	 SumSqErr = 1587.38
+
+theta = -0.145079	 SumSqErr = 1585.19
+
+theta = -0.144979	 SumSqErr = 1583.01
+
+theta = -0.144879	 SumSqErr = 1580.83
+
+theta = -0.144779	 SumSqErr = 1578.66
+
+theta = -0.144679	 SumSqErr = 1576.48
+
+theta = -0.144579	 SumSqErr = 1574.31
+
+theta = -0.144479	 SumSqErr = 1572.14
+
+theta = -0.144379	 SumSqErr = 1569.97
+
+theta = -0.144279	 SumSqErr = 1567.8
+
+theta = -0.144179	 SumSqErr = 1565.63
+
+theta = -0.144079	 SumSqErr = 1563.46
+
+theta = -0.143979	 SumSqErr = 1561.3
+
+theta = -0.143879	 SumSqErr = 1559.13
+
+theta = -0.143779	 SumSqErr = 1556.97
+
+theta = -0.143679	 SumSqErr = 1554.81
+
+theta = -0.143579	 SumSqErr = 1552.65
+
+theta = -0.143479	 SumSqErr = 1550.49
+
+theta = -0.143379	 SumSqErr = 1548.34
+
+theta = -0.143279	 SumSqErr = 1546.18
+
+theta = -0.143179	 SumSqErr = 1544.03
+
+theta = -0.143079	 SumSqErr = 1541.88
+
+theta = -0.142979	 SumSqErr = 1539.73
+
+theta = -0.142879	 SumSqErr = 1537.58
+
+theta = -0.142779	 SumSqErr = 1535.43
+
+theta = -0.142679	 SumSqErr = 1533.28
+
+theta = -0.142579	 SumSqErr = 1531.14
+
+theta = -0.142479	 SumSqErr = 1529
+
+theta = -0.142379	 SumSqErr = 1526.85
+
+theta = -0.142279	 SumSqErr = 1524.72
+
+theta = -0.142179	 SumSqErr = 1522.58
+
+theta = -0.142079	 SumSqErr = 1520.44
+
+theta = -0.141979	 SumSqErr = 1518.31
+
+theta = -0.141879	 SumSqErr = 1516.17
+
+theta = -0.141779	 SumSqErr = 1514.04
+
+theta = -0.141679	 SumSqErr = 1511.91
+
+theta = -0.141579	 SumSqErr = 1509.78
+
+theta = -0.141479	 SumSqErr = 1507.65
+
+theta = -0.141379	 SumSqErr = 1505.53
+
+theta = -0.141279	 SumSqErr = 1503.4
+
+theta = -0.141179	 SumSqErr = 1501.28
+
+theta = -0.141079	 SumSqErr = 1499.15
+
+theta = -0.140979	 SumSqErr = 1497.04
+
+theta = -0.140879	 SumSqErr = 1494.92
+
+theta = -0.140779	 SumSqErr = 1492.8
+
+theta = -0.140679	 SumSqErr = 1490.68
+
+theta = -0.140579	 SumSqErr = 1488.57
+
+theta = -0.140479	 SumSqErr = 1486.46
+
+theta = -0.140379	 SumSqErr = 1484.34
+
+theta = -0.140279	 SumSqErr = 1482.23
+
+theta = -0.140179	 SumSqErr = 1480.13
+
+theta = -0.140079	 SumSqErr = 1478.02
+
+theta = -0.139979	 SumSqErr = 1475.91
+
+theta = -0.139879	 SumSqErr = 1473.81
+
+theta = -0.139779	 SumSqErr = 1471.71
+
+theta = -0.139679	 SumSqErr = 1469.6
+
+theta = -0.139579	 SumSqErr = 1467.5
+
+theta = -0.139479	 SumSqErr = 1465.41
+
+theta = -0.139379	 SumSqErr = 1463.31
+
+theta = -0.139279	 SumSqErr = 1461.22
+
+theta = -0.139179	 SumSqErr = 1459.12
+
+theta = -0.139079	 SumSqErr = 1457.03
+
+theta = -0.138979	 SumSqErr = 1454.94
+
+theta = -0.138879	 SumSqErr = 1452.85
+
+theta = -0.138779	 SumSqErr = 1450.76
+
+theta = -0.138679	 SumSqErr = 1448.68
+
+theta = -0.138579	 SumSqErr = 1446.59
+
+theta = -0.138479	 SumSqErr = 1444.51
+
+theta = -0.138379	 SumSqErr = 1442.43
+
+theta = -0.138279	 SumSqErr = 1440.35
+
+theta = -0.138179	 SumSqErr = 1438.27
+
+theta = -0.138079	 SumSqErr = 1436.19
+
+theta = -0.137979	 SumSqErr = 1434.12
+
+theta = -0.137879	 SumSqErr = 1432.05
+
+theta = -0.137779	 SumSqErr = 1429.97
+
+theta = -0.137679	 SumSqErr = 1427.9
+
+theta = -0.137579	 SumSqErr = 1425.83
+
+theta = -0.137479	 SumSqErr = 1423.76
+
+theta = -0.137379	 SumSqErr = 1421.69
+
+theta = -0.137279	 SumSqErr = 1419.63
+
+theta = -0.137179	 SumSqErr = 1417.57
+
+theta = -0.137079	 SumSqErr = 1415.5
+
+theta = -0.136979	 SumSqErr = 1413.44
+
+theta = -0.136879	 SumSqErr = 1411.39
+
+theta = -0.136779	 SumSqErr = 1409.33
+
+theta = -0.136679	 SumSqErr = 1407.27
+
+theta = -0.136579	 SumSqErr = 1405.22
+
+theta = -0.136479	 SumSqErr = 1403.16
+
+theta = -0.136379	 SumSqErr = 1401.11
+
+theta = -0.136279	 SumSqErr = 1399.06
+
+theta = -0.136179	 SumSqErr = 1397.01
+
+theta = -0.136079	 SumSqErr = 1394.97
+
+theta = -0.135979	 SumSqErr = 1392.92
+
+theta = -0.135879	 SumSqErr = 1390.88
+
+theta = -0.135779	 SumSqErr = 1388.84
+
+theta = -0.135679	 SumSqErr = 1386.79
+
+theta = -0.135579	 SumSqErr = 1384.75
+
+theta = -0.135479	 SumSqErr = 1382.72
+
+theta = -0.135379	 SumSqErr = 1380.68
+
+theta = -0.135279	 SumSqErr = 1378.64
+
+theta = -0.135179	 SumSqErr = 1376.61
+
+theta = -0.135079	 SumSqErr = 1374.58
+
+theta = -0.134979	 SumSqErr = 1372.55
+
+theta = -0.134879	 SumSqErr = 1370.52
+
+theta = -0.134779	 SumSqErr = 1368.49
+
+theta = -0.134679	 SumSqErr = 1366.46
+
+theta = -0.134579	 SumSqErr = 1364.44
+
+theta = -0.134479	 SumSqErr = 1362.42
+
+theta = -0.134379	 SumSqErr = 1360.39
+
+theta = -0.134279	 SumSqErr = 1358.37
+
+theta = -0.134179	 SumSqErr = 1356.36
+
+theta = -0.134079	 SumSqErr = 1354.34
+
+theta = -0.133979	 SumSqErr = 1352.32
+
+theta = -0.133879	 SumSqErr = 1350.31
+
+theta = -0.133779	 SumSqErr = 1348.29
+
+theta = -0.133679	 SumSqErr = 1346.28
+
+theta = -0.133579	 SumSqErr = 1344.28
+
+theta = -0.133479	 SumSqErr = 1342.27
+
+theta = -0.133379	 SumSqErr = 1340.26
+
+theta = -0.133279	 SumSqErr = 1338.25
+
+theta = -0.133179	 SumSqErr = 1336.25
+
+theta = -0.133079	 SumSqErr = 1334.25
+
+theta = -0.132979	 SumSqErr = 1332.25
+
+theta = -0.132879	 SumSqErr = 1330.25
+
+theta = -0.132779	 SumSqErr = 1328.25
+
+theta = -0.132679	 SumSqErr = 1326.25
+
+theta = -0.132579	 SumSqErr = 1324.26
+
+theta = -0.132479	 SumSqErr = 1322.27
+
+theta = -0.132379	 SumSqErr = 1320.27
+
+theta = -0.132279	 SumSqErr = 1318.28
+
+theta = -0.132179	 SumSqErr = 1316.29
+
+theta = -0.132079	 SumSqErr = 1314.31
+
+theta = -0.131979	 SumSqErr = 1312.32
+
+theta = -0.131879	 SumSqErr = 1310.34
+
+theta = -0.131779	 SumSqErr = 1308.35
+
+theta = -0.131679	 SumSqErr = 1306.37
+
+theta = -0.131579	 SumSqErr = 1304.39
+
+theta = -0.131479	 SumSqErr = 1302.42
+
+theta = -0.131379	 SumSqErr = 1300.44
+
+theta = -0.131279	 SumSqErr = 1298.46
+
+theta = -0.131179	 SumSqErr = 1296.49
+
+theta = -0.131079	 SumSqErr = 1294.52
+
+theta = -0.130979	 SumSqErr = 1292.55
+
+theta = -0.130879	 SumSqErr = 1290.58
+
+theta = -0.130779	 SumSqErr = 1288.61
+
+theta = -0.130679	 SumSqErr = 1286.64
+
+theta = -0.130579	 SumSqErr = 1284.68
+
+theta = -0.130479	 SumSqErr = 1282.72
+
+theta = -0.130379	 SumSqErr = 1280.75
+
+theta = -0.130279	 SumSqErr = 1278.79
+
+theta = -0.130179	 SumSqErr = 1276.83
+
+theta = -0.130079	 SumSqErr = 1274.88
+
+theta = -0.129979	 SumSqErr = 1272.92
+
+theta = -0.129879	 SumSqErr = 1270.97
+
+theta = -0.129779	 SumSqErr = 1269.01
+
+theta = -0.129679	 SumSqErr = 1267.06
+
+theta = -0.129579	 SumSqErr = 1265.11
+
+theta = -0.129479	 SumSqErr = 1263.16
+
+theta = -0.129379	 SumSqErr = 1261.21
+
+theta = -0.129279	 SumSqErr = 1259.27
+
+theta = -0.129179	 SumSqErr = 1257.32
+
+theta = -0.129079	 SumSqErr = 1255.38
+
+theta = -0.128979	 SumSqErr = 1253.44
+
+theta = -0.128879	 SumSqErr = 1251.5
+
+theta = -0.128779	 SumSqErr = 1249.56
+
+theta = -0.128679	 SumSqErr = 1247.63
+
+theta = -0.128579	 SumSqErr = 1245.69
+
+theta = -0.128479	 SumSqErr = 1243.76
+
+theta = -0.128379	 SumSqErr = 1241.83
+
+theta = -0.128279	 SumSqErr = 1239.9
+
+theta = -0.128179	 SumSqErr = 1237.97
+
+theta = -0.128079	 SumSqErr = 1236.04
+
+theta = -0.127979	 SumSqErr = 1234.12
+
+theta = -0.127879	 SumSqErr = 1232.19
+
+theta = -0.127779	 SumSqErr = 1230.27
+
+theta = -0.127679	 SumSqErr = 1228.35
+
+theta = -0.127579	 SumSqErr = 1226.43
+
+theta = -0.127479	 SumSqErr = 1224.51
+
+theta = -0.127379	 SumSqErr = 1222.59
+
+theta = -0.127279	 SumSqErr = 1220.67
+
+theta = -0.127179	 SumSqErr = 1218.76
+
+theta = -0.127079	 SumSqErr = 1216.84
+
+theta = -0.126979	 SumSqErr = 1214.94
+
+theta = -0.126879	 SumSqErr = 1213.03
+
+theta = -0.126779	 SumSqErr = 1211.12
+
+theta = -0.126679	 SumSqErr = 1209.21
+
+theta = -0.126579	 SumSqErr = 1207.31
+
+theta = -0.126479	 SumSqErr = 1205.4
+
+theta = -0.126379	 SumSqErr = 1203.5
+
+theta = -0.126279	 SumSqErr = 1201.6
+
+theta = -0.126179	 SumSqErr = 1199.7
+
+theta = -0.126079	 SumSqErr = 1197.8
+
+theta = -0.125979	 SumSqErr = 1195.91
+
+theta = -0.125879	 SumSqErr = 1194.01
+
+theta = -0.125779	 SumSqErr = 1192.12
+
+theta = -0.125679	 SumSqErr = 1190.23
+
+theta = -0.125579	 SumSqErr = 1188.34
+
+theta = -0.125479	 SumSqErr = 1186.45
+
+theta = -0.125379	 SumSqErr = 1184.56
+
+theta = -0.125279	 SumSqErr = 1182.68
+
+theta = -0.125179	 SumSqErr = 1180.79
+
+theta = -0.125079	 SumSqErr = 1178.91
+
+theta = -0.124979	 SumSqErr = 1177.03
+
+theta = -0.124879	 SumSqErr = 1175.15
+
+theta = -0.124779	 SumSqErr = 1173.27
+
+theta = -0.124679	 SumSqErr = 1171.4
+
+theta = -0.124579	 SumSqErr = 1169.52
+
+theta = -0.124479	 SumSqErr = 1167.65
+
+theta = -0.124379	 SumSqErr = 1165.77
+
+theta = -0.124279	 SumSqErr = 1163.91
+
+theta = -0.124179	 SumSqErr = 1162.04
+
+theta = -0.124079	 SumSqErr = 1160.17
+
+theta = -0.123979	 SumSqErr = 1158.3
+
+theta = -0.123879	 SumSqErr = 1156.44
+
+theta = -0.123779	 SumSqErr = 1154.57
+
+theta = -0.123679	 SumSqErr = 1152.71
+
+theta = -0.123579	 SumSqErr = 1150.85
+
+theta = -0.123479	 SumSqErr = 1148.99
+
+theta = -0.123379	 SumSqErr = 1147.14
+
+theta = -0.123279	 SumSqErr = 1145.28
+
+theta = -0.123179	 SumSqErr = 1143.43
+
+theta = -0.123079	 SumSqErr = 1141.57
+
+theta = -0.122979	 SumSqErr = 1139.72
+
+theta = -0.122879	 SumSqErr = 1137.87
+
+theta = -0.122779	 SumSqErr = 1136.02
+
+theta = -0.122679	 SumSqErr = 1134.18
+
+theta = -0.122579	 SumSqErr = 1132.33
+
+theta = -0.122479	 SumSqErr = 1130.49
+
+theta = -0.122379	 SumSqErr = 1128.65
+
+theta = -0.122279	 SumSqErr = 1126.81
+
+theta = -0.122179	 SumSqErr = 1124.97
+
+theta = -0.122079	 SumSqErr = 1123.13
+
+theta = -0.121979	 SumSqErr = 1121.29
+
+theta = -0.121879	 SumSqErr = 1119.46
+
+theta = -0.121779	 SumSqErr = 1117.63
+
+theta = -0.121679	 SumSqErr = 1115.79
+
+theta = -0.121579	 SumSqErr = 1113.96
+
+theta = -0.121479	 SumSqErr = 1112.13
+
+theta = -0.121379	 SumSqErr = 1110.31
+
+theta = -0.121279	 SumSqErr = 1108.48
+
+theta = -0.121179	 SumSqErr = 1106.66
+
+theta = -0.121079	 SumSqErr = 1104.84
+
+theta = -0.120979	 SumSqErr = 1103.01
+
+theta = -0.120879	 SumSqErr = 1101.19
+
+theta = -0.120779	 SumSqErr = 1099.38
+
+theta = -0.120679	 SumSqErr = 1097.56
+
+theta = -0.120579	 SumSqErr = 1095.74
+
+theta = -0.120479	 SumSqErr = 1093.93
+
+theta = -0.120379	 SumSqErr = 1092.12
+
+theta = -0.120279	 SumSqErr = 1090.31
+
+theta = -0.120179	 SumSqErr = 1088.5
+
+theta = -0.120079	 SumSqErr = 1086.69
+
+theta = -0.119979	 SumSqErr = 1084.88
+
+theta = -0.119879	 SumSqErr = 1083.08
+
+theta = -0.119779	 SumSqErr = 1081.28
+
+theta = -0.119679	 SumSqErr = 1079.47
+
+theta = -0.119579	 SumSqErr = 1077.67
+
+theta = -0.119479	 SumSqErr = 1075.87
+
+theta = -0.119379	 SumSqErr = 1074.08
+
+theta = -0.119279	 SumSqErr = 1072.28
+
+theta = -0.119179	 SumSqErr = 1070.49
+
+theta = -0.119079	 SumSqErr = 1068.69
+
+theta = -0.118979	 SumSqErr = 1066.9
+
+theta = -0.118879	 SumSqErr = 1065.11
+
+theta = -0.118779	 SumSqErr = 1063.33
+
+theta = -0.118679	 SumSqErr = 1061.54
+
+theta = -0.118579	 SumSqErr = 1059.75
+
+theta = -0.118479	 SumSqErr = 1057.97
+
+theta = -0.118379	 SumSqErr = 1056.19
+
+theta = -0.118279	 SumSqErr = 1054.41
+
+theta = -0.118179	 SumSqErr = 1052.63
+
+theta = -0.118079	 SumSqErr = 1050.85
+
+theta = -0.117979	 SumSqErr = 1049.07
+
+theta = -0.117879	 SumSqErr = 1047.3
+
+theta = -0.117779	 SumSqErr = 1045.52
+
+theta = -0.117679	 SumSqErr = 1043.75
+
+theta = -0.117579	 SumSqErr = 1041.98
+
+theta = -0.117479	 SumSqErr = 1040.21
+
+theta = -0.117379	 SumSqErr = 1038.45
+
+theta = -0.117279	 SumSqErr = 1036.68
+
+theta = -0.117179	 SumSqErr = 1034.92
+
+theta = -0.117079	 SumSqErr = 1033.15
+
+theta = -0.116979	 SumSqErr = 1031.39
+
+theta = -0.116879	 SumSqErr = 1029.63
+
+theta = -0.116779	 SumSqErr = 1027.88
+
+theta = -0.116679	 SumSqErr = 1026.12
+
+theta = -0.116579	 SumSqErr = 1024.36
+
+theta = -0.116479	 SumSqErr = 1022.61
+
+theta = -0.116379	 SumSqErr = 1020.86
+
+theta = -0.116279	 SumSqErr = 1019.11
+
+theta = -0.116179	 SumSqErr = 1017.36
+
+theta = -0.116079	 SumSqErr = 1015.61
+
+theta = -0.115979	 SumSqErr = 1013.86
+
+theta = -0.115879	 SumSqErr = 1012.12
+
+theta = -0.115779	 SumSqErr = 1010.37
+
+theta = -0.115679	 SumSqErr = 1008.63
+
+theta = -0.115579	 SumSqErr = 1006.89
+
+theta = -0.115479	 SumSqErr = 1005.15
+
+theta = -0.115379	 SumSqErr = 1003.42
+
+theta = -0.115279	 SumSqErr = 1001.68
+
+theta = -0.115179	 SumSqErr = 999.945
+
+theta = -0.115079	 SumSqErr = 998.212
+
+theta = -0.114979	 SumSqErr = 996.482
+
+theta = -0.114879	 SumSqErr = 994.752
+
+theta = -0.114779	 SumSqErr = 993.023
+
+theta = -0.114679	 SumSqErr = 991.297
+
+theta = -0.114579	 SumSqErr = 989.572
+
+theta = -0.114479	 SumSqErr = 987.848
+
+theta = -0.114379	 SumSqErr = 986.125
+
+theta = -0.114279	 SumSqErr = 984.404
+
+theta = -0.114179	 SumSqErr = 982.686
+
+theta = -0.114079	 SumSqErr = 980.967
+
+theta = -0.113979	 SumSqErr = 979.249
+
+theta = -0.113879	 SumSqErr = 977.536
+
+theta = -0.113779	 SumSqErr = 975.822
+
+theta = -0.113679	 SumSqErr = 974.112
+
+theta = -0.113579	 SumSqErr = 972.401
+
+theta = -0.113479	 SumSqErr = 970.692
+
+theta = -0.113379	 SumSqErr = 968.984
+
+theta = -0.113279	 SumSqErr = 967.278
+
+theta = -0.113179	 SumSqErr = 965.574
+
+theta = -0.113079	 SumSqErr = 963.872
+
+theta = -0.112979	 SumSqErr = 962.17
+
+theta = -0.112879	 SumSqErr = 960.47
+
+theta = -0.112779	 SumSqErr = 958.772
+
+theta = -0.112679	 SumSqErr = 957.074
+
+theta = -0.112579	 SumSqErr = 955.38
+
+theta = -0.112479	 SumSqErr = 953.687
+
+theta = -0.112379	 SumSqErr = 951.993
+
+theta = -0.112279	 SumSqErr = 950.303
+
+theta = -0.112179	 SumSqErr = 948.613
+
+theta = -0.112079	 SumSqErr = 946.925
+
+theta = -0.111979	 SumSqErr = 945.238
+
+theta = -0.111879	 SumSqErr = 943.554
+
+theta = -0.111779	 SumSqErr = 941.871
+
+theta = -0.111679	 SumSqErr = 940.189
+
+theta = -0.111579	 SumSqErr = 938.509
+
+theta = -0.111479	 SumSqErr = 936.83
+
+theta = -0.111379	 SumSqErr = 935.152
+
+theta = -0.111279	 SumSqErr = 933.476
+
+theta = -0.111179	 SumSqErr = 931.802
+
+theta = -0.111079	 SumSqErr = 930.128
+
+theta = -0.110979	 SumSqErr = 928.457
+
+theta = -0.110879	 SumSqErr = 926.787
+
+theta = -0.110779	 SumSqErr = 925.121
+
+theta = -0.110679	 SumSqErr = 923.452
+
+theta = -0.110579	 SumSqErr = 921.786
+
+theta = -0.110479	 SumSqErr = 920.123
+
+theta = -0.110379	 SumSqErr = 918.461
+
+theta = -0.110279	 SumSqErr = 916.8
+
+theta = -0.110179	 SumSqErr = 915.141
+
+theta = -0.110079	 SumSqErr = 913.483
+
+theta = -0.109979	 SumSqErr = 911.827
+
+theta = -0.109879	 SumSqErr = 910.171
+
+theta = -0.109779	 SumSqErr = 908.518
+
+theta = -0.109679	 SumSqErr = 906.868
+
+theta = -0.109579	 SumSqErr = 905.214
+
+theta = -0.109479	 SumSqErr = 903.568
+
+theta = -0.109379	 SumSqErr = 901.921
+
+theta = -0.109279	 SumSqErr = 900.273
+
+theta = -0.109179	 SumSqErr = 898.629
+
+theta = -0.109079	 SumSqErr = 896.988
+
+theta = -0.108979	 SumSqErr = 895.345
+
+theta = -0.108879	 SumSqErr = 893.705
+
+theta = -0.108779	 SumSqErr = 892.067
+
+theta = -0.108679	 SumSqErr = 890.431
+
+theta = -0.108579	 SumSqErr = 888.795
+
+theta = -0.108479	 SumSqErr = 887.161
+
+theta = -0.108379	 SumSqErr = 885.529
+
+theta = -0.108279	 SumSqErr = 883.899
+
+theta = -0.108179	 SumSqErr = 882.266
+
+theta = -0.108079	 SumSqErr = 880.641
+
+theta = -0.107979	 SumSqErr = 879.014
+
+theta = -0.107879	 SumSqErr = 877.391
+
+theta = -0.107779	 SumSqErr = 875.765
+
+theta = -0.107679	 SumSqErr = 874.144
+
+theta = -0.107579	 SumSqErr = 872.523
+
+theta = -0.107479	 SumSqErr = 870.906
+
+theta = -0.107379	 SumSqErr = 869.287
+
+theta = -0.107279	 SumSqErr = 867.672
+
+theta = -0.107179	 SumSqErr = 866.056
+
+theta = -0.107079	 SumSqErr = 864.442
+
+theta = -0.106979	 SumSqErr = 862.834
+
+theta = -0.106879	 SumSqErr = 861.223
+
+theta = -0.106779	 SumSqErr = 859.614
+
+theta = -0.106679	 SumSqErr = 858.008
+
+theta = -0.106579	 SumSqErr = 856.403
+
+theta = -0.106479	 SumSqErr = 854.799
+
+theta = -0.106379	 SumSqErr = 853.197
+
+theta = -0.106279	 SumSqErr = 851.595
+
+theta = -0.106179	 SumSqErr = 849.995
+
+theta = -0.106079	 SumSqErr = 848.398
+
+theta = -0.105979	 SumSqErr = 846.802
+
+theta = -0.105879	 SumSqErr = 845.208
+
+theta = -0.105779	 SumSqErr = 843.614
+
+theta = -0.105679	 SumSqErr = 842.021
+
+theta = -0.105579	 SumSqErr = 840.432
+
+theta = -0.105479	 SumSqErr = 838.842
+
+theta = -0.105379	 SumSqErr = 837.255
+
+theta = -0.105279	 SumSqErr = 835.67
+
+theta = -0.105179	 SumSqErr = 834.084
+
+theta = -0.105079	 SumSqErr = 832.502
+
+theta = -0.104979	 SumSqErr = 830.921
+
+theta = -0.104879	 SumSqErr = 829.341
+
+theta = -0.104779	 SumSqErr = 827.764
+
+theta = -0.104679	 SumSqErr = 826.185
+
+theta = -0.104579	 SumSqErr = 824.611
+
+theta = -0.104479	 SumSqErr = 823.038
+
+theta = -0.104379	 SumSqErr = 821.465
+
+theta = -0.104279	 SumSqErr = 819.893
+
+theta = -0.104179	 SumSqErr = 818.324
+
+theta = -0.104079	 SumSqErr = 816.756
+
+theta = -0.103979	 SumSqErr = 815.191
+
+theta = -0.103879	 SumSqErr = 813.625
+
+theta = -0.103779	 SumSqErr = 812.06
+
+theta = -0.103679	 SumSqErr = 810.499
+
+theta = -0.103579	 SumSqErr = 808.94
+
+theta = -0.103479	 SumSqErr = 807.379
+
+theta = -0.103379	 SumSqErr = 805.824
+
+theta = -0.103279	 SumSqErr = 804.267
+
+theta = -0.103179	 SumSqErr = 802.712
+
+theta = -0.103079	 SumSqErr = 801.159
+
+theta = -0.102979	 SumSqErr = 799.609
+
+theta = -0.102879	 SumSqErr = 798.059
+
+theta = -0.102779	 SumSqErr = 796.511
+
+theta = -0.102679	 SumSqErr = 794.963
+
+theta = -0.102579	 SumSqErr = 793.418
+
+theta = -0.102479	 SumSqErr = 791.874
+
+theta = -0.102379	 SumSqErr = 790.332
+
+theta = -0.102279	 SumSqErr = 788.79
+
+theta = -0.102179	 SumSqErr = 787.252
+
+theta = -0.102079	 SumSqErr = 785.714
+
+theta = -0.101979	 SumSqErr = 784.178
+
+theta = -0.101879	 SumSqErr = 782.642
+
+theta = -0.101779	 SumSqErr = 781.109
+
+theta = -0.101679	 SumSqErr = 779.578
+
+theta = -0.101579	 SumSqErr = 778.046
+
+theta = -0.101479	 SumSqErr = 776.519
+
+theta = -0.101379	 SumSqErr = 774.991
+
+theta = -0.101279	 SumSqErr = 773.464
+
+theta = -0.101179	 SumSqErr = 771.941
+
+theta = -0.101079	 SumSqErr = 770.417
+
+theta = -0.100979	 SumSqErr = 768.896
+
+theta = -0.100879	 SumSqErr = 767.377
+
+theta = -0.100779	 SumSqErr = 765.858
+
+theta = -0.100679	 SumSqErr = 764.341
+
+theta = -0.100579	 SumSqErr = 762.827
+
+theta = -0.100479	 SumSqErr = 761.312
+
+theta = -0.100379	 SumSqErr = 759.801
+
+theta = -0.100279	 SumSqErr = 758.29
+
+theta = -0.100179	 SumSqErr = 756.78
+
+theta = -0.100079	 SumSqErr = 755.272
+
+theta = -0.0999787	 SumSqErr = 753.766
+
+theta = -0.0998787	 SumSqErr = 752.258
+
+theta = -0.0997787	 SumSqErr = 750.758
+
+theta = -0.0996787	 SumSqErr = 749.256
+
+theta = -0.0995787	 SumSqErr = 747.756
+
+theta = -0.0994787	 SumSqErr = 746.256
+
+theta = -0.0993787	 SumSqErr = 744.759
+
+theta = -0.0992787	 SumSqErr = 743.263
+
+theta = -0.0991787	 SumSqErr = 741.768
+
+theta = -0.0990787	 SumSqErr = 740.276
+
+theta = -0.0989787	 SumSqErr = 738.785
+
+theta = -0.0988787	 SumSqErr = 737.295
+
+theta = -0.0987787	 SumSqErr = 735.808
+
+theta = -0.0986786	 SumSqErr = 734.321
+
+theta = -0.0985786	 SumSqErr = 732.835
+
+theta = -0.0984786	 SumSqErr = 731.35
+
+theta = -0.0983786	 SumSqErr = 729.868
+
+theta = -0.0982786	 SumSqErr = 728.387
+
+theta = -0.0981786	 SumSqErr = 726.908
+
+theta = -0.0980786	 SumSqErr = 725.43
+
+theta = -0.0979786	 SumSqErr = 723.954
+
+theta = -0.0978786	 SumSqErr = 722.479
+
+theta = -0.0977786	 SumSqErr = 721.007
+
+theta = -0.0976786	 SumSqErr = 719.534
+
+theta = -0.0975786	 SumSqErr = 718.065
+
+theta = -0.0974786	 SumSqErr = 716.594
+
+theta = -0.0973786	 SumSqErr = 715.128
+
+theta = -0.0972786	 SumSqErr = 713.664
+
+theta = -0.0971786	 SumSqErr = 712.199
+
+theta = -0.0970786	 SumSqErr = 710.735
+
+theta = -0.0969786	 SumSqErr = 709.272
+
+theta = -0.0968786	 SumSqErr = 707.813
+
+theta = -0.0967786	 SumSqErr = 706.357
+
+theta = -0.0966786	 SumSqErr = 704.899
+
+theta = -0.0965786	 SumSqErr = 703.444
+
+theta = -0.0964786	 SumSqErr = 701.991
+
+theta = -0.0963786	 SumSqErr = 700.537
+
+theta = -0.0962786	 SumSqErr = 699.087
+
+theta = -0.0961786	 SumSqErr = 697.638
+
+theta = -0.0960786	 SumSqErr = 696.19
+
+theta = -0.0959786	 SumSqErr = 694.744
+
+theta = -0.0958786	 SumSqErr = 693.3
+
+theta = -0.0957786	 SumSqErr = 691.855
+
+theta = -0.0956786	 SumSqErr = 690.413
+
+theta = -0.0955786	 SumSqErr = 688.975
+
+theta = -0.0954786	 SumSqErr = 687.534
+
+theta = -0.0953786	 SumSqErr = 686.098
+
+theta = -0.0952786	 SumSqErr = 684.661
+
+theta = -0.0951786	 SumSqErr = 683.227
+
+theta = -0.0950786	 SumSqErr = 681.796
+
+theta = -0.0949786	 SumSqErr = 680.362
+
+theta = -0.0948786	 SumSqErr = 678.933
+
+theta = -0.0947786	 SumSqErr = 677.505
+
+theta = -0.0946786	 SumSqErr = 676.078
+
+theta = -0.0945786	 SumSqErr = 674.654
+
+theta = -0.0944786	 SumSqErr = 673.229
+
+theta = -0.0943786	 SumSqErr = 671.808
+
+theta = -0.0942786	 SumSqErr = 670.386
+
+theta = -0.0941786	 SumSqErr = 668.967
+
+theta = -0.0940786	 SumSqErr = 667.549
+
+theta = -0.0939786	 SumSqErr = 666.133
+
+theta = -0.0938786	 SumSqErr = 664.719
+
+theta = -0.0937786	 SumSqErr = 663.307
+
+theta = -0.0936786	 SumSqErr = 661.895
+
+theta = -0.0935786	 SumSqErr = 660.483
+
+theta = -0.0934786	 SumSqErr = 659.075
+
+theta = -0.0933786	 SumSqErr = 657.668
+
+theta = -0.0932786	 SumSqErr = 656.262
+
+theta = -0.0931786	 SumSqErr = 654.858
+
+theta = -0.0930786	 SumSqErr = 653.454
+
+theta = -0.0929786	 SumSqErr = 652.053
+
+theta = -0.0928786	 SumSqErr = 650.654
+
+theta = -0.0927785	 SumSqErr = 649.256
+
+theta = -0.0926785	 SumSqErr = 647.86
+
+theta = -0.0925785	 SumSqErr = 646.465
+
+theta = -0.0924785	 SumSqErr = 645.069
+
+theta = -0.0923785	 SumSqErr = 643.677
+
+theta = -0.0922785	 SumSqErr = 642.287
+
+theta = -0.0921785	 SumSqErr = 640.899
+
+theta = -0.0920785	 SumSqErr = 639.511
+
+theta = -0.0919785	 SumSqErr = 638.125
+
+theta = -0.0918785	 SumSqErr = 636.74
+
+theta = -0.0917785	 SumSqErr = 635.356
+
+theta = -0.0916785	 SumSqErr = 633.975
+
+theta = -0.0915785	 SumSqErr = 632.594
+
+theta = -0.0914785	 SumSqErr = 631.215
+
+theta = -0.0913785	 SumSqErr = 629.838
+
+theta = -0.0912785	 SumSqErr = 628.462
+
+theta = -0.0911785	 SumSqErr = 627.089
+
+theta = -0.0910785	 SumSqErr = 625.716
+
+theta = -0.0909785	 SumSqErr = 624.345
+
+theta = -0.0908785	 SumSqErr = 622.976
+
+theta = -0.0907785	 SumSqErr = 621.608
+
+theta = -0.0906785	 SumSqErr = 620.242
+
+theta = -0.0905785	 SumSqErr = 618.875
+
+theta = -0.0904785	 SumSqErr = 617.512
+
+theta = -0.0903785	 SumSqErr = 616.148
+
+theta = -0.0902785	 SumSqErr = 614.789
+
+theta = -0.0901785	 SumSqErr = 613.429
+
+theta = -0.0900785	 SumSqErr = 612.072
+
+theta = -0.0899785	 SumSqErr = 610.716
+
+theta = -0.0898785	 SumSqErr = 609.361
+
+theta = -0.0897785	 SumSqErr = 608.008
+
+theta = -0.0896785	 SumSqErr = 606.656
+
+theta = -0.0895785	 SumSqErr = 605.305
+
+theta = -0.0894785	 SumSqErr = 603.956
+
+theta = -0.0893785	 SumSqErr = 602.61
+
+theta = -0.0892785	 SumSqErr = 601.266
+
+theta = -0.0891785	 SumSqErr = 599.921
+
+theta = -0.0890785	 SumSqErr = 598.579
+
+theta = -0.0889785	 SumSqErr = 597.237
+
+theta = -0.0888785	 SumSqErr = 595.898
+
+theta = -0.0887785	 SumSqErr = 594.559
+
+theta = -0.0886785	 SumSqErr = 593.222
+
+theta = -0.0885785	 SumSqErr = 591.887
+
+theta = -0.0884785	 SumSqErr = 590.555
+
+theta = -0.0883785	 SumSqErr = 589.222
+
+theta = -0.0882785	 SumSqErr = 587.892
+
+theta = -0.0881785	 SumSqErr = 586.562
+
+theta = -0.0880785	 SumSqErr = 585.235
+
+theta = -0.0879785	 SumSqErr = 583.909
+
+theta = -0.0878785	 SumSqErr = 582.583
+
+theta = -0.0877785	 SumSqErr = 581.261
+
+theta = -0.0876785	 SumSqErr = 579.94
+
+theta = -0.0875785	 SumSqErr = 578.619
+
+theta = -0.0874785	 SumSqErr = 577.301
+
+theta = -0.0873785	 SumSqErr = 575.983
+
+theta = -0.0872785	 SumSqErr = 574.666
+
+theta = -0.0871785	 SumSqErr = 573.354
+
+theta = -0.0870785	 SumSqErr = 572.041
+
+theta = -0.0869785	 SumSqErr = 570.73
+
+theta = -0.0868784	 SumSqErr = 569.421
+
+theta = -0.0867784	 SumSqErr = 568.113
+
+theta = -0.0866784	 SumSqErr = 566.805
+
+theta = -0.0865784	 SumSqErr = 565.501
+
+theta = -0.0864784	 SumSqErr = 564.198
+
+theta = -0.0863784	 SumSqErr = 562.895
+
+theta = -0.0862784	 SumSqErr = 561.595
+
+theta = -0.0861784	 SumSqErr = 560.296
+
+theta = -0.0860784	 SumSqErr = 558.998
+
+theta = -0.0859784	 SumSqErr = 557.703
+
+theta = -0.0858784	 SumSqErr = 556.408
+
+theta = -0.0857784	 SumSqErr = 555.115
+
+theta = -0.0856784	 SumSqErr = 553.823
+
+theta = -0.0855784	 SumSqErr = 552.533
+
+theta = -0.0854784	 SumSqErr = 551.245
+
+theta = -0.0853784	 SumSqErr = 549.958
+
+theta = -0.0852784	 SumSqErr = 548.673
+
+theta = -0.0851784	 SumSqErr = 547.387
+
+theta = -0.0850784	 SumSqErr = 546.106
+
+theta = -0.0849784	 SumSqErr = 544.825
+
+theta = -0.0848784	 SumSqErr = 543.545
+
+theta = -0.0847784	 SumSqErr = 542.267
+
+theta = -0.0846784	 SumSqErr = 540.992
+
+theta = -0.0845784	 SumSqErr = 539.715
+
+theta = -0.0844784	 SumSqErr = 538.443
+
+theta = -0.0843784	 SumSqErr = 537.171
+
+theta = -0.0842784	 SumSqErr = 535.899
+
+theta = -0.0841784	 SumSqErr = 534.63
+
+theta = -0.0840784	 SumSqErr = 533.363
+
+theta = -0.0839784	 SumSqErr = 532.098
+
+theta = -0.0838784	 SumSqErr = 530.833
+
+theta = -0.0837784	 SumSqErr = 529.571
+
+theta = -0.0836784	 SumSqErr = 528.309
+
+theta = -0.0835784	 SumSqErr = 527.049
+
+theta = -0.0834784	 SumSqErr = 525.79
+
+theta = -0.0833784	 SumSqErr = 524.533
+
+theta = -0.0832784	 SumSqErr = 523.278
+
+theta = -0.0831784	 SumSqErr = 522.024
+
+theta = -0.0830784	 SumSqErr = 520.772
+
+theta = -0.0829784	 SumSqErr = 519.521
+
+theta = -0.0828784	 SumSqErr = 518.271
+
+theta = -0.0827784	 SumSqErr = 517.023
+
+theta = -0.0826784	 SumSqErr = 515.778
+
+theta = -0.0825784	 SumSqErr = 514.532
+
+theta = -0.0824784	 SumSqErr = 513.289
+
+theta = -0.0823784	 SumSqErr = 512.047
+
+theta = -0.0822784	 SumSqErr = 510.806
+
+theta = -0.0821784	 SumSqErr = 509.568
+
+theta = -0.0820784	 SumSqErr = 508.329
+
+theta = -0.0819784	 SumSqErr = 507.094
+
+theta = -0.0818784	 SumSqErr = 505.86
+
+theta = -0.0817784	 SumSqErr = 504.628
+
+theta = -0.0816784	 SumSqErr = 503.396
+
+theta = -0.0815784	 SumSqErr = 502.165
+
+theta = -0.0814784	 SumSqErr = 500.938
+
+theta = -0.0813784	 SumSqErr = 499.71
+
+theta = -0.0812784	 SumSqErr = 498.485
+
+theta = -0.0811784	 SumSqErr = 497.261
+
+theta = -0.0810784	 SumSqErr = 496.039
+
+theta = -0.0809783	 SumSqErr = 494.818
+
+theta = -0.0808783	 SumSqErr = 493.6
+
+theta = -0.0807783	 SumSqErr = 492.381
+
+theta = -0.0806783	 SumSqErr = 491.165
+
+theta = -0.0805783	 SumSqErr = 489.95
+
+theta = -0.0804783	 SumSqErr = 488.737
+
+theta = -0.0803783	 SumSqErr = 487.523
+
+theta = -0.0802783	 SumSqErr = 486.314
+
+theta = -0.0801783	 SumSqErr = 485.105
+
+theta = -0.0800783	 SumSqErr = 483.898
+
+theta = -0.0799783	 SumSqErr = 482.693
+
+theta = -0.0798783	 SumSqErr = 481.487
+
+theta = -0.0797783	 SumSqErr = 480.286
+
+theta = -0.0796783	 SumSqErr = 479.084
+
+theta = -0.0795783	 SumSqErr = 477.883
+
+theta = -0.0794783	 SumSqErr = 476.685
+
+theta = -0.0793783	 SumSqErr = 475.489
+
+theta = -0.0792783	 SumSqErr = 474.293
+
+theta = -0.0791783	 SumSqErr = 473.099
+
+theta = -0.0790783	 SumSqErr = 471.907
+
+theta = -0.0789783	 SumSqErr = 470.716
+
+theta = -0.0788783	 SumSqErr = 469.528
+
+theta = -0.0787783	 SumSqErr = 468.339
+
+theta = -0.0786783	 SumSqErr = 467.153
+
+theta = -0.0785783	 SumSqErr = 465.968
+
+theta = -0.0784783	 SumSqErr = 464.785
+
+theta = -0.0783783	 SumSqErr = 463.604
+
+theta = -0.0782783	 SumSqErr = 462.424
+
+theta = -0.0781783	 SumSqErr = 461.245
+
+theta = -0.0780783	 SumSqErr = 460.067
+
+theta = -0.0779783	 SumSqErr = 458.892
+
+theta = -0.0778783	 SumSqErr = 457.717
+
+theta = -0.0777783	 SumSqErr = 456.545
+
+theta = -0.0776783	 SumSqErr = 455.373
+
+theta = -0.0775783	 SumSqErr = 454.204
+
+theta = -0.0774783	 SumSqErr = 453.035
+
+theta = -0.0773783	 SumSqErr = 451.869
+
+theta = -0.0772783	 SumSqErr = 450.703
+
+theta = -0.0771783	 SumSqErr = 449.542
+
+theta = -0.0770783	 SumSqErr = 448.378
+
+theta = -0.0769783	 SumSqErr = 447.217
+
+theta = -0.0768783	 SumSqErr = 446.057
+
+theta = -0.0767783	 SumSqErr = 444.899
+
+theta = -0.0766783	 SumSqErr = 443.744
+
+theta = -0.0765783	 SumSqErr = 442.591
+
+theta = -0.0764783	 SumSqErr = 441.436
+
+theta = -0.0763783	 SumSqErr = 440.285
+
+theta = -0.0762783	 SumSqErr = 439.133
+
+theta = -0.0761783	 SumSqErr = 437.986
+
+theta = -0.0760783	 SumSqErr = 436.839
+
+theta = -0.0759783	 SumSqErr = 435.691
+
+theta = -0.0758783	 SumSqErr = 434.549
+
+theta = -0.0757783	 SumSqErr = 433.406
+
+theta = -0.0756783	 SumSqErr = 432.265
+
+theta = -0.0755783	 SumSqErr = 431.126
+
+theta = -0.0754783	 SumSqErr = 429.988
+
+theta = -0.0753783	 SumSqErr = 428.85
+
+theta = -0.0752783	 SumSqErr = 427.716
+
+theta = -0.0751783	 SumSqErr = 426.582
+
+theta = -0.0750782	 SumSqErr = 425.449
+
+theta = -0.0749782	 SumSqErr = 424.319
+
+theta = -0.0748782	 SumSqErr = 423.189
+
+theta = -0.0747782	 SumSqErr = 422.062
+
+theta = -0.0746782	 SumSqErr = 420.936
+
+theta = -0.0745782	 SumSqErr = 419.81
+
+theta = -0.0744782	 SumSqErr = 418.689
+
+theta = -0.0743782	 SumSqErr = 417.566
+
+theta = -0.0742782	 SumSqErr = 416.447
+
+theta = -0.0741782	 SumSqErr = 415.329
+
+theta = -0.0740782	 SumSqErr = 414.211
+
+theta = -0.0739782	 SumSqErr = 413.095
+
+theta = -0.0738782	 SumSqErr = 411.982
+
+theta = -0.0737782	 SumSqErr = 410.87
+
+theta = -0.0736782	 SumSqErr = 409.758
+
+theta = -0.0735782	 SumSqErr = 408.649
+
+theta = -0.0734782	 SumSqErr = 407.54
+
+theta = -0.0733782	 SumSqErr = 406.435
+
+theta = -0.0732782	 SumSqErr = 405.329
+
+theta = -0.0731782	 SumSqErr = 404.226
+
+theta = -0.0730782	 SumSqErr = 403.123
+
+theta = -0.0729782	 SumSqErr = 402.022
+
+theta = -0.0728782	 SumSqErr = 400.923
+
+theta = -0.0727782	 SumSqErr = 399.827
+
+theta = -0.0726782	 SumSqErr = 398.731
+
+theta = -0.0725782	 SumSqErr = 397.636
+
+theta = -0.0724782	 SumSqErr = 396.542
+
+theta = -0.0723782	 SumSqErr = 395.451
+
+theta = -0.0722782	 SumSqErr = 394.361
+
+theta = -0.0721782	 SumSqErr = 393.273
+
+theta = -0.0720782	 SumSqErr = 392.186
+
+theta = -0.0719782	 SumSqErr = 391.1
+
+theta = -0.0718782	 SumSqErr = 390.016
+
+theta = -0.0717782	 SumSqErr = 388.934
+
+theta = -0.0716782	 SumSqErr = 387.852
+
+theta = -0.0715782	 SumSqErr = 386.773
+
+theta = -0.0714782	 SumSqErr = 385.696
+
+theta = -0.0713782	 SumSqErr = 384.619
+
+theta = -0.0712782	 SumSqErr = 383.545
+
+theta = -0.0711782	 SumSqErr = 382.471
+
+theta = -0.0710782	 SumSqErr = 381.398
+
+theta = -0.0709782	 SumSqErr = 380.329
+
+theta = -0.0708782	 SumSqErr = 379.26
+
+theta = -0.0707782	 SumSqErr = 378.192
+
+theta = -0.0706782	 SumSqErr = 377.127
+
+theta = -0.0705782	 SumSqErr = 376.062
+
+theta = -0.0704782	 SumSqErr = 374.999
+
+theta = -0.0703782	 SumSqErr = 373.937
+
+theta = -0.0702782	 SumSqErr = 372.878
+
+theta = -0.0701782	 SumSqErr = 371.819
+
+theta = -0.0700782	 SumSqErr = 370.762
+
+theta = -0.0699782	 SumSqErr = 369.707
+
+theta = -0.0698782	 SumSqErr = 368.653
+
+theta = -0.0697782	 SumSqErr = 367.601
+
+theta = -0.0696782	 SumSqErr = 366.55
+
+theta = -0.0695782	 SumSqErr = 365.501
+
+theta = -0.0694782	 SumSqErr = 364.453
+
+theta = -0.0693782	 SumSqErr = 363.406
+
+theta = -0.0692782	 SumSqErr = 362.361
+
+theta = -0.0691781	 SumSqErr = 361.318
+
+theta = -0.0690781	 SumSqErr = 360.277
+
+theta = -0.0689781	 SumSqErr = 359.235
+
+theta = -0.0688781	 SumSqErr = 358.197
+
+theta = -0.0687781	 SumSqErr = 357.159
+
+theta = -0.0686781	 SumSqErr = 356.125
+
+theta = -0.0685781	 SumSqErr = 355.089
+
+theta = -0.0684781	 SumSqErr = 354.058
+
+theta = -0.0683781	 SumSqErr = 353.026
+
+theta = -0.0682781	 SumSqErr = 351.996
+
+theta = -0.0681781	 SumSqErr = 350.968
+
+theta = -0.0680781	 SumSqErr = 349.941
+
+theta = -0.0679781	 SumSqErr = 348.916
+
+theta = -0.0678781	 SumSqErr = 347.892
+
+theta = -0.0677781	 SumSqErr = 346.869
+
+theta = -0.0676781	 SumSqErr = 345.849
+
+theta = -0.0675781	 SumSqErr = 344.829
+
+theta = -0.0674781	 SumSqErr = 343.812
+
+theta = -0.0673781	 SumSqErr = 342.796
+
+theta = -0.0672781	 SumSqErr = 341.78
+
+theta = -0.0671781	 SumSqErr = 340.768
+
+theta = -0.0670781	 SumSqErr = 339.755
+
+theta = -0.0669781	 SumSqErr = 338.746
+
+theta = -0.0668781	 SumSqErr = 337.737
+
+theta = -0.0667781	 SumSqErr = 336.729
+
+theta = -0.0666781	 SumSqErr = 335.724
+
+theta = -0.0665781	 SumSqErr = 334.72
+
+theta = -0.0664781	 SumSqErr = 333.716
+
+theta = -0.0663781	 SumSqErr = 332.716
+
+theta = -0.0662781	 SumSqErr = 331.716
+
+theta = -0.0661781	 SumSqErr = 330.718
+
+theta = -0.0660781	 SumSqErr = 329.721
+
+theta = -0.0659781	 SumSqErr = 328.727
+
+theta = -0.0658781	 SumSqErr = 327.732
+
+theta = -0.0657781	 SumSqErr = 326.74
+
+theta = -0.0656781	 SumSqErr = 325.75
+
+theta = -0.0655781	 SumSqErr = 324.76
+
+theta = -0.0654781	 SumSqErr = 323.773
+
+theta = -0.0653781	 SumSqErr = 322.788
+
+theta = -0.0652781	 SumSqErr = 321.802
+
+theta = -0.0651781	 SumSqErr = 320.819
+
+theta = -0.0650781	 SumSqErr = 319.837
+
+theta = -0.0649781	 SumSqErr = 318.857
+
+theta = -0.0648781	 SumSqErr = 317.879
+
+theta = -0.0647781	 SumSqErr = 316.903
+
+theta = -0.0646781	 SumSqErr = 315.925
+
+theta = -0.0645781	 SumSqErr = 314.952
+
+theta = -0.0644781	 SumSqErr = 313.979
+
+theta = -0.0643781	 SumSqErr = 313.008
+
+theta = -0.0642781	 SumSqErr = 312.039
+
+theta = -0.0641781	 SumSqErr = 311.07
+
+theta = -0.0640781	 SumSqErr = 310.104
+
+theta = -0.0639781	 SumSqErr = 309.139
+
+theta = -0.0638781	 SumSqErr = 308.176
+
+theta = -0.0637781	 SumSqErr = 307.214
+
+theta = -0.0636781	 SumSqErr = 306.253
+
+theta = -0.0635781	 SumSqErr = 305.294
+
+theta = -0.0634781	 SumSqErr = 304.336
+
+theta = -0.0633781	 SumSqErr = 303.38
+
+theta = -0.063278	 SumSqErr = 302.425
+
+theta = -0.063178	 SumSqErr = 301.473
+
+theta = -0.063078	 SumSqErr = 300.521
+
+theta = -0.062978	 SumSqErr = 299.571
+
+theta = -0.062878	 SumSqErr = 298.623
+
+theta = -0.062778	 SumSqErr = 297.676
+
+theta = -0.062678	 SumSqErr = 296.73
+
+theta = -0.062578	 SumSqErr = 295.786
+
+theta = -0.062478	 SumSqErr = 294.844
+
+theta = -0.062378	 SumSqErr = 293.903
+
+theta = -0.062278	 SumSqErr = 292.963
+
+theta = -0.062178	 SumSqErr = 292.025
+
+theta = -0.062078	 SumSqErr = 291.088
+
+theta = -0.061978	 SumSqErr = 290.154
+
+theta = -0.061878	 SumSqErr = 289.221
+
+theta = -0.061778	 SumSqErr = 288.289
+
+theta = -0.061678	 SumSqErr = 287.359
+
+theta = -0.061578	 SumSqErr = 286.43
+
+theta = -0.061478	 SumSqErr = 285.502
+
+theta = -0.061378	 SumSqErr = 284.576
+
+theta = -0.061278	 SumSqErr = 283.651
+
+theta = -0.061178	 SumSqErr = 282.729
+
+theta = -0.061078	 SumSqErr = 281.807
+
+theta = -0.060978	 SumSqErr = 280.888
+
+theta = -0.060878	 SumSqErr = 279.969
+
+theta = -0.060778	 SumSqErr = 279.052
+
+theta = -0.060678	 SumSqErr = 278.136
+
+theta = -0.060578	 SumSqErr = 277.223
+
+theta = -0.060478	 SumSqErr = 276.311
+
+theta = -0.060378	 SumSqErr = 275.4
+
+theta = -0.060278	 SumSqErr = 274.49
+
+theta = -0.060178	 SumSqErr = 273.582
+
+theta = -0.060078	 SumSqErr = 272.677
+
+theta = -0.059978	 SumSqErr = 271.771
+
+theta = -0.059878	 SumSqErr = 270.869
+
+theta = -0.059778	 SumSqErr = 269.966
+
+theta = -0.059678	 SumSqErr = 269.066
+
+theta = -0.059578	 SumSqErr = 268.167
+
+theta = -0.059478	 SumSqErr = 267.27
+
+theta = -0.059378	 SumSqErr = 266.374
+
+theta = -0.059278	 SumSqErr = 265.48
+
+theta = -0.059178	 SumSqErr = 264.587
+
+theta = -0.059078	 SumSqErr = 263.696
+
+theta = -0.058978	 SumSqErr = 262.806
+
+theta = -0.058878	 SumSqErr = 261.918
+
+theta = -0.058778	 SumSqErr = 261.031
+
+theta = -0.058678	 SumSqErr = 260.146
+
+theta = -0.058578	 SumSqErr = 259.262
+
+theta = -0.058478	 SumSqErr = 258.38
+
+theta = -0.058378	 SumSqErr = 257.499
+
+theta = -0.058278	 SumSqErr = 256.62
+
+theta = -0.058178	 SumSqErr = 255.742
+
+theta = -0.058078	 SumSqErr = 254.866
+
+theta = -0.057978	 SumSqErr = 253.991
+
+theta = -0.057878	 SumSqErr = 253.119
+
+theta = -0.057778	 SumSqErr = 252.245
+
+theta = -0.057678	 SumSqErr = 251.376
+
+theta = -0.057578	 SumSqErr = 250.508
+
+theta = -0.057478	 SumSqErr = 249.641
+
+theta = -0.0573779	 SumSqErr = 248.775
+
+theta = -0.0572779	 SumSqErr = 247.91
+
+theta = -0.0571779	 SumSqErr = 247.048
+
+theta = -0.0570779	 SumSqErr = 246.186
+
+theta = -0.0569779	 SumSqErr = 245.328
+
+theta = -0.0568779	 SumSqErr = 244.469
+
+theta = -0.0567779	 SumSqErr = 243.613
+
+theta = -0.0566779	 SumSqErr = 242.757
+
+theta = -0.0565779	 SumSqErr = 241.904
+
+theta = -0.0564779	 SumSqErr = 241.052
+
+theta = -0.0563779	 SumSqErr = 240.201
+
+theta = -0.0562779	 SumSqErr = 239.352
+
+theta = -0.0561779	 SumSqErr = 238.504
+
+theta = -0.0560779	 SumSqErr = 237.659
+
+theta = -0.0559779	 SumSqErr = 236.814
+
+theta = -0.0558779	 SumSqErr = 235.971
+
+theta = -0.0557779	 SumSqErr = 235.129
+
+theta = -0.0556779	 SumSqErr = 234.289
+
+theta = -0.0555779	 SumSqErr = 233.451
+
+theta = -0.0554779	 SumSqErr = 232.614
+
+theta = -0.0553779	 SumSqErr = 231.778
+
+theta = -0.0552779	 SumSqErr = 230.944
+
+theta = -0.0551779	 SumSqErr = 230.111
+
+theta = -0.0550779	 SumSqErr = 229.28
+
+theta = -0.0549779	 SumSqErr = 228.451
+
+theta = -0.0548779	 SumSqErr = 227.622
+
+theta = -0.0547779	 SumSqErr = 226.796
+
+theta = -0.0546779	 SumSqErr = 225.97
+
+theta = -0.0545779	 SumSqErr = 225.147
+
+theta = -0.0544779	 SumSqErr = 224.326
+
+theta = -0.0543779	 SumSqErr = 223.505
+
+theta = -0.0542779	 SumSqErr = 222.686
+
+theta = -0.0541779	 SumSqErr = 221.869
+
+theta = -0.0540779	 SumSqErr = 221.053
+
+theta = -0.0539779	 SumSqErr = 220.238
+
+theta = -0.0538779	 SumSqErr = 219.426
+
+theta = -0.0537779	 SumSqErr = 218.614
+
+theta = -0.0536779	 SumSqErr = 217.805
+
+theta = -0.0535779	 SumSqErr = 216.996
+
+theta = -0.0534779	 SumSqErr = 216.189
+
+theta = -0.0533779	 SumSqErr = 215.383
+
+theta = -0.0532779	 SumSqErr = 214.58
+
+theta = -0.0531779	 SumSqErr = 213.777
+
+theta = -0.0530779	 SumSqErr = 212.976
+
+theta = -0.0529779	 SumSqErr = 212.177
+
+theta = -0.0528779	 SumSqErr = 211.379
+
+theta = -0.0527779	 SumSqErr = 210.583
+
+theta = -0.0526779	 SumSqErr = 209.788
+
+theta = -0.0525779	 SumSqErr = 208.994
+
+theta = -0.0524779	 SumSqErr = 208.203
+
+theta = -0.0523779	 SumSqErr = 207.412
+
+theta = -0.0522779	 SumSqErr = 206.624
+
+theta = -0.0521779	 SumSqErr = 205.836
+
+theta = -0.0520779	 SumSqErr = 205.05
+
+theta = -0.0519779	 SumSqErr = 204.266
+
+theta = -0.0518779	 SumSqErr = 203.483
+
+theta = -0.0517779	 SumSqErr = 202.702
+
+theta = -0.0516779	 SumSqErr = 201.922
+
+theta = -0.0515779	 SumSqErr = 201.144
+
+theta = -0.0514778	 SumSqErr = 200.367
+
+theta = -0.0513778	 SumSqErr = 199.592
+
+theta = -0.0512778	 SumSqErr = 198.818
+
+theta = -0.0511778	 SumSqErr = 198.046
+
+theta = -0.0510778	 SumSqErr = 197.274
+
+theta = -0.0509778	 SumSqErr = 196.506
+
+theta = -0.0508778	 SumSqErr = 195.738
+
+theta = -0.0507778	 SumSqErr = 194.971
+
+theta = -0.0506778	 SumSqErr = 194.207
+
+theta = -0.0505778	 SumSqErr = 193.444
+
+theta = -0.0504778	 SumSqErr = 192.681
+
+theta = -0.0503778	 SumSqErr = 191.922
+
+theta = -0.0502778	 SumSqErr = 191.163
+
+theta = -0.0501778	 SumSqErr = 190.405
+
+theta = -0.0500778	 SumSqErr = 189.651
+
+theta = -0.0499778	 SumSqErr = 188.895
+
+theta = -0.0498778	 SumSqErr = 188.143
+
+theta = -0.0497778	 SumSqErr = 187.391
+
+theta = -0.0496778	 SumSqErr = 186.643
+
+theta = -0.0495778	 SumSqErr = 185.894
+
+theta = -0.0494778	 SumSqErr = 185.147
+
+theta = -0.0493778	 SumSqErr = 184.402
+
+theta = -0.0492778	 SumSqErr = 183.659
+
+theta = -0.0491778	 SumSqErr = 182.917
+
+theta = -0.0490778	 SumSqErr = 182.177
+
+theta = -0.0489778	 SumSqErr = 181.437
+
+theta = -0.0488778	 SumSqErr = 180.699
+
+theta = -0.0487778	 SumSqErr = 179.964
+
+theta = -0.0486778	 SumSqErr = 179.229
+
+theta = -0.0485778	 SumSqErr = 178.496
+
+theta = -0.0484778	 SumSqErr = 177.764
+
+theta = -0.0483778	 SumSqErr = 177.034
+
+theta = -0.0482778	 SumSqErr = 176.305
+
+theta = -0.0481778	 SumSqErr = 175.578
+
+theta = -0.0480778	 SumSqErr = 174.853
+
+theta = -0.0479778	 SumSqErr = 174.128
+
+theta = -0.0478778	 SumSqErr = 173.406
+
+theta = -0.0477778	 SumSqErr = 172.685
+
+theta = -0.0476778	 SumSqErr = 171.965
+
+theta = -0.0475778	 SumSqErr = 171.247
+
+theta = -0.0474778	 SumSqErr = 170.531
+
+theta = -0.0473778	 SumSqErr = 169.816
+
+theta = -0.0472778	 SumSqErr = 169.102
+
+theta = -0.0471778	 SumSqErr = 168.391
+
+theta = -0.0470778	 SumSqErr = 167.68
+
+theta = -0.0469778	 SumSqErr = 166.971
+
+theta = -0.0468778	 SumSqErr = 166.264
+
+theta = -0.0467778	 SumSqErr = 165.557
+
+theta = -0.0466778	 SumSqErr = 164.853
+
+theta = -0.0465778	 SumSqErr = 164.151
+
+theta = -0.0464778	 SumSqErr = 163.449
+
+theta = -0.0463778	 SumSqErr = 162.749
+
+theta = -0.0462778	 SumSqErr = 162.051
+
+theta = -0.0461778	 SumSqErr = 161.353
+
+theta = -0.0460778	 SumSqErr = 160.658
+
+theta = -0.0459778	 SumSqErr = 159.964
+
+theta = -0.0458778	 SumSqErr = 159.272
+
+theta = -0.0457778	 SumSqErr = 158.581
+
+theta = -0.0456778	 SumSqErr = 157.892
+
+theta = -0.0455777	 SumSqErr = 157.204
+
+theta = -0.0454777	 SumSqErr = 156.517
+
+theta = -0.0453777	 SumSqErr = 155.833
+
+theta = -0.0452777	 SumSqErr = 155.149
+
+theta = -0.0451777	 SumSqErr = 154.467
+
+theta = -0.0450777	 SumSqErr = 153.787
+
+theta = -0.0449777	 SumSqErr = 153.108
+
+theta = -0.0448777	 SumSqErr = 152.43
+
+theta = -0.0447777	 SumSqErr = 151.755
+
+theta = -0.0446777	 SumSqErr = 151.081
+
+theta = -0.0445777	 SumSqErr = 150.408
+
+theta = -0.0444777	 SumSqErr = 149.737
+
+theta = -0.0443777	 SumSqErr = 149.066
+
+theta = -0.0442777	 SumSqErr = 148.398
+
+theta = -0.0441777	 SumSqErr = 147.731
+
+theta = -0.0440777	 SumSqErr = 147.066
+
+theta = -0.0439777	 SumSqErr = 146.403
+
+theta = -0.0438777	 SumSqErr = 145.74
+
+theta = -0.0437777	 SumSqErr = 145.079
+
+theta = -0.0436777	 SumSqErr = 144.421
+
+theta = -0.0435777	 SumSqErr = 143.762
+
+theta = -0.0434777	 SumSqErr = 143.106
+
+theta = -0.0433777	 SumSqErr = 142.452
+
+theta = -0.0432777	 SumSqErr = 141.798
+
+theta = -0.0431777	 SumSqErr = 141.147
+
+theta = -0.0430777	 SumSqErr = 140.497
+
+theta = -0.0429777	 SumSqErr = 139.848
+
+theta = -0.0428777	 SumSqErr = 139.201
+
+theta = -0.0427777	 SumSqErr = 138.555
+
+theta = -0.0426777	 SumSqErr = 137.911
+
+theta = -0.0425777	 SumSqErr = 137.268
+
+theta = -0.0424777	 SumSqErr = 136.627
+
+theta = -0.0423777	 SumSqErr = 135.987
+
+theta = -0.0422777	 SumSqErr = 135.349
+
+theta = -0.0421777	 SumSqErr = 134.713
+
+theta = -0.0420777	 SumSqErr = 134.078
+
+theta = -0.0419777	 SumSqErr = 133.444
+
+theta = -0.0418777	 SumSqErr = 132.812
+
+theta = -0.0417777	 SumSqErr = 132.181
+
+theta = -0.0416777	 SumSqErr = 131.552
+
+theta = -0.0415777	 SumSqErr = 130.924
+
+theta = -0.0414777	 SumSqErr = 130.299
+
+theta = -0.0413777	 SumSqErr = 129.674
+
+theta = -0.0412777	 SumSqErr = 129.051
+
+theta = -0.0411777	 SumSqErr = 128.429
+
+theta = -0.0410777	 SumSqErr = 127.809
+
+theta = -0.0409777	 SumSqErr = 127.191
+
+theta = -0.0408777	 SumSqErr = 126.574
+
+theta = -0.0407777	 SumSqErr = 125.959
+
+theta = -0.0406777	 SumSqErr = 125.344
+
+theta = -0.0405777	 SumSqErr = 124.732
+
+theta = -0.0404777	 SumSqErr = 124.12
+
+theta = -0.0403777	 SumSqErr = 123.511
+
+theta = -0.0402777	 SumSqErr = 122.903
+
+theta = -0.0401777	 SumSqErr = 122.297
+
+theta = -0.0400777	 SumSqErr = 121.691
+
+theta = -0.0399777	 SumSqErr = 121.089
+
+theta = -0.0398777	 SumSqErr = 120.486
+
+theta = -0.0397777	 SumSqErr = 119.885
+
+theta = -0.0396776	 SumSqErr = 119.287
+
+theta = -0.0395776	 SumSqErr = 118.69
+
+theta = -0.0394776	 SumSqErr = 118.094
+
+theta = -0.0393776	 SumSqErr = 117.499
+
+theta = -0.0392776	 SumSqErr = 116.906
+
+theta = -0.0391776	 SumSqErr = 116.314
+
+theta = -0.0390776	 SumSqErr = 115.725
+
+theta = -0.0389776	 SumSqErr = 115.136
+
+theta = -0.0388776	 SumSqErr = 114.549
+
+theta = -0.0387776	 SumSqErr = 113.964
+
+theta = -0.0386776	 SumSqErr = 113.38
+
+theta = -0.0385776	 SumSqErr = 112.798
+
+theta = -0.0384776	 SumSqErr = 112.217
+
+theta = -0.0383776	 SumSqErr = 111.638
+
+theta = -0.0382776	 SumSqErr = 111.06
+
+theta = -0.0381776	 SumSqErr = 110.484
+
+theta = -0.0380776	 SumSqErr = 109.909
+
+theta = -0.0379776	 SumSqErr = 109.335
+
+theta = -0.0378776	 SumSqErr = 108.764
+
+theta = -0.0377776	 SumSqErr = 108.193
+
+theta = -0.0376776	 SumSqErr = 107.624
+
+theta = -0.0375776	 SumSqErr = 107.057
+
+theta = -0.0374776	 SumSqErr = 106.492
+
+theta = -0.0373776	 SumSqErr = 105.928
+
+theta = -0.0372776	 SumSqErr = 105.365
+
+theta = -0.0371776	 SumSqErr = 104.803
+
+theta = -0.0370776	 SumSqErr = 104.244
+
+theta = -0.0369776	 SumSqErr = 103.685
+
+theta = -0.0368776	 SumSqErr = 103.128
+
+theta = -0.0367776	 SumSqErr = 102.573
+
+theta = -0.0366776	 SumSqErr = 102.02
+
+theta = -0.0365776	 SumSqErr = 101.467
+
+theta = -0.0364776	 SumSqErr = 100.916
+
+theta = -0.0363776	 SumSqErr = 100.367
+
+theta = -0.0362776	 SumSqErr = 99.8199
+
+theta = -0.0361776	 SumSqErr = 99.2734
+
+theta = -0.0360776	 SumSqErr = 98.7286
+
+theta = -0.0359776	 SumSqErr = 98.1857
+
+theta = -0.0358776	 SumSqErr = 97.6442
+
+theta = -0.0357776	 SumSqErr = 97.1038
+
+theta = -0.0356776	 SumSqErr = 96.5653
+
+theta = -0.0355776	 SumSqErr = 96.0281
+
+theta = -0.0354776	 SumSqErr = 95.4924
+
+theta = -0.0353776	 SumSqErr = 94.9582
+
+theta = -0.0352776	 SumSqErr = 94.4257
+
+theta = -0.0351776	 SumSqErr = 93.8947
+
+theta = -0.0350776	 SumSqErr = 93.3648
+
+theta = -0.0349776	 SumSqErr = 92.8366
+
+theta = -0.0348776	 SumSqErr = 92.3105
+
+theta = -0.0347776	 SumSqErr = 91.7851
+
+theta = -0.0346776	 SumSqErr = 91.262
+
+theta = -0.0345776	 SumSqErr = 90.7398
+
+theta = -0.0344776	 SumSqErr = 90.2193
+
+theta = -0.0343776	 SumSqErr = 89.7002
+
+theta = -0.0342776	 SumSqErr = 89.1824
+
+theta = -0.0341776	 SumSqErr = 88.6662
+
+theta = -0.0340776	 SumSqErr = 88.1522
+
+theta = -0.0339776	 SumSqErr = 87.6391
+
+theta = -0.0338776	 SumSqErr = 87.1276
+
+theta = -0.0337775	 SumSqErr = 86.6173
+
+theta = -0.0336775	 SumSqErr = 86.1094
+
+theta = -0.0335775	 SumSqErr = 85.6021
+
+theta = -0.0334775	 SumSqErr = 85.0966
+
+theta = -0.0333775	 SumSqErr = 84.5926
+
+theta = -0.0332775	 SumSqErr = 84.0902
+
+theta = -0.0331775	 SumSqErr = 83.5896
+
+theta = -0.0330775	 SumSqErr = 83.0898
+
+theta = -0.0329775	 SumSqErr = 82.5917
+
+theta = -0.0328775	 SumSqErr = 82.0958
+
+theta = -0.0327775	 SumSqErr = 81.6003
+
+theta = -0.0326775	 SumSqErr = 81.1072
+
+theta = -0.0325775	 SumSqErr = 80.6155
+
+theta = -0.0324775	 SumSqErr = 80.1251
+
+theta = -0.0323775	 SumSqErr = 79.6361
+
+theta = -0.0322775	 SumSqErr = 79.1481
+
+theta = -0.0321775	 SumSqErr = 78.6628
+
+theta = -0.0320775	 SumSqErr = 78.1781
+
+theta = -0.0319775	 SumSqErr = 77.6954
+
+theta = -0.0318775	 SumSqErr = 77.2143
+
+theta = -0.0317775	 SumSqErr = 76.7343
+
+theta = -0.0316775	 SumSqErr = 76.2561
+
+theta = -0.0315775	 SumSqErr = 75.7794
+
+theta = -0.0314775	 SumSqErr = 75.3041
+
+theta = -0.0313775	 SumSqErr = 74.8302
+
+theta = -0.0312775	 SumSqErr = 74.3577
+
+theta = -0.0311775	 SumSqErr = 73.8871
+
+theta = -0.0310775	 SumSqErr = 73.4177
+
+theta = -0.0309775	 SumSqErr = 72.95
+
+theta = -0.0308775	 SumSqErr = 72.4838
+
+theta = -0.0307775	 SumSqErr = 72.0192
+
+theta = -0.0306775	 SumSqErr = 71.5558
+
+theta = -0.0305775	 SumSqErr = 71.0941
+
+theta = -0.0304775	 SumSqErr = 70.6337
+
+theta = -0.0303775	 SumSqErr = 70.175
+
+theta = -0.0302775	 SumSqErr = 69.7181
+
+theta = -0.0301775	 SumSqErr = 69.2621
+
+theta = -0.0300775	 SumSqErr = 68.8081
+
+theta = -0.0299775	 SumSqErr = 68.3551
+
+theta = -0.0298775	 SumSqErr = 67.9042
+
+theta = -0.0297775	 SumSqErr = 67.455
+
+theta = -0.0296775	 SumSqErr = 67.0064
+
+theta = -0.0295775	 SumSqErr = 66.5597
+
+theta = -0.0294775	 SumSqErr = 66.1141
+
+theta = -0.0293775	 SumSqErr = 65.6712
+
+theta = -0.0292775	 SumSqErr = 65.2287
+
+theta = -0.0291775	 SumSqErr = 64.7883
+
+theta = -0.0290775	 SumSqErr = 64.3493
+
+theta = -0.0289775	 SumSqErr = 63.9116
+
+theta = -0.0288775	 SumSqErr = 63.4755
+
+theta = -0.0287775	 SumSqErr = 63.0411
+
+theta = -0.0286775	 SumSqErr = 62.6073
+
+theta = -0.0285775	 SumSqErr = 62.1757
+
+theta = -0.0284775	 SumSqErr = 61.7458
+
+theta = -0.0283775	 SumSqErr = 61.3172
+
+theta = -0.0282775	 SumSqErr = 60.8903
+
+theta = -0.0281775	 SumSqErr = 60.4646
+
+theta = -0.0280775	 SumSqErr = 60.0407
+
+theta = -0.0279775	 SumSqErr = 59.6182
+
+theta = -0.0278775	 SumSqErr = 59.1973
+
+theta = -0.0277775	 SumSqErr = 58.7779
+
+theta = -0.0276775	 SumSqErr = 58.3593
+
+theta = -0.0275775	 SumSqErr = 57.9435
+
+theta = -0.0274775	 SumSqErr = 57.5282
+
+theta = -0.0273775	 SumSqErr = 57.1148
+
+theta = -0.0272775	 SumSqErr = 56.7028
+
+theta = -0.0271775	 SumSqErr = 56.2924
+
+theta = -0.0270775	 SumSqErr = 55.8835
+
+theta = -0.0269775	 SumSqErr = 55.476
+
+theta = -0.0268775	 SumSqErr = 55.0701
+
+theta = -0.0267775	 SumSqErr = 54.6657
+
+theta = -0.0266775	 SumSqErr = 54.2629
+
+theta = -0.0265775	 SumSqErr = 53.8615
+
+theta = -0.0264775	 SumSqErr = 53.4615
+
+theta = -0.0263775	 SumSqErr = 53.063
+
+theta = -0.0262775	 SumSqErr = 52.6663
+
+theta = -0.0261775	 SumSqErr = 52.2709
+
+theta = -0.0260775	 SumSqErr = 51.8769
+
+theta = -0.0259775	 SumSqErr = 51.4844
+
+theta = -0.0258775	 SumSqErr = 51.094
+
+theta = -0.0257775	 SumSqErr = 50.7041
+
+theta = -0.0256775	 SumSqErr = 50.3166
+
+theta = -0.0255775	 SumSqErr = 49.9302
+
+theta = -0.0254775	 SumSqErr = 49.5451
+
+theta = -0.0253775	 SumSqErr = 49.1619
+
+theta = -0.0252775	 SumSqErr = 48.7804
+
+theta = -0.0251775	 SumSqErr = 48.4
+
+theta = -0.0250775	 SumSqErr = 48.0209
+
+theta = -0.0249775	 SumSqErr = 47.644
+
+theta = -0.0248775	 SumSqErr = 47.268
+
+theta = -0.0247775	 SumSqErr = 46.8937
+
+theta = -0.0246775	 SumSqErr = 46.5211
+
+theta = -0.0245775	 SumSqErr = 46.1501
+
+theta = -0.0244775	 SumSqErr = 45.7803
+
+theta = -0.0243775	 SumSqErr = 45.4119
+
+theta = -0.0242775	 SumSqErr = 45.0452
+
+theta = -0.0241775	 SumSqErr = 44.68
+
+theta = -0.0240775	 SumSqErr = 44.3163
+
+theta = -0.0239775	 SumSqErr = 43.9541
+
+theta = -0.0238775	 SumSqErr = 43.5933
+
+theta = -0.0237775	 SumSqErr = 43.2342
+
+theta = -0.0236775	 SumSqErr = 42.8765
+
+theta = -0.0235775	 SumSqErr = 42.5198
+
+theta = -0.0234775	 SumSqErr = 42.1655
+
+theta = -0.0233775	 SumSqErr = 41.813
+
+theta = -0.0232775	 SumSqErr = 41.4608
+
+theta = -0.0231775	 SumSqErr = 41.1108
+
+theta = -0.0230775	 SumSqErr = 40.7622
+
+theta = -0.0229775	 SumSqErr = 40.4152
+
+theta = -0.0228775	 SumSqErr = 40.0695
+
+theta = -0.0227775	 SumSqErr = 39.7253
+
+theta = -0.0226775	 SumSqErr = 39.3828
+
+theta = -0.0225775	 SumSqErr = 39.0416
+
+theta = -0.0224775	 SumSqErr = 38.7021
+
+theta = -0.0223775	 SumSqErr = 38.364
+
+theta = -0.0222775	 SumSqErr = 38.0275
+
+theta = -0.0221775	 SumSqErr = 37.6923
+
+theta = -0.0220775	 SumSqErr = 37.3589
+
+theta = -0.0219775	 SumSqErr = 37.0268
+
+theta = -0.0218775	 SumSqErr = 36.6962
+
+theta = -0.0217775	 SumSqErr = 36.3673
+
+theta = -0.0216775	 SumSqErr = 36.0399
+
+theta = -0.0215775	 SumSqErr = 35.7137
+
+theta = -0.0214775	 SumSqErr = 35.3892
+
+theta = -0.0213775	 SumSqErr = 35.0664
+
+theta = -0.0212775	 SumSqErr = 34.7449
+
+theta = -0.0211775	 SumSqErr = 34.4249
+
+theta = -0.0210775	 SumSqErr = 34.1064
+
+theta = -0.0209775	 SumSqErr = 33.7894
+
+theta = -0.0208775	 SumSqErr = 33.4741
+
+theta = -0.0207775	 SumSqErr = 33.1602
+
+theta = -0.0206775	 SumSqErr = 32.8476
+
+theta = -0.0205775	 SumSqErr = 32.5368
+
+theta = -0.0204775	 SumSqErr = 32.2276
+
+theta = -0.0203775	 SumSqErr = 31.9193
+
+theta = -0.0202775	 SumSqErr = 31.6132
+
+theta = -0.0201775	 SumSqErr = 31.3081
+
+theta = -0.0200775	 SumSqErr = 31.0047
+
+theta = -0.0199775	 SumSqErr = 30.7029
+
+theta = -0.0198775	 SumSqErr = 30.4025
+
+theta = -0.0197775	 SumSqErr = 30.1036
+
+theta = -0.0196775	 SumSqErr = 29.8064
+
+theta = -0.0195775	 SumSqErr = 29.5105
+
+theta = -0.0194775	 SumSqErr = 29.2162
+
+theta = -0.0193775	 SumSqErr = 28.9234
+
+theta = -0.0192775	 SumSqErr = 28.6324
+
+theta = -0.0191775	 SumSqErr = 28.3422
+
+theta = -0.0190775	 SumSqErr = 28.0537
+
+theta = -0.0189775	 SumSqErr = 27.7675
+
+theta = -0.0188775	 SumSqErr = 27.4818
+
+theta = -0.0187775	 SumSqErr = 27.1982
+
+theta = -0.0186775	 SumSqErr = 26.9162
+
+theta = -0.0185775	 SumSqErr = 26.6351
+
+theta = -0.0184775	 SumSqErr = 26.3558
+
+theta = -0.0183775	 SumSqErr = 26.078
+
+theta = -0.0182775	 SumSqErr = 25.8019
+
+theta = -0.0181775	 SumSqErr = 25.5274
+
+theta = -0.0180775	 SumSqErr = 25.2541
+
+theta = -0.0179775	 SumSqErr = 24.9824
+
+theta = -0.0178775	 SumSqErr = 24.7118
+
+theta = -0.0177775	 SumSqErr = 24.4436
+
+theta = -0.0176775	 SumSqErr = 24.1761
+
+theta = -0.0175775	 SumSqErr = 23.9104
+
+theta = -0.0174775	 SumSqErr = 23.6463
+
+theta = -0.0173775	 SumSqErr = 23.3838
+
+theta = -0.0172775	 SumSqErr = 23.1225
+
+theta = -0.0171775	 SumSqErr = 22.8631
+
+theta = -0.0170775	 SumSqErr = 22.6049
+
+theta = -0.0169775	 SumSqErr = 22.3484
+
+theta = -0.0168775	 SumSqErr = 22.0931
+
+theta = -0.0167775	 SumSqErr = 21.8396
+
+theta = -0.0166775	 SumSqErr = 21.5874
+
+theta = -0.0165775	 SumSqErr = 21.3368
+
+theta = -0.0164775	 SumSqErr = 21.0878
+
+theta = -0.0163775	 SumSqErr = 20.8401
+
+theta = -0.0162775	 SumSqErr = 20.5942
+
+theta = -0.0161775	 SumSqErr = 20.3495
+
+theta = -0.0160775	 SumSqErr = 20.1064
+
+theta = -0.0159775	 SumSqErr = 19.8652
+
+theta = -0.0158775	 SumSqErr = 19.6249
+
+theta = -0.0157775	 SumSqErr = 19.3866
+
+theta = -0.0156775	 SumSqErr = 19.1496
+
+theta = -0.0155775	 SumSqErr = 18.914
+
+theta = -0.0154775	 SumSqErr = 18.68
+
+theta = -0.0153775	 SumSqErr = 18.4475
+
+theta = -0.0152775	 SumSqErr = 18.2165
+
+theta = -0.0151775	 SumSqErr = 17.987
+
+theta = -0.0150775	 SumSqErr = 17.7592
+
+theta = -0.0149775	 SumSqErr = 17.5327
+
+theta = -0.0148775	 SumSqErr = 17.3079
+
+theta = -0.0147775	 SumSqErr = 17.0842
+
+theta = -0.0146775	 SumSqErr = 16.8624
+
+theta = -0.0145775	 SumSqErr = 16.6421
+
+theta = -0.0144775	 SumSqErr = 16.4231
+
+theta = -0.0143775	 SumSqErr = 16.2057
+
+theta = -0.0142775	 SumSqErr = 15.9898
+
+theta = -0.0141775	 SumSqErr = 15.7756
+
+theta = -0.0140775	 SumSqErr = 15.5625
+
+theta = -0.0139775	 SumSqErr = 15.3512
+
+theta = -0.0138775	 SumSqErr = 15.1414
+
+theta = -0.0137775	 SumSqErr = 14.933
+
+theta = -0.0136775	 SumSqErr = 14.7261
+
+theta = -0.0135775	 SumSqErr = 14.5209
+
+theta = -0.0134775	 SumSqErr = 14.3171
+
+theta = -0.0133775	 SumSqErr = 14.1146
+
+theta = -0.0132775	 SumSqErr = 13.914
+
+theta = -0.0131775	 SumSqErr = 13.7147
+
+theta = -0.0130775	 SumSqErr = 13.5169
+
+theta = -0.0129775	 SumSqErr = 13.3206
+
+theta = -0.0128775	 SumSqErr = 13.1257
+
+theta = -0.0127775	 SumSqErr = 12.9325
+
+theta = -0.0126775	 SumSqErr = 12.7408
+
+theta = -0.0125775	 SumSqErr = 12.5505
+
+theta = -0.0124775	 SumSqErr = 12.3618
+
+theta = -0.0123775	 SumSqErr = 12.1747
+
+theta = -0.0122775	 SumSqErr = 11.9887
+
+theta = -0.0121775	 SumSqErr = 11.8046
+
+theta = -0.0120775	 SumSqErr = 11.6219
+
+theta = -0.0119775	 SumSqErr = 11.4406
+
+theta = -0.0118775	 SumSqErr = 11.2611
+
+theta = -0.0117775	 SumSqErr = 11.0829
+
+theta = -0.0116775	 SumSqErr = 10.9061
+
+theta = -0.0115775	 SumSqErr = 10.731
+
+theta = -0.0114775	 SumSqErr = 10.5575
+
+theta = -0.0113775	 SumSqErr = 10.3854
+
+theta = -0.0112775	 SumSqErr = 10.2147
+
+theta = -0.0111775	 SumSqErr = 10.0455
+
+theta = -0.0110775	 SumSqErr = 9.87771
+
+theta = -0.0109775	 SumSqErr = 9.71174
+
+theta = -0.0108775	 SumSqErr = 9.54717
+
+theta = -0.0107775	 SumSqErr = 9.38422
+
+theta = -0.0106775	 SumSqErr = 9.22253
+
+theta = -0.0105775	 SumSqErr = 9.06252
+
+theta = -0.0104775	 SumSqErr = 8.90387
+
+theta = -0.0103775	 SumSqErr = 8.74685
+
+theta = -0.0102775	 SumSqErr = 8.59144
+
+theta = -0.0101775	 SumSqErr = 8.43723
+
+theta = -0.0100775	 SumSqErr = 8.28475
+
+theta = -0.00997754	 SumSqErr = 8.13379
+
+theta = -0.00987754	 SumSqErr = 7.98425
+
+theta = -0.00977754	 SumSqErr = 7.83632
+
+theta = -0.00967754	 SumSqErr = 7.68966
+
+theta = -0.00957754	 SumSqErr = 7.54471
+
+theta = -0.00947754	 SumSqErr = 7.40122
+
+theta = -0.00937754	 SumSqErr = 7.25937
+
+theta = -0.00927754	 SumSqErr = 7.11875
+
+theta = -0.00917755	 SumSqErr = 6.97979
+
+theta = -0.00907755	 SumSqErr = 6.8424
+
+theta = -0.00897755	 SumSqErr = 6.70643
+
+theta = -0.00887755	 SumSqErr = 6.57206
+
+theta = -0.00877755	 SumSqErr = 6.43912
+
+theta = -0.00867755	 SumSqErr = 6.30776
+
+theta = -0.00857755	 SumSqErr = 6.17784
+
+theta = -0.00847755	 SumSqErr = 6.04926
+
+theta = -0.00837755	 SumSqErr = 5.92254
+
+theta = -0.00827755	 SumSqErr = 5.79727
+
+theta = -0.00817755	 SumSqErr = 5.67338
+
+theta = -0.00807755	 SumSqErr = 5.55089
+
+theta = -0.00797755	 SumSqErr = 5.42991
+
+theta = -0.00787755	 SumSqErr = 5.31074
+
+theta = -0.00777755	 SumSqErr = 5.19296
+
+theta = -0.00767755	 SumSqErr = 5.07668
+
+theta = -0.00757755	 SumSqErr = 4.96173
+
+theta = -0.00747755	 SumSqErr = 4.84837
+
+theta = -0.00737755	 SumSqErr = 4.73666
+
+theta = -0.00727755	 SumSqErr = 4.62642
+
+theta = -0.00717755	 SumSqErr = 4.51762
+
+theta = -0.00707755	 SumSqErr = 4.41034
+
+theta = -0.00697755	 SumSqErr = 4.30452
+
+theta = -0.00687755	 SumSqErr = 4.20036
+
+theta = -0.00677755	 SumSqErr = 4.09755
+
+theta = -0.00667755	 SumSqErr = 3.99635
+
+theta = -0.00657755	 SumSqErr = 3.89656
+
+theta = -0.00647755	 SumSqErr = 3.79843
+
+theta = -0.00637755	 SumSqErr = 3.70166
+
+theta = -0.00627755	 SumSqErr = 3.6065
+
+theta = -0.00617755	 SumSqErr = 3.51284
+
+theta = -0.00607755	 SumSqErr = 3.4206
+
+theta = -0.00597755	 SumSqErr = 3.32991
+
+theta = -0.00587755	 SumSqErr = 3.24074
+
+theta = -0.00577755	 SumSqErr = 3.15311
+
+theta = -0.00567755	 SumSqErr = 3.06699
+
+theta = -0.00557755	 SumSqErr = 2.9823
+
+theta = -0.00547755	 SumSqErr = 2.89916
+
+theta = -0.00537755	 SumSqErr = 2.81757
+
+theta = -0.00527755	 SumSqErr = 2.7374
+
+theta = -0.00517755	 SumSqErr = 2.65879
+
+theta = -0.00507755	 SumSqErr = 2.58165
+
+theta = -0.00497755	 SumSqErr = 2.50608
+
+theta = -0.00487755	 SumSqErr = 2.43199
+
+theta = -0.00477755	 SumSqErr = 2.35942
+
+theta = -0.00467755	 SumSqErr = 2.28838
+
+theta = -0.00457755	 SumSqErr = 2.21887
+
+theta = -0.00447755	 SumSqErr = 2.15085
+
+theta = -0.00437755	 SumSqErr = 2.08426
+
+theta = -0.00427755	 SumSqErr = 2.01914
+
+theta = -0.00417755	 SumSqErr = 1.95566
+
+theta = -0.00407755	 SumSqErr = 1.89367
+
+theta = -0.00397755	 SumSqErr = 1.83315
+
+theta = -0.00387755	 SumSqErr = 1.77417
+
+theta = -0.00377755	 SumSqErr = 1.71671
+
+theta = -0.00367755	 SumSqErr = 1.66071
+
+theta = -0.00357755	 SumSqErr = 1.60621
+
+theta = -0.00347755	 SumSqErr = 1.55325
+
+theta = -0.00337755	 SumSqErr = 1.50175
+
+theta = -0.00327755	 SumSqErr = 1.45191
+
+theta = -0.00317755	 SumSqErr = 1.40342
+
+theta = -0.00307755	 SumSqErr = 1.35654
+
+theta = -0.00297755	 SumSqErr = 1.31105
+
+theta = -0.00287755	 SumSqErr = 1.26723
+
+theta = -0.00277755	 SumSqErr = 1.22474
+
+theta = -0.00267755	 SumSqErr = 1.18389
+
+theta = -0.00257755	 SumSqErr = 1.14449
+
+theta = -0.00247755	 SumSqErr = 1.10667
+
+theta = -0.00237755	 SumSqErr = 1.07022
+
+theta = -0.00227755	 SumSqErr = 1.03541
+
+theta = -0.00217755	 SumSqErr = 1.00209
+
+theta = -0.00207755	 SumSqErr = 0.970182
+
+theta = -0.00197755	 SumSqErr = 0.939864
+
+theta = -0.00187755	 SumSqErr = 0.911067
+
+theta = -0.00177755	 SumSqErr = 0.883721
+
+theta = -0.00167755	 SumSqErr = 0.857914
+
+theta = -0.00157755	 SumSqErr = 0.833565
+
+theta = -0.00147755	 SumSqErr = 0.810805
+
+theta = -0.00137755	 SumSqErr = 0.789552
+
+theta = -0.00127755	 SumSqErr = 0.769837
+
+theta = -0.00117755	 SumSqErr = 0.751552
+
+theta = -0.00107755	 SumSqErr = 0.734737
+
+theta = -0.000977553	 SumSqErr = 0.719468
+
+theta = -0.000877553	 SumSqErr = 0.705772
+
+theta = -0.000777553	 SumSqErr = 0.69352
+
+theta = -0.000677553	 SumSqErr = 0.682799
+
+theta = -0.000577553	 SumSqErr = 0.673613
+
+theta = -0.000477553	 SumSqErr = 0.665905
+
+theta = -0.000377553	 SumSqErr = 0.659713
+
+theta = -0.000277553	 SumSqErr = 0.655026
+
+theta = -0.000177553	 SumSqErr = 0.65187
+
+theta = -7.75532e-05	 SumSqErr = 0.650155
+
+theta = 2.24468e-05	 SumSqErr = 0.650019
+
+theta = 0.000122447	 SumSqErr = 0.651365
+
+theta = 0.000222447	 SumSqErr = 0.654247
+
+theta = 0.000322447	 SumSqErr = 0.658563
+
+theta = 0.000422447	 SumSqErr = 0.664464
+
+theta = 0.000522447	 SumSqErr = 0.671851
+
+theta = 0.000622447	 SumSqErr = 0.680761
+
+theta = 0.000722447	 SumSqErr = 0.691156
+
+theta = 0.000822447	 SumSqErr = 0.703077
+
+theta = 0.000922447	 SumSqErr = 0.716488
+
+theta = 0.00102245	 SumSqErr = 0.731386
+
+theta = 0.00112245	 SumSqErr = 0.747858
+
+theta = 0.00122245	 SumSqErr = 0.765823
+
+theta = 0.00132245	 SumSqErr = 0.785206
+
+theta = 0.00142245	 SumSqErr = 0.806207
+
+theta = 0.00152245	 SumSqErr = 0.828696
+
+theta = 0.00162245	 SumSqErr = 0.852644
+
+theta = 0.00172245	 SumSqErr = 0.878112
+
+theta = 0.00182245	 SumSqErr = 0.905072
+
+theta = 0.00192245	 SumSqErr = 0.933645
+
+theta = 0.00202245	 SumSqErr = 0.963625
+
+theta = 0.00212245	 SumSqErr = 0.995198
+
+theta = 0.00222245	 SumSqErr = 1.02816
+
+theta = 0.00232245	 SumSqErr = 1.06272
+
+theta = 0.00242245	 SumSqErr = 1.09875
+
+theta = 0.00252245	 SumSqErr = 1.13629
+
+theta = 0.00262245	 SumSqErr = 1.17539
+
+theta = 0.00272245	 SumSqErr = 1.21589
+
+theta = 0.00282245	 SumSqErr = 1.25805
+
+theta = 0.00292245	 SumSqErr = 1.30164
+
+theta = 0.00302245	 SumSqErr = 1.34674
+
+theta = 0.00312245	 SumSqErr = 1.39332
+
+theta = 0.00322245	 SumSqErr = 1.44142
+
+theta = 0.00332245	 SumSqErr = 1.49109
+
+theta = 0.00342245	 SumSqErr = 1.54223
+
+theta = 0.00352245	 SumSqErr = 1.59487
+
+theta = 0.00362245	 SumSqErr = 1.64899
+
+theta = 0.00372245	 SumSqErr = 1.70466
+
+theta = 0.00382245	 SumSqErr = 1.76186
+
+theta = 0.00392245	 SumSqErr = 1.82058
+
+theta = 0.00402245	 SumSqErr = 1.88076
+
+theta = 0.00412245	 SumSqErr = 1.94239
+
+theta = 0.00422245	 SumSqErr = 2.00564
+
+theta = 0.00432245	 SumSqErr = 2.07031
+
+theta = 0.00442245	 SumSqErr = 2.13653
+
+theta = 0.00452245	 SumSqErr = 2.2043
+
+theta = 0.00462245	 SumSqErr = 2.2735
+
+theta = 0.00472245	 SumSqErr = 2.34424
+
+theta = 0.00482245	 SumSqErr = 2.41655
+
+theta = 0.00492245	 SumSqErr = 2.49023
+
+theta = 0.00502245	 SumSqErr = 2.56554
+
+theta = 0.00512245	 SumSqErr = 2.64231
+
+theta = 0.00522245	 SumSqErr = 2.72065
+
+theta = 0.00532245	 SumSqErr = 2.80041
+
+theta = 0.00542245	 SumSqErr = 2.88168
+
+theta = 0.00552244	 SumSqErr = 2.96445
+
+theta = 0.00562244	 SumSqErr = 3.04878
+
+theta = 0.00572244	 SumSqErr = 3.13465
+
+theta = 0.00582244	 SumSqErr = 3.222
+
+theta = 0.00592244	 SumSqErr = 3.31094
+
+theta = 0.00602244	 SumSqErr = 3.40121
+
+theta = 0.00612244	 SumSqErr = 3.49312
+
+theta = 0.00622244	 SumSqErr = 3.58641
+
+theta = 0.00632244	 SumSqErr = 3.68139
+
+theta = 0.00642244	 SumSqErr = 3.77773
+
+theta = 0.00652244	 SumSqErr = 3.87574
+
+theta = 0.00662244	 SumSqErr = 3.97505
+
+theta = 0.00672244	 SumSqErr = 4.07592
+
+theta = 0.00682244	 SumSqErr = 4.1784
+
+theta = 0.00692244	 SumSqErr = 4.28223
+
+theta = 0.00702244	 SumSqErr = 4.38774
+
+theta = 0.00712244	 SumSqErr = 4.49474
+
+theta = 0.00722244	 SumSqErr = 4.60321
+
+theta = 0.00732244	 SumSqErr = 4.71318
+
+theta = 0.00742244	 SumSqErr = 4.82461
+
+theta = 0.00752244	 SumSqErr = 4.93765
+
+theta = 0.00762244	 SumSqErr = 5.05215
+
+theta = 0.00772244	 SumSqErr = 5.16811
+
+theta = 0.00782244	 SumSqErr = 5.28562
+
+theta = 0.00792244	 SumSqErr = 5.4047
+
+theta = 0.00802244	 SumSqErr = 5.52523
+
+theta = 0.00812244	 SumSqErr = 5.64722
+
+theta = 0.00822244	 SumSqErr = 5.77083
+
+theta = 0.00832244	 SumSqErr = 5.89583
+
+theta = 0.00842244	 SumSqErr = 6.0224
+
+theta = 0.00852244	 SumSqErr = 6.15042
+
+theta = 0.00862244	 SumSqErr = 6.28006
+
+theta = 0.00872244	 SumSqErr = 6.41109
+
+theta = 0.00882244	 SumSqErr = 6.5437
+
+theta = 0.00892244	 SumSqErr = 6.67787
+
+theta = 0.00902244	 SumSqErr = 6.81356
+
+theta = 0.00912244	 SumSqErr = 6.95068
+
+theta = 0.00922244	 SumSqErr = 7.08919
+
+theta = 0.00932244	 SumSqErr = 7.22934
+
+theta = 0.00942244	 SumSqErr = 7.371
+
+theta = 0.00952244	 SumSqErr = 7.51416
+
+theta = 0.00962244	 SumSqErr = 7.65883
+
+theta = 0.00972244	 SumSqErr = 7.80501
+
+theta = 0.00982244	 SumSqErr = 7.95271
+
+theta = 0.00992244	 SumSqErr = 8.10183
+
+theta = 0.0100224	 SumSqErr = 8.25255
+
+theta = 0.0101224	 SumSqErr = 8.40475
+
+theta = 0.0102224	 SumSqErr = 8.55848
+
+theta = 0.0103224	 SumSqErr = 8.71379
+
+theta = 0.0104224	 SumSqErr = 8.87045
+
+theta = 0.0105224	 SumSqErr = 9.02871
+
+theta = 0.0106224	 SumSqErr = 9.18846
+
+theta = 0.0107224	 SumSqErr = 9.34973
+
+theta = 0.0108224	 SumSqErr = 9.51258
+
+theta = 0.0109224	 SumSqErr = 9.67688
+
+theta = 0.0110224	 SumSqErr = 9.84259
+
+theta = 0.0111224	 SumSqErr = 10.0099
+
+theta = 0.0112224	 SumSqErr = 10.1787
+
+theta = 0.0113224	 SumSqErr = 10.349
+
+theta = 0.0114224	 SumSqErr = 10.5208
+
+theta = 0.0115224	 SumSqErr = 10.6941
+
+theta = 0.0116224	 SumSqErr = 10.869
+
+theta = 0.0117224	 SumSqErr = 11.0452
+
+theta = 0.0118224	 SumSqErr = 11.2231
+
+theta = 0.0119224	 SumSqErr = 11.4024
+
+theta = 0.0120224	 SumSqErr = 11.5836
+
+theta = 0.0121224	 SumSqErr = 11.7658
+
+theta = 0.0122224	 SumSqErr = 11.9498
+
+theta = 0.0123224	 SumSqErr = 12.1351
+
+theta = 0.0124224	 SumSqErr = 12.3221
+
+theta = 0.0125224	 SumSqErr = 12.5105
+
+theta = 0.0126224	 SumSqErr = 12.7002
+
+theta = 0.0127224	 SumSqErr = 12.8918
+
+theta = 0.0128224	 SumSqErr = 13.0846
+
+theta = 0.0129224	 SumSqErr = 13.2794
+
+theta = 0.0130224	 SumSqErr = 13.4752
+
+theta = 0.0131224	 SumSqErr = 13.6726
+
+theta = 0.0132224	 SumSqErr = 13.8714
+
+theta = 0.0133224	 SumSqErr = 14.0721
+
+theta = 0.0134224	 SumSqErr = 14.274
+
+theta = 0.0135224	 SumSqErr = 14.4775
+
+theta = 0.0136224	 SumSqErr = 14.6824
+
+theta = 0.0137224	 SumSqErr = 14.889
+
+theta = 0.0138224	 SumSqErr = 15.0972
+
+theta = 0.0139224	 SumSqErr = 15.3066
+
+theta = 0.0140224	 SumSqErr = 15.5176
+
+theta = 0.0141224	 SumSqErr = 15.7301
+
+theta = 0.0142224	 SumSqErr = 15.9442
+
+theta = 0.0143224	 SumSqErr = 16.1597
+
+theta = 0.0144224	 SumSqErr = 16.3769
+
+theta = 0.0145224	 SumSqErr = 16.5955
+
+theta = 0.0146224	 SumSqErr = 16.8154
+
+theta = 0.0147224	 SumSqErr = 17.0372
+
+theta = 0.0148224	 SumSqErr = 17.2602
+
+theta = 0.0149224	 SumSqErr = 17.4848
+
+theta = 0.0150224	 SumSqErr = 17.7111
+
+theta = 0.0151224	 SumSqErr = 17.9388
+
+theta = 0.0152224	 SumSqErr = 18.1677
+
+theta = 0.0153224	 SumSqErr = 18.3986
+
+theta = 0.0154224	 SumSqErr = 18.6306
+
+theta = 0.0155224	 SumSqErr = 18.8644
+
+theta = 0.0156224	 SumSqErr = 19.0996
+
+theta = 0.0157224	 SumSqErr = 19.336
+
+theta = 0.0158224	 SumSqErr = 19.5741
+
+theta = 0.0159224	 SumSqErr = 19.8139
+
+theta = 0.0160224	 SumSqErr = 20.0551
+
+theta = 0.0161224	 SumSqErr = 20.2981
+
+theta = 0.0162224	 SumSqErr = 20.5423
+
+theta = 0.0163224	 SumSqErr = 20.788
+
+theta = 0.0164224	 SumSqErr = 21.0353
+
+theta = 0.0165224	 SumSqErr = 21.2838
+
+theta = 0.0166224	 SumSqErr = 21.5341
+
+theta = 0.0167224	 SumSqErr = 21.786
+
+theta = 0.0168224	 SumSqErr = 22.0393
+
+theta = 0.0169224	 SumSqErr = 22.2941
+
+theta = 0.0170224	 SumSqErr = 22.5502
+
+theta = 0.0171224	 SumSqErr = 22.8082
+
+theta = 0.0172224	 SumSqErr = 23.0675
+
+theta = 0.0173224	 SumSqErr = 23.3285
+
+theta = 0.0174224	 SumSqErr = 23.5905
+
+theta = 0.0175224	 SumSqErr = 23.8542
+
+theta = 0.0176224	 SumSqErr = 24.1198
+
+theta = 0.0177224	 SumSqErr = 24.3867
+
+theta = 0.0178224	 SumSqErr = 24.6549
+
+theta = 0.0179224	 SumSqErr = 24.9249
+
+theta = 0.0180224	 SumSqErr = 25.1964
+
+theta = 0.0181224	 SumSqErr = 25.4691
+
+theta = 0.0182224	 SumSqErr = 25.7437
+
+theta = 0.0183224	 SumSqErr = 26.0193
+
+theta = 0.0184224	 SumSqErr = 26.297
+
+theta = 0.0185224	 SumSqErr = 26.5758
+
+theta = 0.0186224	 SumSqErr = 26.8563
+
+theta = 0.0187224	 SumSqErr = 27.1384
+
+theta = 0.0188224	 SumSqErr = 27.4217
+
+theta = 0.0189224	 SumSqErr = 27.7065
+
+theta = 0.0190224	 SumSqErr = 27.9933
+
+theta = 0.0191224	 SumSqErr = 28.2809
+
+theta = 0.0192224	 SumSqErr = 28.5706
+
+theta = 0.0193224	 SumSqErr = 28.8613
+
+theta = 0.0194224	 SumSqErr = 29.1538
+
+theta = 0.0195224	 SumSqErr = 29.448
+
+theta = 0.0196224	 SumSqErr = 29.7435
+
+theta = 0.0197224	 SumSqErr = 30.0406
+
+theta = 0.0198224	 SumSqErr = 30.3391
+
+theta = 0.0199224	 SumSqErr = 30.639
+
+theta = 0.0200224	 SumSqErr = 30.9405
+
+theta = 0.0201224	 SumSqErr = 31.2437
+
+theta = 0.0202224	 SumSqErr = 31.5483
+
+theta = 0.0203224	 SumSqErr = 31.8542
+
+theta = 0.0204224	 SumSqErr = 32.1621
+
+theta = 0.0205224	 SumSqErr = 32.4712
+
+theta = 0.0206224	 SumSqErr = 32.7816
+
+theta = 0.0207224	 SumSqErr = 33.0939
+
+theta = 0.0208224	 SumSqErr = 33.4072
+
+theta = 0.0209224	 SumSqErr = 33.7225
+
+theta = 0.0210224	 SumSqErr = 34.0391
+
+theta = 0.0211224	 SumSqErr = 34.3572
+
+theta = 0.0212224	 SumSqErr = 34.677
+
+theta = 0.0213224	 SumSqErr = 34.9978
+
+theta = 0.0214224	 SumSqErr = 35.3205
+
+theta = 0.0215224	 SumSqErr = 35.6449
+
+theta = 0.0216224	 SumSqErr = 35.9704
+
+theta = 0.0217224	 SumSqErr = 36.2975
+
+theta = 0.0218224	 SumSqErr = 36.6265
+
+theta = 0.0219224	 SumSqErr = 36.9568
+
+theta = 0.0220224	 SumSqErr = 37.2883
+
+theta = 0.0221224	 SumSqErr = 37.6214
+
+theta = 0.0222224	 SumSqErr = 37.9563
+
+theta = 0.0223224	 SumSqErr = 38.2925
+
+theta = 0.0224224	 SumSqErr = 38.6303
+
+theta = 0.0225224	 SumSqErr = 38.9694
+
+theta = 0.0226224	 SumSqErr = 39.3103
+
+theta = 0.0227224	 SumSqErr = 39.6525
+
+theta = 0.0228224	 SumSqErr = 39.9964
+
+theta = 0.0229224	 SumSqErr = 40.3414
+
+theta = 0.0230224	 SumSqErr = 40.6883
+
+theta = 0.0231224	 SumSqErr = 41.0367
+
+theta = 0.0232224	 SumSqErr = 41.3865
+
+theta = 0.0233224	 SumSqErr = 41.7378
+
+theta = 0.0234224	 SumSqErr = 42.0907
+
+theta = 0.0235224	 SumSqErr = 42.4449
+
+theta = 0.0236224	 SumSqErr = 42.8007
+
+theta = 0.0237224	 SumSqErr = 43.1582
+
+theta = 0.0238224	 SumSqErr = 43.517
+
+theta = 0.0239224	 SumSqErr = 43.8775
+
+theta = 0.0240224	 SumSqErr = 44.2392
+
+theta = 0.0241224	 SumSqErr = 44.6025
+
+theta = 0.0242224	 SumSqErr = 44.9676
+
+theta = 0.0243224	 SumSqErr = 45.3341
+
+theta = 0.0244224	 SumSqErr = 45.7019
+
+theta = 0.0245224	 SumSqErr = 46.0716
+
+theta = 0.0246224	 SumSqErr = 46.4422
+
+theta = 0.0247224	 SumSqErr = 46.8146
+
+theta = 0.0248224	 SumSqErr = 47.1882
+
+theta = 0.0249224	 SumSqErr = 47.5641
+
+theta = 0.0250224	 SumSqErr = 47.9408
+
+theta = 0.0251224	 SumSqErr = 48.3195
+
+theta = 0.0252224	 SumSqErr = 48.6995
+
+theta = 0.0253224	 SumSqErr = 49.0807
+
+theta = 0.0254224	 SumSqErr = 49.464
+
+theta = 0.0255224	 SumSqErr = 49.8486
+
+theta = 0.0256224	 SumSqErr = 50.2342
+
+theta = 0.0257224	 SumSqErr = 50.6218
+
+theta = 0.0258224	 SumSqErr = 51.0109
+
+theta = 0.0259224	 SumSqErr = 51.401
+
+theta = 0.0260224	 SumSqErr = 51.7934
+
+theta = 0.0261224	 SumSqErr = 52.1872
+
+theta = 0.0262224	 SumSqErr = 52.5818
+
+theta = 0.0263224	 SumSqErr = 52.9788
+
+theta = 0.0264224	 SumSqErr = 53.3768
+
+theta = 0.0265224	 SumSqErr = 53.7761
+
+theta = 0.0266224	 SumSqErr = 54.1771
+
+theta = 0.0267224	 SumSqErr = 54.58
+
+theta = 0.0268224	 SumSqErr = 54.9844
+
+theta = 0.0269224	 SumSqErr = 55.39
+
+theta = 0.0270224	 SumSqErr = 55.7969
+
+theta = 0.0271224	 SumSqErr = 56.2053
+
+theta = 0.0272224	 SumSqErr = 56.6156
+
+theta = 0.0273224	 SumSqErr = 57.0275
+
+theta = 0.0274224	 SumSqErr = 57.4402
+
+theta = 0.0275224	 SumSqErr = 57.8552
+
+theta = 0.0276224	 SumSqErr = 58.2714
+
+theta = 0.0277224	 SumSqErr = 58.6891
+
+theta = 0.0278224	 SumSqErr = 59.1082
+
+theta = 0.0279224	 SumSqErr = 59.5291
+
+theta = 0.0280224	 SumSqErr = 59.9512
+
+theta = 0.0281224	 SumSqErr = 60.3749
+
+theta = 0.0282224	 SumSqErr = 60.7999
+
+theta = 0.0283224	 SumSqErr = 61.2266
+
+theta = 0.0284224	 SumSqErr = 61.6548
+
+theta = 0.0285224	 SumSqErr = 62.0849
+
+theta = 0.0286224	 SumSqErr = 62.5157
+
+theta = 0.0287224	 SumSqErr = 62.9489
+
+theta = 0.0288224	 SumSqErr = 63.3831
+
+theta = 0.0289224	 SumSqErr = 63.8188
+
+theta = 0.0290224	 SumSqErr = 64.2559
+
+theta = 0.0291224	 SumSqErr = 64.6949
+
+theta = 0.0292224	 SumSqErr = 65.1352
+
+theta = 0.0293224	 SumSqErr = 65.5768
+
+theta = 0.0294224	 SumSqErr = 66.0203
+
+theta = 0.0295224	 SumSqErr = 66.4651
+
+theta = 0.0296224	 SumSqErr = 66.9115
+
+theta = 0.0297224	 SumSqErr = 67.3591
+
+theta = 0.0298224	 SumSqErr = 67.8086
+
+theta = 0.0299224	 SumSqErr = 68.2596
+
+theta = 0.0300224	 SumSqErr = 68.7122
+
+theta = 0.0301224	 SumSqErr = 69.1656
+
+theta = 0.0302224	 SumSqErr = 69.6209
+
+theta = 0.0303224	 SumSqErr = 70.0779
+
+theta = 0.0304224	 SumSqErr = 70.5362
+
+theta = 0.0305224	 SumSqErr = 70.9966
+
+theta = 0.0306224	 SumSqErr = 71.4579
+
+theta = 0.0307224	 SumSqErr = 71.9205
+
+theta = 0.0308224	 SumSqErr = 72.3851
+
+theta = 0.0309224	 SumSqErr = 72.8509
+
+theta = 0.0310224	 SumSqErr = 73.3186
+
+theta = 0.0311224	 SumSqErr = 73.7874
+
+theta = 0.0312224	 SumSqErr = 74.258
+
+theta = 0.0313224	 SumSqErr = 74.7298
+
+theta = 0.0314224	 SumSqErr = 75.2034
+
+theta = 0.0315224	 SumSqErr = 75.6782
+
+theta = 0.0316224	 SumSqErr = 76.1548
+
+theta = 0.0317224	 SumSqErr = 76.6331
+
+theta = 0.0318224	 SumSqErr = 77.1125
+
+theta = 0.0319224	 SumSqErr = 77.5934
+
+theta = 0.0320224	 SumSqErr = 78.0757
+
+theta = 0.0321224	 SumSqErr = 78.5599
+
+theta = 0.0322224	 SumSqErr = 79.0452
+
+theta = 0.0323224	 SumSqErr = 79.5322
+
+theta = 0.0324224	 SumSqErr = 80.0211
+
+theta = 0.0325224	 SumSqErr = 80.5113
+
+theta = 0.0326224	 SumSqErr = 81.0027
+
+theta = 0.0327224	 SumSqErr = 81.4958
+
+theta = 0.0328224	 SumSqErr = 81.9906
+
+theta = 0.0329224	 SumSqErr = 82.4864
+
+theta = 0.0330224	 SumSqErr = 82.984
+
+theta = 0.0331224	 SumSqErr = 83.4831
+
+theta = 0.0332224	 SumSqErr = 83.9839
+
+theta = 0.0333224	 SumSqErr = 84.4863
+
+theta = 0.0334224	 SumSqErr = 84.9894
+
+theta = 0.0335224	 SumSqErr = 85.4946
+
+theta = 0.0336224	 SumSqErr = 86.0013
+
+theta = 0.0337224	 SumSqErr = 86.5098
+
+theta = 0.0338224	 SumSqErr = 87.0193
+
+theta = 0.0339224	 SumSqErr = 87.5306
+
+theta = 0.0340224	 SumSqErr = 88.0434
+
+theta = 0.0341224	 SumSqErr = 88.5573
+
+theta = 0.0342225	 SumSqErr = 89.073
+
+theta = 0.0343225	 SumSqErr = 89.5903
+
+theta = 0.0344225	 SumSqErr = 90.1091
+
+theta = 0.0345225	 SumSqErr = 90.629
+
+theta = 0.0346225	 SumSqErr = 91.1511
+
+theta = 0.0347225	 SumSqErr = 91.6743
+
+theta = 0.0348225	 SumSqErr = 92.1987
+
+theta = 0.0349225	 SumSqErr = 92.7254
+
+theta = 0.0350225	 SumSqErr = 93.2531
+
+theta = 0.0351225	 SumSqErr = 93.7819
+
+theta = 0.0352225	 SumSqErr = 94.3126
+
+theta = 0.0353225	 SumSqErr = 94.8454
+
+theta = 0.0354225	 SumSqErr = 95.3789
+
+theta = 0.0355225	 SumSqErr = 95.9144
+
+theta = 0.0356225	 SumSqErr = 96.4511
+
+theta = 0.0357225	 SumSqErr = 96.9894
+
+theta = 0.0358225	 SumSqErr = 97.5293
+
+theta = 0.0359225	 SumSqErr = 98.0707
+
+theta = 0.0360225	 SumSqErr = 98.6133
+
+theta = 0.0361225	 SumSqErr = 99.1571
+
+theta = 0.0362225	 SumSqErr = 99.7036
+
+theta = 0.0363225	 SumSqErr = 100.251
+
+theta = 0.0364225	 SumSqErr = 100.8
+
+theta = 0.0365225	 SumSqErr = 101.35
+
+theta = 0.0366225	 SumSqErr = 101.902
+
+theta = 0.0367225	 SumSqErr = 102.455
+
+theta = 0.0368225	 SumSqErr = 103.01
+
+theta = 0.0369225	 SumSqErr = 103.567
+
+theta = 0.0370225	 SumSqErr = 104.124
+
+theta = 0.0371225	 SumSqErr = 104.684
+
+theta = 0.0372225	 SumSqErr = 105.245
+
+theta = 0.0373225	 SumSqErr = 105.807
+
+theta = 0.0374225	 SumSqErr = 106.371
+
+theta = 0.0375225	 SumSqErr = 106.938
+
+theta = 0.0376225	 SumSqErr = 107.504
+
+theta = 0.0377225	 SumSqErr = 108.072
+
+theta = 0.0378225	 SumSqErr = 108.642
+
+theta = 0.0379225	 SumSqErr = 109.214
+
+theta = 0.0380225	 SumSqErr = 109.787
+
+theta = 0.0381225	 SumSqErr = 110.361
+
+theta = 0.0382225	 SumSqErr = 110.937
+
+theta = 0.0383225	 SumSqErr = 111.515
+
+theta = 0.0384225	 SumSqErr = 112.095
+
+theta = 0.0385225	 SumSqErr = 112.675
+
+theta = 0.0386225	 SumSqErr = 113.257
+
+theta = 0.0387225	 SumSqErr = 113.84
+
+theta = 0.0388225	 SumSqErr = 114.426
+
+theta = 0.0389225	 SumSqErr = 115.012
+
+theta = 0.0390225	 SumSqErr = 115.6
+
+theta = 0.0391225	 SumSqErr = 116.189
+
+theta = 0.0392225	 SumSqErr = 116.78
+
+theta = 0.0393225	 SumSqErr = 117.373
+
+theta = 0.0394225	 SumSqErr = 117.968
+
+theta = 0.0395225	 SumSqErr = 118.563
+
+theta = 0.0396225	 SumSqErr = 119.159
+
+theta = 0.0397225	 SumSqErr = 119.759
+
+theta = 0.0398225	 SumSqErr = 120.359
+
+theta = 0.0399225	 SumSqErr = 120.96
+
+theta = 0.0400225	 SumSqErr = 121.563
+
+theta = 0.0401225	 SumSqErr = 122.168
+
+theta = 0.0402226	 SumSqErr = 122.774
+
+theta = 0.0403226	 SumSqErr = 123.382
+
+theta = 0.0404226	 SumSqErr = 123.991
+
+theta = 0.0405226	 SumSqErr = 124.602
+
+theta = 0.0406226	 SumSqErr = 125.214
+
+theta = 0.0407226	 SumSqErr = 125.828
+
+theta = 0.0408226	 SumSqErr = 126.443
+
+theta = 0.0409226	 SumSqErr = 127.06
+
+theta = 0.0410226	 SumSqErr = 127.678
+
+theta = 0.0411226	 SumSqErr = 128.298
+
+theta = 0.0412226	 SumSqErr = 128.919
+
+theta = 0.0413226	 SumSqErr = 129.542
+
+theta = 0.0414226	 SumSqErr = 130.166
+
+theta = 0.0415226	 SumSqErr = 130.792
+
+theta = 0.0416226	 SumSqErr = 131.419
+
+theta = 0.0417226	 SumSqErr = 132.048
+
+theta = 0.0418226	 SumSqErr = 132.678
+
+theta = 0.0419226	 SumSqErr = 133.309
+
+theta = 0.0420226	 SumSqErr = 133.943
+
+theta = 0.0421226	 SumSqErr = 134.578
+
+theta = 0.0422226	 SumSqErr = 135.215
+
+theta = 0.0423226	 SumSqErr = 135.852
+
+theta = 0.0424226	 SumSqErr = 136.491
+
+theta = 0.0425226	 SumSqErr = 137.131
+
+theta = 0.0426226	 SumSqErr = 137.775
+
+theta = 0.0427226	 SumSqErr = 138.419
+
+theta = 0.0428226	 SumSqErr = 139.064
+
+theta = 0.0429226	 SumSqErr = 139.711
+
+theta = 0.0430226	 SumSqErr = 140.358
+
+theta = 0.0431226	 SumSqErr = 141.009
+
+theta = 0.0432226	 SumSqErr = 141.66
+
+theta = 0.0433226	 SumSqErr = 142.313
+
+theta = 0.0434226	 SumSqErr = 142.967
+
+theta = 0.0435226	 SumSqErr = 143.623
+
+theta = 0.0436226	 SumSqErr = 144.281
+
+theta = 0.0437226	 SumSqErr = 144.94
+
+theta = 0.0438226	 SumSqErr = 145.6
+
+theta = 0.0439226	 SumSqErr = 146.262
+
+theta = 0.0440226	 SumSqErr = 146.925
+
+theta = 0.0441226	 SumSqErr = 147.591
+
+theta = 0.0442226	 SumSqErr = 148.257
+
+theta = 0.0443226	 SumSqErr = 148.925
+
+theta = 0.0444226	 SumSqErr = 149.595
+
+theta = 0.0445226	 SumSqErr = 150.265
+
+theta = 0.0446226	 SumSqErr = 150.938
+
+theta = 0.0447226	 SumSqErr = 151.611
+
+theta = 0.0448226	 SumSqErr = 152.287
+
+theta = 0.0449226	 SumSqErr = 152.964
+
+theta = 0.0450226	 SumSqErr = 153.643
+
+theta = 0.0451226	 SumSqErr = 154.323
+
+theta = 0.0452226	 SumSqErr = 155.004
+
+theta = 0.0453226	 SumSqErr = 155.687
+
+theta = 0.0454226	 SumSqErr = 156.372
+
+theta = 0.0455226	 SumSqErr = 157.058
+
+theta = 0.0456226	 SumSqErr = 157.746
+
+theta = 0.0457226	 SumSqErr = 158.434
+
+theta = 0.0458226	 SumSqErr = 159.125
+
+theta = 0.0459226	 SumSqErr = 159.817
+
+theta = 0.0460226	 SumSqErr = 160.512
+
+theta = 0.0461227	 SumSqErr = 161.207
+
+theta = 0.0462227	 SumSqErr = 161.902
+
+theta = 0.0463227	 SumSqErr = 162.6
+
+theta = 0.0464227	 SumSqErr = 163.3
+
+theta = 0.0465227	 SumSqErr = 164.002
+
+theta = 0.0466227	 SumSqErr = 164.704
+
+theta = 0.0467227	 SumSqErr = 165.408
+
+theta = 0.0468227	 SumSqErr = 166.114
+
+theta = 0.0469227	 SumSqErr = 166.821
+
+theta = 0.0470227	 SumSqErr = 167.53
+
+theta = 0.0471227	 SumSqErr = 168.24
+
+theta = 0.0472227	 SumSqErr = 168.952
+
+theta = 0.0473227	 SumSqErr = 169.665
+
+theta = 0.0474227	 SumSqErr = 170.379
+
+theta = 0.0475227	 SumSqErr = 171.096
+
+theta = 0.0476227	 SumSqErr = 171.813
+
+theta = 0.0477227	 SumSqErr = 172.532
+
+theta = 0.0478227	 SumSqErr = 173.253
+
+theta = 0.0479227	 SumSqErr = 173.976
+
+theta = 0.0480227	 SumSqErr = 174.699
+
+theta = 0.0481227	 SumSqErr = 175.424
+
+theta = 0.0482227	 SumSqErr = 176.151
+
+theta = 0.0483227	 SumSqErr = 176.879
+
+theta = 0.0484227	 SumSqErr = 177.609
+
+theta = 0.0485227	 SumSqErr = 178.341
+
+theta = 0.0486227	 SumSqErr = 179.074
+
+theta = 0.0487227	 SumSqErr = 179.807
+
+theta = 0.0488227	 SumSqErr = 180.543
+
+theta = 0.0489227	 SumSqErr = 181.28
+
+theta = 0.0490227	 SumSqErr = 182.019
+
+theta = 0.0491227	 SumSqErr = 182.759
+
+theta = 0.0492227	 SumSqErr = 183.501
+
+theta = 0.0493227	 SumSqErr = 184.245
+
+theta = 0.0494227	 SumSqErr = 184.99
+
+theta = 0.0495227	 SumSqErr = 185.736
+
+theta = 0.0496227	 SumSqErr = 186.483
+
+theta = 0.0497227	 SumSqErr = 187.232
+
+theta = 0.0498227	 SumSqErr = 187.984
+
+theta = 0.0499227	 SumSqErr = 188.736
+
+theta = 0.0500227	 SumSqErr = 189.49
+
+theta = 0.0501227	 SumSqErr = 190.246
+
+theta = 0.0502227	 SumSqErr = 191.002
+
+theta = 0.0503227	 SumSqErr = 191.76
+
+theta = 0.0504227	 SumSqErr = 192.52
+
+theta = 0.0505227	 SumSqErr = 193.282
+
+theta = 0.0506227	 SumSqErr = 194.045
+
+theta = 0.0507227	 SumSqErr = 194.809
+
+theta = 0.0508227	 SumSqErr = 195.575
+
+theta = 0.0509227	 SumSqErr = 196.343
+
+theta = 0.0510227	 SumSqErr = 197.112
+
+theta = 0.0511227	 SumSqErr = 197.882
+
+theta = 0.0512227	 SumSqErr = 198.654
+
+theta = 0.0513227	 SumSqErr = 199.428
+
+theta = 0.0514227	 SumSqErr = 200.203
+
+theta = 0.0515227	 SumSqErr = 200.979
+
+theta = 0.0516227	 SumSqErr = 201.757
+
+theta = 0.0517227	 SumSqErr = 202.536
+
+theta = 0.0518227	 SumSqErr = 203.317
+
+theta = 0.0519227	 SumSqErr = 204.1
+
+theta = 0.0520228	 SumSqErr = 204.884
+
+theta = 0.0521228	 SumSqErr = 205.669
+
+theta = 0.0522228	 SumSqErr = 206.456
+
+theta = 0.0523228	 SumSqErr = 207.245
+
+theta = 0.0524228	 SumSqErr = 208.035
+
+theta = 0.0525228	 SumSqErr = 208.826
+
+theta = 0.0526228	 SumSqErr = 209.62
+
+theta = 0.0527228	 SumSqErr = 210.413
+
+theta = 0.0528228	 SumSqErr = 211.21
+
+theta = 0.0529228	 SumSqErr = 212.007
+
+theta = 0.0530228	 SumSqErr = 212.806
+
+theta = 0.0531228	 SumSqErr = 213.606
+
+theta = 0.0532228	 SumSqErr = 214.408
+
+theta = 0.0533228	 SumSqErr = 215.213
+
+theta = 0.0534228	 SumSqErr = 216.018
+
+theta = 0.0535228	 SumSqErr = 216.824
+
+theta = 0.0536228	 SumSqErr = 217.632
+
+theta = 0.0537228	 SumSqErr = 218.442
+
+theta = 0.0538228	 SumSqErr = 219.253
+
+theta = 0.0539228	 SumSqErr = 220.066
+
+theta = 0.0540228	 SumSqErr = 220.88
+
+theta = 0.0541228	 SumSqErr = 221.696
+
+theta = 0.0542228	 SumSqErr = 222.513
+
+theta = 0.0543228	 SumSqErr = 223.331
+
+theta = 0.0544228	 SumSqErr = 224.151
+
+theta = 0.0545228	 SumSqErr = 224.973
+
+theta = 0.0546228	 SumSqErr = 225.796
+
+theta = 0.0547228	 SumSqErr = 226.621
+
+theta = 0.0548228	 SumSqErr = 227.447
+
+theta = 0.0549228	 SumSqErr = 228.275
+
+theta = 0.0550228	 SumSqErr = 229.104
+
+theta = 0.0551228	 SumSqErr = 229.935
+
+theta = 0.0552228	 SumSqErr = 230.767
+
+theta = 0.0553228	 SumSqErr = 231.601
+
+theta = 0.0554228	 SumSqErr = 232.436
+
+theta = 0.0555228	 SumSqErr = 233.273
+
+theta = 0.0556228	 SumSqErr = 234.111
+
+theta = 0.0557228	 SumSqErr = 234.951
+
+theta = 0.0558228	 SumSqErr = 235.792
+
+theta = 0.0559228	 SumSqErr = 236.634
+
+theta = 0.0560228	 SumSqErr = 237.478
+
+theta = 0.0561228	 SumSqErr = 238.325
+
+theta = 0.0562228	 SumSqErr = 239.172
+
+theta = 0.0563228	 SumSqErr = 240.021
+
+theta = 0.0564228	 SumSqErr = 240.871
+
+theta = 0.0565228	 SumSqErr = 241.723
+
+theta = 0.0566228	 SumSqErr = 242.576
+
+theta = 0.0567228	 SumSqErr = 243.431
+
+theta = 0.0568228	 SumSqErr = 244.287
+
+theta = 0.0569228	 SumSqErr = 245.145
+
+theta = 0.0570228	 SumSqErr = 246.005
+
+theta = 0.0571228	 SumSqErr = 246.865
+
+theta = 0.0572228	 SumSqErr = 247.728
+
+theta = 0.0573228	 SumSqErr = 248.591
+
+theta = 0.0574228	 SumSqErr = 249.457
+
+theta = 0.0575228	 SumSqErr = 250.323
+
+theta = 0.0576228	 SumSqErr = 251.192
+
+theta = 0.0577228	 SumSqErr = 252.062
+
+theta = 0.0578228	 SumSqErr = 252.933
+
+theta = 0.0579229	 SumSqErr = 253.806
+
+theta = 0.0580229	 SumSqErr = 254.681
+
+theta = 0.0581229	 SumSqErr = 255.556
+
+theta = 0.0582229	 SumSqErr = 256.434
+
+theta = 0.0583229	 SumSqErr = 257.312
+
+theta = 0.0584229	 SumSqErr = 258.194
+
+theta = 0.0585229	 SumSqErr = 259.075
+
+theta = 0.0586229	 SumSqErr = 259.959
+
+theta = 0.0587229	 SumSqErr = 260.843
+
+theta = 0.0588229	 SumSqErr = 261.729
+
+theta = 0.0589229	 SumSqErr = 262.618
+
+theta = 0.0590229	 SumSqErr = 263.507
+
+theta = 0.0591229	 SumSqErr = 264.398
+
+theta = 0.0592229	 SumSqErr = 265.29
+
+theta = 0.0593229	 SumSqErr = 266.185
+
+theta = 0.0594229	 SumSqErr = 267.08
+
+theta = 0.0595229	 SumSqErr = 267.977
+
+theta = 0.0596229	 SumSqErr = 268.876
+
+theta = 0.0597229	 SumSqErr = 269.776
+
+theta = 0.0598229	 SumSqErr = 270.677
+
+theta = 0.0599229	 SumSqErr = 271.58
+
+theta = 0.0600229	 SumSqErr = 272.485
+
+theta = 0.0601229	 SumSqErr = 273.39
+
+theta = 0.0602229	 SumSqErr = 274.298
+
+theta = 0.0603229	 SumSqErr = 275.208
+
+theta = 0.0604229	 SumSqErr = 276.117
+
+theta = 0.0605229	 SumSqErr = 277.029
+
+theta = 0.0606229	 SumSqErr = 277.943
+
+theta = 0.0607229	 SumSqErr = 278.858
+
+theta = 0.0608229	 SumSqErr = 279.775
+
+theta = 0.0609229	 SumSqErr = 280.692
+
+theta = 0.0610229	 SumSqErr = 281.611
+
+theta = 0.0611229	 SumSqErr = 282.533
+
+theta = 0.0612229	 SumSqErr = 283.455
+
+theta = 0.0613229	 SumSqErr = 284.379
+
+theta = 0.0614229	 SumSqErr = 285.305
+
+theta = 0.0615229	 SumSqErr = 286.233
+
+theta = 0.0616229	 SumSqErr = 287.162
+
+theta = 0.0617229	 SumSqErr = 288.091
+
+theta = 0.0618229	 SumSqErr = 289.023
+
+theta = 0.0619229	 SumSqErr = 289.956
+
+theta = 0.0620229	 SumSqErr = 290.891
+
+theta = 0.0621229	 SumSqErr = 291.827
+
+theta = 0.0622229	 SumSqErr = 292.764
+
+theta = 0.0623229	 SumSqErr = 293.703
+
+theta = 0.0624229	 SumSqErr = 294.645
+
+theta = 0.0625229	 SumSqErr = 295.586
+
+theta = 0.0626229	 SumSqErr = 296.53
+
+theta = 0.0627229	 SumSqErr = 297.475
+
+theta = 0.0628229	 SumSqErr = 298.422
+
+theta = 0.0629229	 SumSqErr = 299.37
+
+theta = 0.0630229	 SumSqErr = 300.319
+
+theta = 0.0631229	 SumSqErr = 301.27
+
+theta = 0.0632229	 SumSqErr = 302.224
+
+theta = 0.0633229	 SumSqErr = 303.178
+
+theta = 0.0634229	 SumSqErr = 304.133
+
+theta = 0.0635229	 SumSqErr = 305.091
+
+theta = 0.0636229	 SumSqErr = 306.05
+
+theta = 0.0637229	 SumSqErr = 307.01
+
+theta = 0.0638229	 SumSqErr = 307.972
+
+theta = 0.0639229	 SumSqErr = 308.935
+
+theta = 0.064023	 SumSqErr = 309.899
+
+theta = 0.064123	 SumSqErr = 310.867
+
+theta = 0.064223	 SumSqErr = 311.833
+
+theta = 0.064323	 SumSqErr = 312.803
+
+theta = 0.064423	 SumSqErr = 313.773
+
+theta = 0.064523	 SumSqErr = 314.744
+
+theta = 0.064623	 SumSqErr = 315.719
+
+theta = 0.064723	 SumSqErr = 316.695
+
+theta = 0.064823	 SumSqErr = 317.671
+
+theta = 0.064923	 SumSqErr = 318.649
+
+theta = 0.065023	 SumSqErr = 319.63
+
+theta = 0.065123	 SumSqErr = 320.611
+
+theta = 0.065223	 SumSqErr = 321.593
+
+theta = 0.065323	 SumSqErr = 322.578
+
+theta = 0.065423	 SumSqErr = 323.564
+
+theta = 0.065523	 SumSqErr = 324.551
+
+theta = 0.065623	 SumSqErr = 325.539
+
+theta = 0.065723	 SumSqErr = 326.53
+
+theta = 0.065823	 SumSqErr = 327.522
+
+theta = 0.065923	 SumSqErr = 328.515
+
+theta = 0.066023	 SumSqErr = 329.51
+
+theta = 0.066123	 SumSqErr = 330.507
+
+theta = 0.066223	 SumSqErr = 331.503
+
+theta = 0.066323	 SumSqErr = 332.505
+
+theta = 0.066423	 SumSqErr = 333.505
+
+theta = 0.066523	 SumSqErr = 334.506
+
+theta = 0.066623	 SumSqErr = 335.51
+
+theta = 0.066723	 SumSqErr = 336.516
+
+theta = 0.066823	 SumSqErr = 337.523
+
+theta = 0.066923	 SumSqErr = 338.531
+
+theta = 0.067023	 SumSqErr = 339.541
+
+theta = 0.067123	 SumSqErr = 340.553
+
+theta = 0.067223	 SumSqErr = 341.566
+
+theta = 0.067323	 SumSqErr = 342.58
+
+theta = 0.067423	 SumSqErr = 343.595
+
+theta = 0.067523	 SumSqErr = 344.614
+
+theta = 0.067623	 SumSqErr = 345.632
+
+theta = 0.067723	 SumSqErr = 346.652
+
+theta = 0.067823	 SumSqErr = 347.675
+
+theta = 0.067923	 SumSqErr = 348.697
+
+theta = 0.068023	 SumSqErr = 349.723
+
+theta = 0.068123	 SumSqErr = 350.75
+
+theta = 0.068223	 SumSqErr = 351.778
+
+theta = 0.068323	 SumSqErr = 352.806
+
+theta = 0.068423	 SumSqErr = 353.838
+
+theta = 0.068523	 SumSqErr = 354.87
+
+theta = 0.068623	 SumSqErr = 355.904
+
+theta = 0.068723	 SumSqErr = 356.94
+
+theta = 0.068823	 SumSqErr = 357.975
+
+theta = 0.068923	 SumSqErr = 359.015
+
+theta = 0.069023	 SumSqErr = 360.055
+
+theta = 0.069123	 SumSqErr = 361.097
+
+theta = 0.069223	 SumSqErr = 362.14
+
+theta = 0.069323	 SumSqErr = 363.184
+
+theta = 0.069423	 SumSqErr = 364.229
+
+theta = 0.069523	 SumSqErr = 365.278
+
+theta = 0.069623	 SumSqErr = 366.327
+
+theta = 0.069723	 SumSqErr = 367.377
+
+theta = 0.069823	 SumSqErr = 368.429
+
+theta = 0.0699231	 SumSqErr = 369.483
+
+theta = 0.0700231	 SumSqErr = 370.538
+
+theta = 0.0701231	 SumSqErr = 371.594
+
+theta = 0.0702231	 SumSqErr = 372.653
+
+theta = 0.0703231	 SumSqErr = 373.713
+
+theta = 0.0704231	 SumSqErr = 374.773
+
+theta = 0.0705231	 SumSqErr = 375.836
+
+theta = 0.0706231	 SumSqErr = 376.9
+
+theta = 0.0707231	 SumSqErr = 377.966
+
+theta = 0.0708231	 SumSqErr = 379.032
+
+theta = 0.0709231	 SumSqErr = 380.101
+
+theta = 0.0710231	 SumSqErr = 381.172
+
+theta = 0.0711231	 SumSqErr = 382.243
+
+theta = 0.0712231	 SumSqErr = 383.316
+
+theta = 0.0713231	 SumSqErr = 384.39
+
+theta = 0.0714231	 SumSqErr = 385.467
+
+theta = 0.0715231	 SumSqErr = 386.546
+
+theta = 0.0716231	 SumSqErr = 387.623
+
+theta = 0.0717231	 SumSqErr = 388.704
+
+theta = 0.0718231	 SumSqErr = 389.787
+
+theta = 0.0719231	 SumSqErr = 390.87
+
+theta = 0.0720231	 SumSqErr = 391.954
+
+theta = 0.0721231	 SumSqErr = 393.042
+
+theta = 0.0722231	 SumSqErr = 394.13
+
+theta = 0.0723231	 SumSqErr = 395.22
+
+theta = 0.0724231	 SumSqErr = 396.311
+
+theta = 0.0725231	 SumSqErr = 397.404
+
+theta = 0.0726231	 SumSqErr = 398.498
+
+theta = 0.0727231	 SumSqErr = 399.594
+
+theta = 0.0728231	 SumSqErr = 400.691
+
+theta = 0.0729231	 SumSqErr = 401.788
+
+theta = 0.0730231	 SumSqErr = 402.89
+
+theta = 0.0731231	 SumSqErr = 403.992
+
+theta = 0.0732231	 SumSqErr = 405.095
+
+theta = 0.0733231	 SumSqErr = 406.199
+
+theta = 0.0734231	 SumSqErr = 407.305
+
+theta = 0.0735231	 SumSqErr = 408.413
+
+theta = 0.0736231	 SumSqErr = 409.523
+
+theta = 0.0737231	 SumSqErr = 410.633
+
+theta = 0.0738231	 SumSqErr = 411.745
+
+theta = 0.0739231	 SumSqErr = 412.859
+
+theta = 0.0740231	 SumSqErr = 413.974
+
+theta = 0.0741231	 SumSqErr = 415.091
+
+theta = 0.0742231	 SumSqErr = 416.21
+
+theta = 0.0743231	 SumSqErr = 417.329
+
+theta = 0.0744231	 SumSqErr = 418.45
+
+theta = 0.0745231	 SumSqErr = 419.573
+
+theta = 0.0746231	 SumSqErr = 420.697
+
+theta = 0.0747231	 SumSqErr = 421.824
+
+theta = 0.0748231	 SumSqErr = 422.951
+
+theta = 0.0749231	 SumSqErr = 424.08
+
+theta = 0.0750231	 SumSqErr = 425.209
+
+theta = 0.0751231	 SumSqErr = 426.342
+
+theta = 0.0752231	 SumSqErr = 427.474
+
+theta = 0.0753231	 SumSqErr = 428.61
+
+theta = 0.0754231	 SumSqErr = 429.747
+
+theta = 0.0755231	 SumSqErr = 430.884
+
+theta = 0.0756231	 SumSqErr = 432.023
+
+theta = 0.0757231	 SumSqErr = 433.164
+
+theta = 0.0758232	 SumSqErr = 434.306
+
+theta = 0.0759232	 SumSqErr = 435.45
+
+theta = 0.0760232	 SumSqErr = 436.595
+
+theta = 0.0761232	 SumSqErr = 437.743
+
+theta = 0.0762232	 SumSqErr = 438.891
+
+theta = 0.0763232	 SumSqErr = 440.04
+
+theta = 0.0764232	 SumSqErr = 441.191
+
+theta = 0.0765232	 SumSqErr = 442.344
+
+theta = 0.0766232	 SumSqErr = 443.499
+
+theta = 0.0767232	 SumSqErr = 444.655
+
+theta = 0.0768232	 SumSqErr = 445.812
+
+theta = 0.0769232	 SumSqErr = 446.971
+
+theta = 0.0770232	 SumSqErr = 448.131
+
+theta = 0.0771232	 SumSqErr = 449.294
+
+theta = 0.0772232	 SumSqErr = 450.456
+
+theta = 0.0773232	 SumSqErr = 451.621
+
+theta = 0.0774232	 SumSqErr = 452.787
+
+theta = 0.0775232	 SumSqErr = 453.957
+
+theta = 0.0776232	 SumSqErr = 455.125
+
+theta = 0.0777232	 SumSqErr = 456.295
+
+theta = 0.0778232	 SumSqErr = 457.468
+
+theta = 0.0779232	 SumSqErr = 458.642
+
+theta = 0.0780232	 SumSqErr = 459.816
+
+theta = 0.0781232	 SumSqErr = 460.996
+
+theta = 0.0782232	 SumSqErr = 462.173
+
+theta = 0.0783232	 SumSqErr = 463.353
+
+theta = 0.0784232	 SumSqErr = 464.534
+
+theta = 0.0785232	 SumSqErr = 465.717
+
+theta = 0.0786232	 SumSqErr = 466.902
+
+theta = 0.0787232	 SumSqErr = 468.088
+
+theta = 0.0788232	 SumSqErr = 469.275
+
+theta = 0.0789232	 SumSqErr = 470.464
+
+theta = 0.0790232	 SumSqErr = 471.654
+
+theta = 0.0791232	 SumSqErr = 472.846
+
+theta = 0.0792232	 SumSqErr = 474.04
+
+theta = 0.0793232	 SumSqErr = 475.235
+
+theta = 0.0794232	 SumSqErr = 476.431
+
+theta = 0.0795232	 SumSqErr = 477.629
+
+theta = 0.0796232	 SumSqErr = 478.828
+
+theta = 0.0797232	 SumSqErr = 480.03
+
+theta = 0.0798232	 SumSqErr = 481.233
+
+theta = 0.0799232	 SumSqErr = 482.436
+
+theta = 0.0800232	 SumSqErr = 483.641
+
+theta = 0.0801232	 SumSqErr = 484.85
+
+theta = 0.0802232	 SumSqErr = 486.057
+
+theta = 0.0803232	 SumSqErr = 487.267
+
+theta = 0.0804232	 SumSqErr = 488.479
+
+theta = 0.0805232	 SumSqErr = 489.692
+
+theta = 0.0806232	 SumSqErr = 490.906
+
+theta = 0.0807232	 SumSqErr = 492.123
+
+theta = 0.0808232	 SumSqErr = 493.34
+
+theta = 0.0809232	 SumSqErr = 494.559
+
+theta = 0.0810232	 SumSqErr = 495.78
+
+theta = 0.0811232	 SumSqErr = 497.001
+
+theta = 0.0812232	 SumSqErr = 498.225
+
+theta = 0.0813232	 SumSqErr = 499.449
+
+theta = 0.0814232	 SumSqErr = 500.677
+
+theta = 0.0815232	 SumSqErr = 501.904
+
+theta = 0.0816232	 SumSqErr = 503.135
+
+theta = 0.0817233	 SumSqErr = 504.365
+
+theta = 0.0818233	 SumSqErr = 505.599
+
+theta = 0.0819233	 SumSqErr = 506.831
+
+theta = 0.0820233	 SumSqErr = 508.067
+
+theta = 0.0821233	 SumSqErr = 509.305
+
+theta = 0.0822233	 SumSqErr = 510.543
+
+theta = 0.0823233	 SumSqErr = 511.784
+
+theta = 0.0824233	 SumSqErr = 513.025
+
+theta = 0.0825233	 SumSqErr = 514.268
+
+theta = 0.0826233	 SumSqErr = 515.512
+
+theta = 0.0827233	 SumSqErr = 516.759
+
+theta = 0.0828233	 SumSqErr = 518.006
+
+theta = 0.0829233	 SumSqErr = 519.256
+
+theta = 0.0830233	 SumSqErr = 520.506
+
+theta = 0.0831233	 SumSqErr = 521.758
+
+theta = 0.0832233	 SumSqErr = 523.013
+
+theta = 0.0833233	 SumSqErr = 524.267
+
+theta = 0.0834233	 SumSqErr = 525.523
+
+theta = 0.0835233	 SumSqErr = 526.782
+
+theta = 0.0836233	 SumSqErr = 528.042
+
+theta = 0.0837233	 SumSqErr = 529.303
+
+theta = 0.0838233	 SumSqErr = 530.566
+
+theta = 0.0839233	 SumSqErr = 531.83
+
+theta = 0.0840233	 SumSqErr = 533.096
+
+theta = 0.0841233	 SumSqErr = 534.362
+
+theta = 0.0842233	 SumSqErr = 535.631
+
+theta = 0.0843233	 SumSqErr = 536.901
+
+theta = 0.0844233	 SumSqErr = 538.172
+
+theta = 0.0845233	 SumSqErr = 539.446
+
+theta = 0.0846233	 SumSqErr = 540.72
+
+theta = 0.0847233	 SumSqErr = 541.996
+
+theta = 0.0848233	 SumSqErr = 543.274
+
+theta = 0.0849233	 SumSqErr = 544.553
+
+theta = 0.0850233	 SumSqErr = 545.835
+
+theta = 0.0851233	 SumSqErr = 547.117
+
+theta = 0.0852233	 SumSqErr = 548.401
+
+theta = 0.0853233	 SumSqErr = 549.685
+
+theta = 0.0854233	 SumSqErr = 550.972
+
+theta = 0.0855233	 SumSqErr = 552.258
+
+theta = 0.0856233	 SumSqErr = 553.549
+
+theta = 0.0857233	 SumSqErr = 554.841
+
+theta = 0.0858233	 SumSqErr = 556.134
+
+theta = 0.0859233	 SumSqErr = 557.428
+
+theta = 0.0860233	 SumSqErr = 558.724
+
+theta = 0.0861233	 SumSqErr = 560.02
+
+theta = 0.0862233	 SumSqErr = 561.318
+
+theta = 0.0863233	 SumSqErr = 562.62
+
+theta = 0.0864233	 SumSqErr = 563.921
+
+theta = 0.0865233	 SumSqErr = 565.224
+
+theta = 0.0866233	 SumSqErr = 566.529
+
+theta = 0.0867233	 SumSqErr = 567.835
+
+theta = 0.0868233	 SumSqErr = 569.143
+
+theta = 0.0869233	 SumSqErr = 570.452
+
+theta = 0.0870233	 SumSqErr = 571.764
+
+theta = 0.0871233	 SumSqErr = 573.076
+
+theta = 0.0872233	 SumSqErr = 574.389
+
+theta = 0.0873233	 SumSqErr = 575.704
+
+theta = 0.0874233	 SumSqErr = 577.022
+
+theta = 0.0875233	 SumSqErr = 578.339
+
+theta = 0.0876234	 SumSqErr = 579.658
+
+theta = 0.0877234	 SumSqErr = 580.981
+
+theta = 0.0878234	 SumSqErr = 582.302
+
+theta = 0.0879234	 SumSqErr = 583.628
+
+theta = 0.0880234	 SumSqErr = 584.953
+
+theta = 0.0881234	 SumSqErr = 586.28
+
+theta = 0.0882234	 SumSqErr = 587.609
+
+theta = 0.0883234	 SumSqErr = 588.94
+
+theta = 0.0884234	 SumSqErr = 590.271
+
+theta = 0.0885234	 SumSqErr = 591.605
+
+theta = 0.0886234	 SumSqErr = 592.939
+
+theta = 0.0887234	 SumSqErr = 594.276
+
+theta = 0.0888234	 SumSqErr = 595.613
+
+theta = 0.0889234	 SumSqErr = 596.954
+
+theta = 0.0890234	 SumSqErr = 598.293
+
+theta = 0.0891234	 SumSqErr = 599.636
+
+theta = 0.0892234	 SumSqErr = 600.979
+
+theta = 0.0893234	 SumSqErr = 602.324
+
+theta = 0.0894234	 SumSqErr = 603.672
+
+theta = 0.0895234	 SumSqErr = 605.02
+
+theta = 0.0896234	 SumSqErr = 606.369
+
+theta = 0.0897234	 SumSqErr = 607.721
+
+theta = 0.0898234	 SumSqErr = 609.074
+
+theta = 0.0899234	 SumSqErr = 610.428
+
+theta = 0.0900234	 SumSqErr = 611.784
+
+theta = 0.0901234	 SumSqErr = 613.142
+
+theta = 0.0902234	 SumSqErr = 614.5
+
+theta = 0.0903234	 SumSqErr = 615.862
+
+theta = 0.0904234	 SumSqErr = 617.223
+
+theta = 0.0905234	 SumSqErr = 618.586
+
+theta = 0.0906234	 SumSqErr = 619.95
+
+theta = 0.0907234	 SumSqErr = 621.317
+
+theta = 0.0908234	 SumSqErr = 622.685
+
+theta = 0.0909234	 SumSqErr = 624.054
+
+theta = 0.0910234	 SumSqErr = 625.427
+
+theta = 0.0911234	 SumSqErr = 626.797
+
+theta = 0.0912234	 SumSqErr = 628.171
+
+theta = 0.0913234	 SumSqErr = 629.545
+
+theta = 0.0914234	 SumSqErr = 630.924
+
+theta = 0.0915234	 SumSqErr = 632.301
+
+theta = 0.0916234	 SumSqErr = 633.682
+
+theta = 0.0917234	 SumSqErr = 635.064
+
+theta = 0.0918234	 SumSqErr = 636.446
+
+theta = 0.0919234	 SumSqErr = 637.83
+
+theta = 0.0920234	 SumSqErr = 639.216
+
+theta = 0.0921234	 SumSqErr = 640.604
+
+theta = 0.0922234	 SumSqErr = 641.992
+
+theta = 0.0923234	 SumSqErr = 643.383
+
+theta = 0.0924234	 SumSqErr = 644.775
+
+theta = 0.0925234	 SumSqErr = 646.168
+
+theta = 0.0926234	 SumSqErr = 647.563
+
+theta = 0.0927234	 SumSqErr = 648.959
+
+theta = 0.0928234	 SumSqErr = 650.359
+
+theta = 0.0929234	 SumSqErr = 651.757
+
+theta = 0.0930234	 SumSqErr = 653.157
+
+theta = 0.0931234	 SumSqErr = 654.561
+
+theta = 0.0932234	 SumSqErr = 655.964
+
+theta = 0.0933234	 SumSqErr = 657.369
+
+theta = 0.0934234	 SumSqErr = 658.776
+
+theta = 0.0935235	 SumSqErr = 660.185
+
+theta = 0.0936235	 SumSqErr = 661.594
+
+theta = 0.0937235	 SumSqErr = 663.007
+
+theta = 0.0938235	 SumSqErr = 664.42
+
+theta = 0.0939235	 SumSqErr = 665.833
+
+theta = 0.0940235	 SumSqErr = 667.249
+
+theta = 0.0941235	 SumSqErr = 668.667
+
+theta = 0.0942235	 SumSqErr = 670.086
+
+theta = 0.0943235	 SumSqErr = 671.506
+
+theta = 0.0944235	 SumSqErr = 672.929
+
+theta = 0.0945235	 SumSqErr = 674.352
+
+theta = 0.0946235	 SumSqErr = 675.775
+
+theta = 0.0947235	 SumSqErr = 677.203
+
+theta = 0.0948235	 SumSqErr = 678.63
+
+theta = 0.0949235	 SumSqErr = 680.06
+
+theta = 0.0950235	 SumSqErr = 681.491
+
+theta = 0.0951235	 SumSqErr = 682.924
+
+theta = 0.0952235	 SumSqErr = 684.357
+
+theta = 0.0953235	 SumSqErr = 685.793
+
+theta = 0.0954235	 SumSqErr = 687.23
+
+theta = 0.0955235	 SumSqErr = 688.668
+
+theta = 0.0956235	 SumSqErr = 690.108
+
+theta = 0.0957235	 SumSqErr = 691.549
+
+theta = 0.0958235	 SumSqErr = 692.993
+
+theta = 0.0959235	 SumSqErr = 694.439
+
+theta = 0.0960235	 SumSqErr = 695.884
+
+theta = 0.0961235	 SumSqErr = 697.331
+
+theta = 0.0962235	 SumSqErr = 698.782
+
+theta = 0.0963235	 SumSqErr = 700.23
+
+theta = 0.0964235	 SumSqErr = 701.682
+
+theta = 0.0965235	 SumSqErr = 703.136
+
+theta = 0.0966235	 SumSqErr = 704.59
+
+theta = 0.0967235	 SumSqErr = 706.045
+
+theta = 0.0968235	 SumSqErr = 707.504
+
+theta = 0.0969235	 SumSqErr = 708.963
+
+theta = 0.0970235	 SumSqErr = 710.426
+
+theta = 0.0971235	 SumSqErr = 711.887
+
+theta = 0.0972235	 SumSqErr = 713.351
+
+theta = 0.0973235	 SumSqErr = 714.817
+
+theta = 0.0974235	 SumSqErr = 716.283
+
+theta = 0.0975235	 SumSqErr = 717.752
+
+theta = 0.0976235	 SumSqErr = 719.223
+
+theta = 0.0977235	 SumSqErr = 720.694
+
+theta = 0.0978235	 SumSqErr = 722.167
+
+theta = 0.0979235	 SumSqErr = 723.642
+
+theta = 0.0980235	 SumSqErr = 725.118
+
+theta = 0.0981235	 SumSqErr = 726.595
+
+theta = 0.0982235	 SumSqErr = 728.073
+
+theta = 0.0983235	 SumSqErr = 729.555
+
+theta = 0.0984235	 SumSqErr = 731.036
+
+theta = 0.0985235	 SumSqErr = 732.522
+
+theta = 0.0986235	 SumSqErr = 734.005
+
+theta = 0.0987235	 SumSqErr = 735.492
+
+theta = 0.0988235	 SumSqErr = 736.979
+
+theta = 0.0989235	 SumSqErr = 738.469
+
+theta = 0.0990235	 SumSqErr = 739.96
+
+theta = 0.0991235	 SumSqErr = 741.452
+
+theta = 0.0992235	 SumSqErr = 742.946
+
+theta = 0.0993235	 SumSqErr = 744.443
+
+theta = 0.0994236	 SumSqErr = 745.94
+
+theta = 0.0995236	 SumSqErr = 747.438
+
+theta = 0.0996236	 SumSqErr = 748.937
+
+theta = 0.0997236	 SumSqErr = 750.439
+
+theta = 0.0998236	 SumSqErr = 751.942
+
+theta = 0.0999236	 SumSqErr = 753.445
+
+theta = 0.100024	 SumSqErr = 754.953
+
+theta = 0.100124	 SumSqErr = 756.459
+
+theta = 0.100224	 SumSqErr = 757.968
+
+theta = 0.100324	 SumSqErr = 759.479
+
+theta = 0.100424	 SumSqErr = 760.991
+
+theta = 0.100524	 SumSqErr = 762.505
+
+theta = 0.100624	 SumSqErr = 764.021
+
+theta = 0.100724	 SumSqErr = 765.536
+
+theta = 0.100824	 SumSqErr = 767.052
+
+theta = 0.100924	 SumSqErr = 768.574
+
+theta = 0.101024	 SumSqErr = 770.094
+
+theta = 0.101124	 SumSqErr = 771.617
+
+theta = 0.101224	 SumSqErr = 773.142
+
+theta = 0.101324	 SumSqErr = 774.666
+
+theta = 0.101424	 SumSqErr = 776.194
+
+theta = 0.101524	 SumSqErr = 777.723
+
+theta = 0.101624	 SumSqErr = 779.252
+
+theta = 0.101724	 SumSqErr = 780.784
+
+theta = 0.101824	 SumSqErr = 782.316
+
+theta = 0.101924	 SumSqErr = 783.851
+
+theta = 0.102024	 SumSqErr = 785.387
+
+theta = 0.102124	 SumSqErr = 786.926
+
+theta = 0.102224	 SumSqErr = 788.465
+
+theta = 0.102324	 SumSqErr = 790.005
+
+theta = 0.102424	 SumSqErr = 791.547
+
+theta = 0.102524	 SumSqErr = 793.091
+
+theta = 0.102624	 SumSqErr = 794.636
+
+theta = 0.102724	 SumSqErr = 796.182
+
+theta = 0.102824	 SumSqErr = 797.729
+
+theta = 0.102924	 SumSqErr = 799.279
+
+theta = 0.103024	 SumSqErr = 800.831
+
+theta = 0.103124	 SumSqErr = 802.383
+
+theta = 0.103224	 SumSqErr = 803.938
+
+theta = 0.103324	 SumSqErr = 805.493
+
+theta = 0.103424	 SumSqErr = 807.049
+
+theta = 0.103524	 SumSqErr = 808.608
+
+theta = 0.103624	 SumSqErr = 810.168
+
+theta = 0.103724	 SumSqErr = 811.729
+
+theta = 0.103824	 SumSqErr = 813.293
+
+theta = 0.103924	 SumSqErr = 814.858
+
+theta = 0.104024	 SumSqErr = 816.424
+
+theta = 0.104124	 SumSqErr = 817.992
+
+theta = 0.104224	 SumSqErr = 819.558
+
+theta = 0.104324	 SumSqErr = 821.131
+
+theta = 0.104424	 SumSqErr = 822.703
+
+theta = 0.104524	 SumSqErr = 824.275
+
+theta = 0.104624	 SumSqErr = 825.852
+
+theta = 0.104724	 SumSqErr = 827.427
+
+theta = 0.104824	 SumSqErr = 829.006
+
+theta = 0.104924	 SumSqErr = 830.585
+
+theta = 0.105024	 SumSqErr = 832.167
+
+theta = 0.105124	 SumSqErr = 833.75
+
+theta = 0.105224	 SumSqErr = 835.335
+
+theta = 0.105324	 SumSqErr = 836.918
+
+theta = 0.105424	 SumSqErr = 838.505
+
+theta = 0.105524	 SumSqErr = 840.094
+
+theta = 0.105624	 SumSqErr = 841.685
+
+theta = 0.105724	 SumSqErr = 843.274
+
+theta = 0.105824	 SumSqErr = 844.869
+
+theta = 0.105924	 SumSqErr = 846.464
+
+theta = 0.106024	 SumSqErr = 848.06
+
+theta = 0.106124	 SumSqErr = 849.657
+
+theta = 0.106224	 SumSqErr = 851.256
+
+theta = 0.106324	 SumSqErr = 852.857
+
+theta = 0.106424	 SumSqErr = 854.458
+
+theta = 0.106524	 SumSqErr = 856.062
+
+theta = 0.106624	 SumSqErr = 857.668
+
+theta = 0.106724	 SumSqErr = 859.273
+
+theta = 0.106824	 SumSqErr = 860.881
+
+theta = 0.106924	 SumSqErr = 862.492
+
+theta = 0.107024	 SumSqErr = 864.102
+
+theta = 0.107124	 SumSqErr = 865.716
+
+theta = 0.107224	 SumSqErr = 867.328
+
+theta = 0.107324	 SumSqErr = 868.945
+
+theta = 0.107424	 SumSqErr = 870.562
+
+theta = 0.107524	 SumSqErr = 872.18
+
+theta = 0.107624	 SumSqErr = 873.8
+
+theta = 0.107724	 SumSqErr = 875.421
+
+theta = 0.107824	 SumSqErr = 877.044
+
+theta = 0.107924	 SumSqErr = 878.669
+
+theta = 0.108024	 SumSqErr = 880.296
+
+theta = 0.108124	 SumSqErr = 881.923
+
+theta = 0.108224	 SumSqErr = 883.553
+
+theta = 0.108324	 SumSqErr = 885.183
+
+theta = 0.108424	 SumSqErr = 886.815
+
+theta = 0.108524	 SumSqErr = 888.449
+
+theta = 0.108624	 SumSqErr = 890.084
+
+theta = 0.108724	 SumSqErr = 891.719
+
+theta = 0.108824	 SumSqErr = 893.357
+
+theta = 0.108924	 SumSqErr = 894.999
+
+theta = 0.109024	 SumSqErr = 896.638
+
+theta = 0.109124	 SumSqErr = 898.282
+
+theta = 0.109224	 SumSqErr = 899.925
+
+theta = 0.109324	 SumSqErr = 901.569
+
+theta = 0.109424	 SumSqErr = 903.217
+
+theta = 0.109524	 SumSqErr = 904.867
+
+theta = 0.109624	 SumSqErr = 906.516
+
+theta = 0.109724	 SumSqErr = 908.168
+
+theta = 0.109824	 SumSqErr = 909.821
+
+theta = 0.109924	 SumSqErr = 911.476
+
+theta = 0.110024	 SumSqErr = 913.13
+
+theta = 0.110124	 SumSqErr = 914.789
+
+theta = 0.110224	 SumSqErr = 916.448
+
+theta = 0.110324	 SumSqErr = 918.107
+
+theta = 0.110424	 SumSqErr = 919.771
+
+theta = 0.110524	 SumSqErr = 921.434
+
+theta = 0.110624	 SumSqErr = 923.1
+
+theta = 0.110724	 SumSqErr = 924.766
+
+theta = 0.110824	 SumSqErr = 926.434
+
+theta = 0.110924	 SumSqErr = 928.103
+
+theta = 0.111024	 SumSqErr = 929.774
+
+theta = 0.111124	 SumSqErr = 931.449
+
+theta = 0.111224	 SumSqErr = 933.121
+
+theta = 0.111324	 SumSqErr = 934.797
+
+theta = 0.111424	 SumSqErr = 936.472
+
+theta = 0.111524	 SumSqErr = 938.154
+
+theta = 0.111624	 SumSqErr = 939.833
+
+theta = 0.111724	 SumSqErr = 941.513
+
+theta = 0.111824	 SumSqErr = 943.195
+
+theta = 0.111924	 SumSqErr = 944.881
+
+theta = 0.112024	 SumSqErr = 946.567
+
+theta = 0.112124	 SumSqErr = 948.255
+
+theta = 0.112224	 SumSqErr = 949.943
+
+theta = 0.112324	 SumSqErr = 951.636
+
+theta = 0.112424	 SumSqErr = 953.327
+
+theta = 0.112524	 SumSqErr = 955.02
+
+theta = 0.112624	 SumSqErr = 956.715
+
+theta = 0.112724	 SumSqErr = 958.41
+
+theta = 0.112824	 SumSqErr = 960.109
+
+theta = 0.112924	 SumSqErr = 961.81
+
+theta = 0.113024	 SumSqErr = 963.51
+
+theta = 0.113124	 SumSqErr = 965.214
+
+theta = 0.113224	 SumSqErr = 966.918
+
+theta = 0.113324	 SumSqErr = 968.623
+
+theta = 0.113424	 SumSqErr = 970.329
+
+theta = 0.113524	 SumSqErr = 972.038
+
+theta = 0.113624	 SumSqErr = 973.748
+
+theta = 0.113724	 SumSqErr = 975.461
+
+theta = 0.113824	 SumSqErr = 977.172
+
+theta = 0.113924	 SumSqErr = 978.886
+
+theta = 0.114024	 SumSqErr = 980.604
+
+theta = 0.114124	 SumSqErr = 982.32
+
+theta = 0.114224	 SumSqErr = 984.039
+
+theta = 0.114324	 SumSqErr = 985.761
+
+theta = 0.114424	 SumSqErr = 987.482
+
+theta = 0.114524	 SumSqErr = 989.206
+
+theta = 0.114624	 SumSqErr = 990.932
+
+theta = 0.114724	 SumSqErr = 992.658
+
+theta = 0.114824	 SumSqErr = 994.385
+
+theta = 0.114924	 SumSqErr = 996.114
+
+theta = 0.115024	 SumSqErr = 997.846
+
+theta = 0.115124	 SumSqErr = 999.578
+
+theta = 0.115224	 SumSqErr = 1001.31
+
+theta = 0.115324	 SumSqErr = 1003.05
+
+theta = 0.115424	 SumSqErr = 1004.79
+
+theta = 0.115524	 SumSqErr = 1006.52
+
+theta = 0.115624	 SumSqErr = 1008.26
+
+theta = 0.115724	 SumSqErr = 1010.01
+
+theta = 0.115824	 SumSqErr = 1011.75
+
+theta = 0.115924	 SumSqErr = 1013.49
+
+theta = 0.116024	 SumSqErr = 1015.24
+
+theta = 0.116124	 SumSqErr = 1016.99
+
+theta = 0.116224	 SumSqErr = 1018.74
+
+theta = 0.116324	 SumSqErr = 1020.49
+
+theta = 0.116424	 SumSqErr = 1022.24
+
+theta = 0.116524	 SumSqErr = 1023.99
+
+theta = 0.116624	 SumSqErr = 1025.75
+
+theta = 0.116724	 SumSqErr = 1027.5
+
+theta = 0.116824	 SumSqErr = 1029.26
+
+theta = 0.116924	 SumSqErr = 1031.02
+
+theta = 0.117024	 SumSqErr = 1032.78
+
+theta = 0.117124	 SumSqErr = 1034.54
+
+theta = 0.117224	 SumSqErr = 1036.31
+
+theta = 0.117324	 SumSqErr = 1038.07
+
+theta = 0.117424	 SumSqErr = 1039.84
+
+theta = 0.117524	 SumSqErr = 1041.61
+
+theta = 0.117624	 SumSqErr = 1043.38
+
+theta = 0.117724	 SumSqErr = 1045.15
+
+theta = 0.117824	 SumSqErr = 1046.92
+
+theta = 0.117924	 SumSqErr = 1048.7
+
+theta = 0.118024	 SumSqErr = 1050.47
+
+theta = 0.118124	 SumSqErr = 1052.25
+
+theta = 0.118224	 SumSqErr = 1054.03
+
+theta = 0.118324	 SumSqErr = 1055.81
+
+theta = 0.118424	 SumSqErr = 1057.59
+
+theta = 0.118524	 SumSqErr = 1059.38
+
+theta = 0.118624	 SumSqErr = 1061.16
+
+theta = 0.118724	 SumSqErr = 1062.95
+
+theta = 0.118824	 SumSqErr = 1064.73
+
+theta = 0.118924	 SumSqErr = 1066.52
+
+theta = 0.119024	 SumSqErr = 1068.32
+
+theta = 0.119124	 SumSqErr = 1070.11
+
+theta = 0.119224	 SumSqErr = 1071.9
+
+theta = 0.119324	 SumSqErr = 1073.7
+
+theta = 0.119424	 SumSqErr = 1075.49
+
+theta = 0.119524	 SumSqErr = 1077.29
+
+theta = 0.119624	 SumSqErr = 1079.09
+
+theta = 0.119724	 SumSqErr = 1080.89
+
+theta = 0.119824	 SumSqErr = 1082.7
+
+theta = 0.119924	 SumSqErr = 1084.5
+
+theta = 0.120024	 SumSqErr = 1086.31
+
+theta = 0.120124	 SumSqErr = 1088.11
+
+theta = 0.120224	 SumSqErr = 1089.92
+
+theta = 0.120324	 SumSqErr = 1091.73
+
+theta = 0.120424	 SumSqErr = 1093.54
+
+theta = 0.120524	 SumSqErr = 1095.36
+
+theta = 0.120624	 SumSqErr = 1097.17
+
+theta = 0.120724	 SumSqErr = 1098.99
+
+theta = 0.120824	 SumSqErr = 1100.81
+
+theta = 0.120924	 SumSqErr = 1102.63
+
+theta = 0.121024	 SumSqErr = 1104.45
+
+theta = 0.121124	 SumSqErr = 1106.27
+
+theta = 0.121224	 SumSqErr = 1108.1
+
+theta = 0.121324	 SumSqErr = 1109.92
+
+theta = 0.121424	 SumSqErr = 1111.75
+
+theta = 0.121524	 SumSqErr = 1113.57
+
+theta = 0.121624	 SumSqErr = 1115.4
+
+theta = 0.121724	 SumSqErr = 1117.24
+
+theta = 0.121824	 SumSqErr = 1119.07
+
+theta = 0.121924	 SumSqErr = 1120.9
+
+theta = 0.122024	 SumSqErr = 1122.74
+
+theta = 0.122124	 SumSqErr = 1124.58
+
+theta = 0.122224	 SumSqErr = 1126.42
+
+theta = 0.122324	 SumSqErr = 1128.26
+
+theta = 0.122424	 SumSqErr = 1130.1
+
+theta = 0.122524	 SumSqErr = 1131.94
+
+theta = 0.122624	 SumSqErr = 1133.79
+
+theta = 0.122724	 SumSqErr = 1135.63
+
+theta = 0.122824	 SumSqErr = 1137.48
+
+theta = 0.122924	 SumSqErr = 1139.33
+
+theta = 0.123024	 SumSqErr = 1141.18
+
+theta = 0.123124	 SumSqErr = 1143.03
+
+theta = 0.123224	 SumSqErr = 1144.89
+
+theta = 0.123324	 SumSqErr = 1146.74
+
+theta = 0.123424	 SumSqErr = 1148.6
+
+theta = 0.123524	 SumSqErr = 1150.46
+
+theta = 0.123624	 SumSqErr = 1152.32
+
+theta = 0.123724	 SumSqErr = 1154.18
+
+theta = 0.123824	 SumSqErr = 1156.04
+
+theta = 0.123924	 SumSqErr = 1157.91
+
+theta = 0.124024	 SumSqErr = 1159.77
+
+theta = 0.124124	 SumSqErr = 1161.64
+
+theta = 0.124224	 SumSqErr = 1163.51
+
+theta = 0.124324	 SumSqErr = 1165.38
+
+theta = 0.124424	 SumSqErr = 1167.25
+
+theta = 0.124524	 SumSqErr = 1169.12
+
+theta = 0.124624	 SumSqErr = 1171
+
+theta = 0.124724	 SumSqErr = 1172.87
+
+theta = 0.124824	 SumSqErr = 1174.75
+
+theta = 0.124924	 SumSqErr = 1176.63
+
+theta = 0.125024	 SumSqErr = 1178.51
+
+theta = 0.125124	 SumSqErr = 1180.39
+
+theta = 0.125224	 SumSqErr = 1182.28
+
+theta = 0.125324	 SumSqErr = 1184.16
+
+theta = 0.125424	 SumSqErr = 1186.05
+
+theta = 0.125524	 SumSqErr = 1187.94
+
+theta = 0.125624	 SumSqErr = 1189.83
+
+theta = 0.125724	 SumSqErr = 1191.72
+
+theta = 0.125824	 SumSqErr = 1193.61
+
+theta = 0.125924	 SumSqErr = 1195.51
+
+theta = 0.126024	 SumSqErr = 1197.4
+
+theta = 0.126124	 SumSqErr = 1199.3
+
+theta = 0.126224	 SumSqErr = 1201.2
+
+theta = 0.126324	 SumSqErr = 1203.1
+
+theta = 0.126424	 SumSqErr = 1205
+
+theta = 0.126524	 SumSqErr = 1206.9
+
+theta = 0.126624	 SumSqErr = 1208.81
+
+theta = 0.126724	 SumSqErr = 1210.72
+
+theta = 0.126824	 SumSqErr = 1212.62
+
+theta = 0.126924	 SumSqErr = 1214.53
+
+theta = 0.127024	 SumSqErr = 1216.44
+
+theta = 0.127124	 SumSqErr = 1218.36
+
+theta = 0.127224	 SumSqErr = 1220.27
+
+theta = 0.127324	 SumSqErr = 1222.18
+
+theta = 0.127424	 SumSqErr = 1224.1
+
+theta = 0.127524	 SumSqErr = 1226.02
+
+theta = 0.127624	 SumSqErr = 1227.94
+
+theta = 0.127724	 SumSqErr = 1229.86
+
+theta = 0.127824	 SumSqErr = 1231.78
+
+theta = 0.127924	 SumSqErr = 1233.71
+
+theta = 0.128024	 SumSqErr = 1235.63
+
+theta = 0.128124	 SumSqErr = 1237.56
+
+theta = 0.128224	 SumSqErr = 1239.49
+
+theta = 0.128324	 SumSqErr = 1241.42
+
+theta = 0.128424	 SumSqErr = 1243.35
+
+theta = 0.128524	 SumSqErr = 1245.28
+
+theta = 0.128624	 SumSqErr = 1247.22
+
+theta = 0.128724	 SumSqErr = 1249.15
+
+theta = 0.128824	 SumSqErr = 1251.09
+
+theta = 0.128924	 SumSqErr = 1253.03
+
+theta = 0.129024	 SumSqErr = 1254.97
+
+theta = 0.129124	 SumSqErr = 1256.91
+
+theta = 0.129224	 SumSqErr = 1258.85
+
+theta = 0.129324	 SumSqErr = 1260.8
+
+theta = 0.129424	 SumSqErr = 1262.75
+
+theta = 0.129524	 SumSqErr = 1264.7
+
+theta = 0.129624	 SumSqErr = 1266.64
+
+theta = 0.129724	 SumSqErr = 1268.6
+
+theta = 0.129824	 SumSqErr = 1270.55
+
+theta = 0.129924	 SumSqErr = 1272.5
+
+theta = 0.130024	 SumSqErr = 1274.46
+
+theta = 0.130124	 SumSqErr = 1276.42
+
+theta = 0.130224	 SumSqErr = 1278.38
+
+theta = 0.130324	 SumSqErr = 1280.34
+
+theta = 0.130424	 SumSqErr = 1282.3
+
+theta = 0.130524	 SumSqErr = 1284.26
+
+theta = 0.130624	 SumSqErr = 1286.22
+
+theta = 0.130724	 SumSqErr = 1288.19
+
+theta = 0.130824	 SumSqErr = 1290.16
+
+theta = 0.130924	 SumSqErr = 1292.13
+
+theta = 0.131024	 SumSqErr = 1294.1
+
+theta = 0.131124	 SumSqErr = 1296.07
+
+theta = 0.131224	 SumSqErr = 1298.04
+
+theta = 0.131324	 SumSqErr = 1300.02
+
+theta = 0.131424	 SumSqErr = 1301.99
+
+theta = 0.131524	 SumSqErr = 1303.97
+
+theta = 0.131624	 SumSqErr = 1305.95
+
+theta = 0.131724	 SumSqErr = 1307.93
+
+theta = 0.131824	 SumSqErr = 1309.92
+
+theta = 0.131924	 SumSqErr = 1311.9
+
+theta = 0.132024	 SumSqErr = 1313.89
+
+theta = 0.132124	 SumSqErr = 1315.87
+
+theta = 0.132224	 SumSqErr = 1317.86
+
+theta = 0.132324	 SumSqErr = 1319.85
+
+theta = 0.132424	 SumSqErr = 1321.84
+
+theta = 0.132524	 SumSqErr = 1323.84
+
+theta = 0.132624	 SumSqErr = 1325.83
+
+theta = 0.132724	 SumSqErr = 1327.83
+
+theta = 0.132824	 SumSqErr = 1329.82
+
+theta = 0.132924	 SumSqErr = 1331.82
+
+theta = 0.133024	 SumSqErr = 1333.82
+
+theta = 0.133124	 SumSqErr = 1335.83
+
+theta = 0.133224	 SumSqErr = 1337.83
+
+theta = 0.133324	 SumSqErr = 1339.83
+
+theta = 0.133424	 SumSqErr = 1341.84
+
+theta = 0.133524	 SumSqErr = 1343.85
+
+theta = 0.133624	 SumSqErr = 1345.86
+
+theta = 0.133724	 SumSqErr = 1347.87
+
+theta = 0.133824	 SumSqErr = 1349.88
+
+theta = 0.133924	 SumSqErr = 1351.89
+
+theta = 0.134024	 SumSqErr = 1353.91
+
+theta = 0.134124	 SumSqErr = 1355.93
+
+theta = 0.134224	 SumSqErr = 1357.95
+
+theta = 0.134324	 SumSqErr = 1359.96
+
+theta = 0.134424	 SumSqErr = 1361.99
+
+theta = 0.134524	 SumSqErr = 1364.01
+
+theta = 0.134624	 SumSqErr = 1366.03
+
+theta = 0.134724	 SumSqErr = 1368.06
+
+theta = 0.134824	 SumSqErr = 1370.09
+
+theta = 0.134924	 SumSqErr = 1372.12
+
+theta = 0.135024	 SumSqErr = 1374.15
+
+theta = 0.135124	 SumSqErr = 1376.18
+
+theta = 0.135224	 SumSqErr = 1378.21
+
+theta = 0.135324	 SumSqErr = 1380.25
+
+theta = 0.135424	 SumSqErr = 1382.28
+
+theta = 0.135524	 SumSqErr = 1384.32
+
+theta = 0.135624	 SumSqErr = 1386.36
+
+theta = 0.135724	 SumSqErr = 1388.4
+
+theta = 0.135824	 SumSqErr = 1390.45
+
+theta = 0.135924	 SumSqErr = 1392.49
+
+theta = 0.136024	 SumSqErr = 1394.53
+
+theta = 0.136124	 SumSqErr = 1396.58
+
+theta = 0.136224	 SumSqErr = 1398.63
+
+theta = 0.136324	 SumSqErr = 1400.68
+
+theta = 0.136424	 SumSqErr = 1402.73
+
+theta = 0.136524	 SumSqErr = 1404.78
+
+theta = 0.136624	 SumSqErr = 1406.84
+
+theta = 0.136724	 SumSqErr = 1408.89
+
+theta = 0.136824	 SumSqErr = 1410.95
+
+theta = 0.136924	 SumSqErr = 1413.01
+
+theta = 0.137024	 SumSqErr = 1415.07
+
+theta = 0.137124	 SumSqErr = 1417.13
+
+theta = 0.137224	 SumSqErr = 1419.19
+
+theta = 0.137324	 SumSqErr = 1421.26
+
+theta = 0.137424	 SumSqErr = 1423.32
+
+theta = 0.137524	 SumSqErr = 1425.39
+
+theta = 0.137624	 SumSqErr = 1427.46
+
+theta = 0.137724	 SumSqErr = 1429.53
+
+theta = 0.137824	 SumSqErr = 1431.61
+
+theta = 0.137924	 SumSqErr = 1433.68
+
+theta = 0.138024	 SumSqErr = 1435.75
+
+theta = 0.138124	 SumSqErr = 1437.83
+
+theta = 0.138224	 SumSqErr = 1439.91
+
+theta = 0.138324	 SumSqErr = 1441.99
+
+theta = 0.138424	 SumSqErr = 1444.07
+
+theta = 0.138524	 SumSqErr = 1446.15
+
+theta = 0.138624	 SumSqErr = 1448.24
+
+theta = 0.138724	 SumSqErr = 1450.32
+
+theta = 0.138824	 SumSqErr = 1452.41
+
+theta = 0.138924	 SumSqErr = 1454.5
+
+theta = 0.139024	 SumSqErr = 1456.59
+
+theta = 0.139124	 SumSqErr = 1458.68
+
+theta = 0.139224	 SumSqErr = 1460.77
+
+theta = 0.139324	 SumSqErr = 1462.87
+
+theta = 0.139424	 SumSqErr = 1464.96
+
+theta = 0.139524	 SumSqErr = 1467.06
+
+theta = 0.139624	 SumSqErr = 1469.16
+
+theta = 0.139724	 SumSqErr = 1471.26
+
+theta = 0.139824	 SumSqErr = 1473.36
+
+theta = 0.139924	 SumSqErr = 1475.47
+
+theta = 0.140024	 SumSqErr = 1477.57
+
+theta = 0.140124	 SumSqErr = 1479.68
+
+theta = 0.140224	 SumSqErr = 1481.79
+
+theta = 0.140324	 SumSqErr = 1483.9
+
+theta = 0.140424	 SumSqErr = 1486.01
+
+theta = 0.140524	 SumSqErr = 1488.12
+
+theta = 0.140624	 SumSqErr = 1490.24
+
+theta = 0.140724	 SumSqErr = 1492.35
+
+theta = 0.140824	 SumSqErr = 1494.47
+
+theta = 0.140924	 SumSqErr = 1496.59
+
+theta = 0.141024	 SumSqErr = 1498.71
+
+theta = 0.141124	 SumSqErr = 1500.83
+
+theta = 0.141224	 SumSqErr = 1502.95
+
+theta = 0.141324	 SumSqErr = 1505.07
+
+theta = 0.141424	 SumSqErr = 1507.2
+
+theta = 0.141524	 SumSqErr = 1509.33
+
+theta = 0.141624	 SumSqErr = 1511.46
+
+theta = 0.141724	 SumSqErr = 1513.59
+
+theta = 0.141824	 SumSqErr = 1515.72
+
+theta = 0.141924	 SumSqErr = 1517.85
+
+theta = 0.142024	 SumSqErr = 1519.99
+
+theta = 0.142124	 SumSqErr = 1522.12
+
+theta = 0.142224	 SumSqErr = 1524.26
+
+theta = 0.142324	 SumSqErr = 1526.4
+
+theta = 0.142424	 SumSqErr = 1528.54
+
+theta = 0.142524	 SumSqErr = 1530.69
+
+theta = 0.142624	 SumSqErr = 1532.83
+
+theta = 0.142724	 SumSqErr = 1534.98
+
+theta = 0.142824	 SumSqErr = 1537.12
+
+theta = 0.142924	 SumSqErr = 1539.27
+
+theta = 0.143024	 SumSqErr = 1541.42
+
+theta = 0.143124	 SumSqErr = 1543.57
+
+theta = 0.143224	 SumSqErr = 1545.72
+
+theta = 0.143324	 SumSqErr = 1547.88
+
+theta = 0.143424	 SumSqErr = 1550.03
+
+theta = 0.143524	 SumSqErr = 1552.19
+
+theta = 0.143624	 SumSqErr = 1554.35
+
+theta = 0.143724	 SumSqErr = 1556.51
+
+theta = 0.143824	 SumSqErr = 1558.67
+
+theta = 0.143924	 SumSqErr = 1560.83
+
+theta = 0.144024	 SumSqErr = 1563
+
+theta = 0.144124	 SumSqErr = 1565.17
+
+theta = 0.144224	 SumSqErr = 1567.34
+
+theta = 0.144324	 SumSqErr = 1569.5
+
+theta = 0.144424	 SumSqErr = 1571.68
+
+theta = 0.144524	 SumSqErr = 1573.85
+
+theta = 0.144624	 SumSqErr = 1576.02
+
+theta = 0.144724	 SumSqErr = 1578.2
+
+theta = 0.144824	 SumSqErr = 1580.37
+
+theta = 0.144924	 SumSqErr = 1582.55
+
+theta = 0.145024	 SumSqErr = 1584.73
+
+theta = 0.145124	 SumSqErr = 1586.91
+
+theta = 0.145224	 SumSqErr = 1589.1
+
+theta = 0.145324	 SumSqErr = 1591.28
+
+theta = 0.145424	 SumSqErr = 1593.47
+
+theta = 0.145524	 SumSqErr = 1595.65
+
+theta = 0.145624	 SumSqErr = 1597.84
+
+theta = 0.145724	 SumSqErr = 1600.03
+
+theta = 0.145824	 SumSqErr = 1602.22
+
+theta = 0.145924	 SumSqErr = 1604.42
+
+theta = 0.146024	 SumSqErr = 1606.61
+
+theta = 0.146124	 SumSqErr = 1608.81
+
+theta = 0.146224	 SumSqErr = 1611.01
+
+theta = 0.146324	 SumSqErr = 1613.2
+
+theta = 0.146424	 SumSqErr = 1615.4
+
+theta = 0.146524	 SumSqErr = 1617.61
+
+theta = 0.146624	 SumSqErr = 1619.81
+
+theta = 0.146724	 SumSqErr = 1622.02
+
+theta = 0.146824	 SumSqErr = 1624.22
+
+theta = 0.146924	 SumSqErr = 1626.43
+
+theta = 0.147024	 SumSqErr = 1628.64
+
+theta = 0.147124	 SumSqErr = 1630.85
+
+theta = 0.147224	 SumSqErr = 1633.06
+
+theta = 0.147324	 SumSqErr = 1635.28
+
+theta = 0.147424	 SumSqErr = 1637.49
+
+theta = 0.147524	 SumSqErr = 1639.71
+
+theta = 0.147624	 SumSqErr = 1641.93
+
+theta = 0.147724	 SumSqErr = 1644.15
+
+theta = 0.147824	 SumSqErr = 1646.37
+
+theta = 0.147924	 SumSqErr = 1648.59
+
+theta = 0.148024	 SumSqErr = 1650.82
+
+theta = 0.148124	 SumSqErr = 1653.05
+
+theta = 0.148224	 SumSqErr = 1655.27
+
+theta = 0.148324	 SumSqErr = 1657.5
+
+theta = 0.148424	 SumSqErr = 1659.73
+
+theta = 0.148524	 SumSqErr = 1661.96
+
+theta = 0.148624	 SumSqErr = 1664.2
+
+theta = 0.148724	 SumSqErr = 1666.43
+
+theta = 0.148824	 SumSqErr = 1668.67
+
+theta = 0.148924	 SumSqErr = 1670.91
+
+theta = 0.149024	 SumSqErr = 1673.15
+
+theta = 0.149124	 SumSqErr = 1675.39
+
+theta = 0.149224	 SumSqErr = 1677.63
+
+theta = 0.149324	 SumSqErr = 1679.87
+
+theta = 0.149424	 SumSqErr = 1682.12
+
+theta = 0.149524	 SumSqErr = 1684.37
+
+theta = 0.149624	 SumSqErr = 1686.61
+
+theta = 0.149724	 SumSqErr = 1688.86
+
+theta = 0.149824	 SumSqErr = 1691.12
+
+theta = 0.149924	 SumSqErr = 1693.37
+
+theta = 0.150024	 SumSqErr = 1695.62
+
+theta = 0.150124	 SumSqErr = 1697.88
+
+theta = 0.150224	 SumSqErr = 1700.14
+
+theta = 0.150324	 SumSqErr = 1702.4
+
+theta = 0.150424	 SumSqErr = 1704.66
+
+theta = 0.150524	 SumSqErr = 1706.92
+
+theta = 0.150624	 SumSqErr = 1709.18
+
+theta = 0.150724	 SumSqErr = 1711.45
+
+theta = 0.150824	 SumSqErr = 1713.71
+
+theta = 0.150924	 SumSqErr = 1715.98
+
+theta = 0.151024	 SumSqErr = 1718.25
+
+theta = 0.151124	 SumSqErr = 1720.52
+
+theta = 0.151224	 SumSqErr = 1722.79
+
+theta = 0.151324	 SumSqErr = 1725.07
+
+theta = 0.151424	 SumSqErr = 1727.34
+
+theta = 0.151524	 SumSqErr = 1729.62
+
+theta = 0.151624	 SumSqErr = 1731.9
+
+theta = 0.151724	 SumSqErr = 1734.18
+
+theta = 0.151824	 SumSqErr = 1736.46
+
+theta = 0.151924	 SumSqErr = 1738.74
+
+theta = 0.152024	 SumSqErr = 1741.03
+
+theta = 0.152124	 SumSqErr = 1743.31
+
+theta = 0.152224	 SumSqErr = 1745.6
+
+theta = 0.152324	 SumSqErr = 1747.89
+
+theta = 0.152424	 SumSqErr = 1750.18
+
+theta = 0.152524	 SumSqErr = 1752.47
+
+theta = 0.152624	 SumSqErr = 1754.76
+
+theta = 0.152724	 SumSqErr = 1757.06
+
+theta = 0.152824	 SumSqErr = 1759.35
+
+theta = 0.152924	 SumSqErr = 1761.65
+
+theta = 0.153024	 SumSqErr = 1763.95
+
+theta = 0.153124	 SumSqErr = 1766.25
+
+theta = 0.153224	 SumSqErr = 1768.55
+
+theta = 0.153324	 SumSqErr = 1770.86
+
+theta = 0.153424	 SumSqErr = 1773.16
+
+theta = 0.153524	 SumSqErr = 1775.47
+
+theta = 0.153624	 SumSqErr = 1777.78
+
+theta = 0.153724	 SumSqErr = 1780.08
+
+theta = 0.153824	 SumSqErr = 1782.4
+
+theta = 0.153924	 SumSqErr = 1784.71
+
+theta = 0.154024	 SumSqErr = 1787.02
+
+theta = 0.154124	 SumSqErr = 1789.34
+
+theta = 0.154224	 SumSqErr = 1791.65
+
+theta = 0.154324	 SumSqErr = 1793.97
+
+theta = 0.154424	 SumSqErr = 1796.29
+
+theta = 0.154524	 SumSqErr = 1798.61
+
+theta = 0.154624	 SumSqErr = 1800.94
+
+theta = 0.154724	 SumSqErr = 1803.26
+
+theta = 0.154824	 SumSqErr = 1805.59
+
+theta = 0.154924	 SumSqErr = 1807.92
+
+theta = 0.155024	 SumSqErr = 1810.24
+
+theta = 0.155124	 SumSqErr = 1812.58
+
+theta = 0.155224	 SumSqErr = 1814.91
+
+theta = 0.155324	 SumSqErr = 1817.24
+
+theta = 0.155424	 SumSqErr = 1819.57
+
+theta = 0.155524	 SumSqErr = 1821.91
+
+theta = 0.155624	 SumSqErr = 1824.25
+
+theta = 0.155724	 SumSqErr = 1826.59
+
+theta = 0.155824	 SumSqErr = 1828.93
+
+theta = 0.155924	 SumSqErr = 1831.27
+
+theta = 0.156025	 SumSqErr = 1833.62
+
+theta = 0.156125	 SumSqErr = 1835.96
+
+theta = 0.156225	 SumSqErr = 1838.31
+
+theta = 0.156325	 SumSqErr = 1840.66
+
+theta = 0.156425	 SumSqErr = 1843.01
+
+theta = 0.156525	 SumSqErr = 1845.36
+
+theta = 0.156625	 SumSqErr = 1847.71
+
+theta = 0.156725	 SumSqErr = 1850.06
+
+theta = 0.156825	 SumSqErr = 1852.42
+
+theta = 0.156925	 SumSqErr = 1854.78
+
+theta = 0.157025	 SumSqErr = 1857.14
+Rot of sensor about its normal direction = 0.00128611

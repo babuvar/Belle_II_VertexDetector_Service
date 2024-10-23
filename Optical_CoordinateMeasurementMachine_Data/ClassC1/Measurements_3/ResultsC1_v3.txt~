@@ -1,0 +1,82 @@
+Class C1
+
+
+Tilt Angle/ Normal Angle (After Ladder Assembly)
+
+FW
+
+Tilt angle(degrees) = -11.9425 +/- 0.00353194
+Normal angle(degrees) = 0.264696 +/- 0.00766635
+
+CE
+
+Tilt angle(degrees) = -0.0465906 +/- 0.00827831
+Normal angle(degrees) = -0.0571856 +/- 0.0175866
+
+BW
+
+Tilt angle(degrees) = -0.0144108 +/- 0.00176639
+Normal angle(degrees) = -0.0272839 +/- 0.0059341
+
+
+
+
+F-Mark shifts (After Ladder Assembly)
+
+FW-CE Gap
+
+d1 = 1207.48 μm
+d2 = 1149.33 μm
+
+
+CE-BW Gap
+
+d3 = 1163.7 μm
+d4 = 1216.58 μm
+
+
+
+
+
+Shifts of F-marks (after assembly)
+
+FW Point-1 Shift
+xshift= -86.216 μm	 yshift =175.72 μm	 zshift =168.949 μm
+
+FW Point-2 Shift
+xshift= -103.008 μm	 yshift =197.876 μm	 zshift =252.905 μm
+
+FW Point-3 Shift
+xshift= -101.772 μm	 yshift =159.241 μm	 zshift =43.7622 μm
+
+FW Point-4 Shift
+xshift= -80.9803 μm	 yshift =129.272 μm	 zshift =-82.8152 μm
+
+
+
+CE Point-1 Shift
+xshift= -282.871 μm	 yshift =-38.5132 μm	 zshift =-197.321 μm
+
+CE Point-2 Shift
+xshift= -323.467 μm	 yshift =-37.8418 μm	 zshift =-90.3206 μm
+
+CE Point-3 Shift
+xshift= -324.97 μm	 yshift =-21.4691 μm	 zshift =-119.663 μm
+
+CE Point-4 Shift
+xshift= -283.779 μm	 yshift =-19.043 μm	 zshift =-249.527 μm
+
+
+
+BW Point-1 Shift
+xshift= -272.289 μm	 yshift =-301.544 μm	 zshift =-94.3813 μm
+
+BW Point-2 Shift
+xshift= -198.999 μm	 yshift =-302.017 μm	 zshift =-83.4618 μm
+
+BW Point-3 Shift
+xshift= -201.984 μm	 yshift =-335.957 μm	 zshift =-79.01 μm
+
+BW Point-4 Shift
+xshift= -271.826 μm	 yshift =-338.043 μm	 zshift =-101.765 μm
+

@@ -1,0 +1,123 @@
+Class C2
+
+
+Tilt Angle/ Normal Angle (After Ladder Assembly)
+
+FW
+
+Tilt angle(degrees) = -11.9168 +/- 0.00603439
+Normal angle(degrees) = -0.025196 +/- 0.0133833
+
+CE
+
+Tilt angle(degrees) = -0.0422103 +/- 0.00232137
+Normal angle(degrees) = -0.0720761 +/- 0.00535883
+
+BW
+
+Tilt angle(degrees) = 0.0460183 +/- 0.00193125
+Normal angle(degrees) = 0.00487409 +/- 0.00825266
+
+
+
+
+F-Mark shifts
+
+FW-CE Gap
+
+d1 = 1832.84 μm
+d2 = 1743.97 μm
+
+
+CE-BW Gap
+
+d3 = 1040.75 μm
+d4 = 1035.63 μm
+
+
+
+
+
+
+
+Shifts of F-marks (before assembly)
+
+FW Point-1 Shift
+xshift= 15.7738 μm	 yshift =0.701904 μm	 
+
+FW Point-2 Shift
+xshift= 8.88824 μm	 yshift =-0.595093 μm	 
+
+FW Point-3 Shift
+xshift= 9.73511 μm	 yshift =1.38855 μm	 
+
+FW Point-4 Shift
+xshift= 17.2653 μm	 yshift =0.732422 μm	 
+
+CE Point-1 Shift
+xshift= -12.4588 μm	 yshift =8.28552 μm	 
+
+CE Point-2 Shift
+xshift= 7.59888 μm	 yshift =8.60977 μm	 
+
+CE Point-3 Shift
+xshift= 10.9406 μm	 yshift =-3.72696 μm	 
+
+CE Point-4 Shift
+xshift= -12.4359 μm	 yshift =-5.84412 μm	 
+
+BW Point-1 Shift
+xshift= 27.8969 μm	 yshift =4.4136 μm	 
+
+BW Point-2 Shift
+xshift= 49.9268 μm	 yshift =4.3869 μm	 
+
+BW Point-3 Shift
+xshift= 53.0548 μm	 yshift =-8.94165 μm	 
+
+BW Point-4 Shift
+xshift= 26.947 μm	 yshift =-9.9411 μm	 
+
+
+
+Shifts of F-marks (after assembly)
+
+FW Point-1 Shift
+xshift= -405.315 μm	 yshift =846.375 μm	 zshift =-0.360489 μm
+
+FW Point-2 Shift
+xshift= -221.607 μm	 yshift =889.603 μm	 zshift =120.39 μm
+
+FW Point-3 Shift
+xshift= -219.635 μm	 yshift =789.307 μm	 zshift =75.5768 μm
+
+FW Point-4 Shift
+xshift= -404.358 μm	 yshift =848.785 μm	 zshift =207.63 μm
+
+CE Point-1 Shift
+xshift= 17.7078 μm	 yshift =28.7476 μm	 zshift =23.035 μm
+
+CE Point-2 Shift
+xshift= 40.7867 μm	 yshift =29.7432 μm	 zshift =127.728 μm
+
+CE Point-3 Shift
+xshift= 40.4358 μm	 yshift =17.1776 μm	 zshift =187.132 μm
+
+CE Point-4 Shift
+xshift= 17.1051 μm	 yshift =17.3492 μm	 zshift =61.7905 μm
+
+BW Point-1 Shift
+xshift= 25.9323 μm	 yshift =-111.019 μm	 zshift =104.7 μm
+
+BW Point-2 Shift
+xshift= 38.4521 μm	 yshift =-110.703 μm	 zshift =39.6652 μm
+
+BW Point-3 Shift
+xshift= 39.9246 μm	 yshift =-121.445 μm	 zshift =-3.16811 μm
+
+BW Point-4 Shift
+xshift= 26.8097 μm	 yshift =-118.443 μm	 zshift =84.837 μm
+
+
+
+

@@ -1,0 +1,22 @@
+Iter 1:
+
+FW
+
+Correct Transformed values 2
+Tilt angle(degrees) = -0.137687 +/- 0.00380224
+Slant angle(degrees) = -11.937 +/- 0.00175267
+parB = -0.0024031
+parA = -0.211407
+
+
+
+
+Iter 2:
+
+Correct Transformed values 2
+Tilt angle(degrees) = -0.137129 +/- 0.00326113
+Slant angle(degrees) = -11.9348 +/- 0.00150198
+parB = -0.00239336
+parA = -0.211367
+
+

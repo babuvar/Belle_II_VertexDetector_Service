@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for i in  KOK FWRand CERand BWRand FW_F CE_F BW_F
+do
+
+ssconvert $i.xlsx $i.csv
+sed 's/,/\t/g' <$i.csv >$i
+rm $i.csv
+
+done
+
+root -l cmm_forScript.cpp > Results.txt
+
